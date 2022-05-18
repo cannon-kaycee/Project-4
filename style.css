@@ -5,3 +5,56 @@ h1{
       }
 
 
+      .navbar{
+        background-color:goldenrod;
+    }
+    
+    body{
+        background-color: whitesmoke;
+    }
+    
+    .navbar-brand{
+        color:black;
+    }
+    
+    h1{
+        margin: 50px;
+    }
+    
+    .dropdown-item{
+     position: relative;
+     background-color: #F9F9F9;
+     min-width: 100px;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     z-index: 1;
+     float: auto;
+     color: black;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+     text-align: left;
+     margin-right:100px;
+    }
+    
+    h2{
+        text-align:center;
+    }
+    
+    .col{
+        display: grid;
+        place-items: center;
+        margin-top:25px;
+        margin-bottom: 25px;
+    }
+    
+    html {
+        height: 100%;
+      }
+      body {
+        min-height: 100%;
+      }
+    
+      p{
+        margin-left: 52px;
+    }
+    
