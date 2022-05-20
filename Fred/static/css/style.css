@@ -1,0 +1,65 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Set map, body, and html to 100% of the screen size. */
+#map,
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.legend {
+  padding: 15px;
+  font-family: Helvetica, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 25px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend .all-residential {
+  color: #FF69B4
+  ;
+}
+
+.legend .townhouse {
+  color: #8b0000 ;
+}
+
+.legend .condo-coop {
+  color: #00008B;
+}
+
+.legend .multi-family {
+  color: #ff8c00;
+}
+
+.legend .single-family {
+  color: #039c4b ;
+}
+
+.popupCustom .leaflet-popup-content-wrapper {
+  background:#2c3e50;
+  color:#fff;
+  font-size:18px;
+  line-height:24px;
+  font-family: Helvetica, serif;
+  }
+.popupCustom .leaflet-popup-content-wrapper a {
+  color:rgba(255,255,255,0.5);
+  }
+.popupCustom .leaflet-popup-tip-container {
+  width:30px;
+  height:15px;
+  }
+.popupCustom .leaflet-popup-tip {
+  border-left:15px solid transparent;
+  border-right:15px solid transparent;
+  border-top:15px solid #2c3e50;
+  }

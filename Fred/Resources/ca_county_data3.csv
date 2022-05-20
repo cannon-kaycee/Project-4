@@ -1,0 +1,2063 @@
+,Year,County,Property_type,mean_inventory,Median_sales_price,county_ascii,lat,lng
+0,2012,Alameda,All Residential,2092.5,385533.33,Alameda,37.6469,-121.8889
+1,2012,Alameda,Condo/Co-op,333.91,247647.73,Alameda,37.6469,-121.8889
+2,2012,Alameda,Multi-Family (2-4 Unit),176.18,347172.73,Alameda,37.6469,-121.8889
+3,2012,Alameda,Single Family Residential,1632,479090.91,Alameda,37.6469,-121.8889
+4,2012,Alameda,Townhouse,140.64,356954.55,Alameda,37.6469,-121.8889
+5,2013,Alameda,All Residential,1772.64,550090.91,Alameda,37.6469,-121.8889
+6,2013,Alameda,Condo/Co-op,233.36,369113.64,Alameda,37.6469,-121.8889
+7,2013,Alameda,Multi-Family (2-4 Unit),231.55,497181.82,Alameda,37.6469,-121.8889
+8,2013,Alameda,Single Family Residential,1204.18,619313.64,Alameda,37.6469,-121.8889
+9,2013,Alameda,Townhouse,103.55,463966.36,Alameda,37.6469,-121.8889
+10,2014,Alameda,All Residential,1929.82,628795.45,Alameda,37.6469,-121.8889
+11,2014,Alameda,Condo/Co-op,264.91,431386.36,Alameda,37.6469,-121.8889
+12,2014,Alameda,Multi-Family (2-4 Unit),250.64,609772.73,Alameda,37.6469,-121.8889
+13,2014,Alameda,Single Family Residential,1290,702468.18,Alameda,37.6469,-121.8889
+14,2014,Alameda,Townhouse,124.27,541890.91,Alameda,37.6469,-121.8889
+15,2015,Alameda,All Residential,1652.09,695500,Alameda,37.6469,-121.8889
+16,2015,Alameda,Condo/Co-op,191.64,481977.27,Alameda,37.6469,-121.8889
+17,2015,Alameda,Multi-Family (2-4 Unit),206.18,664804.55,Alameda,37.6469,-121.8889
+18,2015,Alameda,Single Family Residential,1161.55,777181.82,Alameda,37.6469,-121.8889
+19,2015,Alameda,Townhouse,92.73,592432.73,Alameda,37.6469,-121.8889
+20,2016,Alameda,All Residential,1647.18,752929.55,Alameda,37.6469,-121.8889
+21,2016,Alameda,Condo/Co-op,207.36,542727.27,Alameda,37.6469,-121.8889
+22,2016,Alameda,Multi-Family (2-4 Unit),177,767409.09,Alameda,37.6469,-121.8889
+23,2016,Alameda,Single Family Residential,1160.18,831761.55,Alameda,37.6469,-121.8889
+24,2016,Alameda,Townhouse,102.64,660681.82,Alameda,37.6469,-121.8889
+25,2017,Alameda,All Residential,1352.55,828759.09,Alameda,37.6469,-121.8889
+26,2017,Alameda,Condo/Co-op,181.91,593545.45,Alameda,37.6469,-121.8889
+27,2017,Alameda,Multi-Family (2-4 Unit),155.73,871140.91,Alameda,37.6469,-121.8889
+28,2017,Alameda,Single Family Residential,941.64,918618.18,Alameda,37.6469,-121.8889
+29,2017,Alameda,Townhouse,73.27,712554.09,Alameda,37.6469,-121.8889
+30,2018,Alameda,All Residential,1593.27,904454.55,Alameda,37.6469,-121.8889
+31,2018,Alameda,Condo/Co-op,226.73,666522.73,Alameda,37.6469,-121.8889
+32,2018,Alameda,Multi-Family (2-4 Unit),184.45,939873.64,Alameda,37.6469,-121.8889
+33,2018,Alameda,Single Family Residential,1077.36,1000053,Alameda,37.6469,-121.8889
+34,2018,Alameda,Townhouse,104.73,796795.45,Alameda,37.6469,-121.8889
+35,2019,Alameda,All Residential,1811.09,903340.91,Alameda,37.6469,-121.8889
+36,2019,Alameda,Condo/Co-op,305.36,634818.18,Alameda,37.6469,-121.8889
+37,2019,Alameda,Multi-Family (2-4 Unit),153.64,1005722.73,Alameda,37.6469,-121.8889
+38,2019,Alameda,Single Family Residential,1172.82,988590.91,Alameda,37.6469,-121.8889
+39,2019,Alameda,Townhouse,179.27,778023.41,Alameda,37.6469,-121.8889
+40,2020,Alameda,All Residential,1419,962045.45,Alameda,37.6469,-121.8889
+41,2020,Alameda,Condo/Co-op,353.73,670181.82,Alameda,37.6469,-121.8889
+42,2020,Alameda,Multi-Family (2-4 Unit),143.64,1070454.55,Alameda,37.6469,-121.8889
+43,2020,Alameda,Single Family Residential,818.45,1074568.18,Alameda,37.6469,-121.8889
+44,2020,Alameda,Townhouse,103.18,807772.73,Alameda,37.6469,-121.8889
+45,2021,Alameda,All Residential,1256.36,1132022.73,Alameda,37.6469,-121.8889
+46,2021,Alameda,Condo/Co-op,325.09,702318.18,Alameda,37.6469,-121.8889
+47,2021,Alameda,Multi-Family (2-4 Unit),165.64,1159250,Alameda,37.6469,-121.8889
+48,2021,Alameda,Single Family Residential,693.09,1331863.64,Alameda,37.6469,-121.8889
+49,2021,Alameda,Townhouse,72.55,928568.18,Alameda,37.6469,-121.8889
+50,2022,Alameda,All Residential,1599,2112500,Alameda,37.6469,-121.8889
+51,2022,Alameda,Condo/Co-op,443,1270000,Alameda,37.6469,-121.8889
+52,2022,Alameda,Multi-Family (2-4 Unit),232,2285000,Alameda,37.6469,-121.8889
+53,2022,Alameda,Single Family Residential,840,2538000,Alameda,37.6469,-121.8889
+54,2022,Alameda,Townhouse,84,1828750,Alameda,37.6469,-121.8889
+55,2012,Alpine,All Residential,9.75,314750,Alpine,38.5972,-119.8207
+56,2012,Alpine,Single Family Residential,9.75,314750,Alpine,38.5972,-119.8207
+57,2013,Alpine,All Residential,8.88,295437.5,Alpine,38.5972,-119.8207
+58,2013,Alpine,Single Family Residential,8.88,295437.5,Alpine,38.5972,-119.8207
+59,2014,Alpine,All Residential,10.14,501785.71,Alpine,38.5972,-119.8207
+60,2014,Alpine,Condo/Co-op,0,400000,Alpine,38.5972,-119.8207
+61,2014,Alpine,Single Family Residential,10,494285.71,Alpine,38.5972,-119.8207
+62,2015,Alpine,All Residential,21,482936.43,Alpine,38.5972,-119.8207
+63,2015,Alpine,Multi-Family (2-4 Unit),0,150000,Alpine,38.5972,-119.8207
+64,2015,Alpine,Single Family Residential,20.86,654365,Alpine,38.5972,-119.8207
+65,2016,Alpine,All Residential,11.38,437212.5,Alpine,38.5972,-119.8207
+66,2016,Alpine,Single Family Residential,11.38,437212.5,Alpine,38.5972,-119.8207
+67,2017,Alpine,All Residential,10.6,416160,Alpine,38.5972,-119.8207
+68,2017,Alpine,Single Family Residential,10.6,416160,Alpine,38.5972,-119.8207
+69,2018,Alpine,All Residential,11,509671.43,Alpine,38.5972,-119.8207
+70,2018,Alpine,Single Family Residential,9.86,509671.43,Alpine,38.5972,-119.8207
+71,2019,Alpine,All Residential,13.83,445750,Alpine,38.5972,-119.8207
+72,2019,Alpine,Condo/Co-op,1,307500,Alpine,38.5972,-119.8207
+73,2019,Alpine,Single Family Residential,12,445958.33,Alpine,38.5972,-119.8207
+74,2020,Alpine,All Residential,10.88,482368.75,Alpine,38.5972,-119.8207
+75,2020,Alpine,Multi-Family (2-4 Unit),0,260000,Alpine,38.5972,-119.8207
+76,2020,Alpine,Single Family Residential,5.86,514135.71,Alpine,38.5972,-119.8207
+77,2021,Alpine,All Residential,19.9,598500,Alpine,38.5972,-119.8207
+78,2021,Alpine,Condo/Co-op,12.83,361275,Alpine,38.5972,-119.8207
+79,2021,Alpine,Single Family Residential,9,655777.78,Alpine,38.5972,-119.8207
+80,2022,Alpine,All Residential,32,494000,Alpine,38.5972,-119.8207
+81,2022,Alpine,Condo/Co-op,20,274000,Alpine,38.5972,-119.8207
+82,2022,Alpine,Single Family Residential,5,1237500,Alpine,38.5972,-119.8207
+83,2012,Amador,All Residential,225.45,176127.27,Amador,38.4464,-120.6511
+84,2012,Amador,Condo/Co-op,2,1092500,Amador,38.4464,-120.6511
+85,2012,Amador,Single Family Residential,221.09,176472.73,Amador,38.4464,-120.6511
+86,2012,Amador,Townhouse,2,173250,Amador,38.4464,-120.6511
+87,2013,Amador,All Residential,110,215763.64,Amador,38.4464,-120.6511
+88,2013,Amador,Multi-Family (2-4 Unit),1.67,308833.33,Amador,38.4464,-120.6511
+89,2013,Amador,Single Family Residential,107.91,215835.64,Amador,38.4464,-120.6511
+90,2013,Amador,Townhouse,1,233500,Amador,38.4464,-120.6511
+91,2014,Amador,All Residential,133.27,234487.23,Amador,38.4464,-120.6511
+92,2014,Amador,Condo/Co-op,0.75,149850,Amador,38.4464,-120.6511
+93,2014,Amador,Multi-Family (2-4 Unit),0.6,221680,Amador,38.4464,-120.6511
+94,2014,Amador,Single Family Residential,131.73,234528.14,Amador,38.4464,-120.6511
+95,2014,Amador,Townhouse,0,240000,Amador,38.4464,-120.6511
+96,2015,Amador,All Residential,128.09,266830.05,Amador,38.4464,-120.6511
+97,2015,Amador,Condo/Co-op,2.75,157312.5,Amador,38.4464,-120.6511
+98,2015,Amador,Multi-Family (2-4 Unit),1.33,325033.33,Amador,38.4464,-120.6511
+99,2015,Amador,Single Family Residential,124.55,267675.5,Amador,38.4464,-120.6511
+100,2016,Amador,All Residential,141.91,286536.36,Amador,38.4464,-120.6511
+101,2016,Amador,Condo/Co-op,2,303575,Amador,38.4464,-120.6511
+102,2016,Amador,Multi-Family (2-4 Unit),2,395923.79,Amador,38.4464,-120.6511
+103,2016,Amador,Single Family Residential,139,287050,Amador,38.4464,-120.6511
+104,2016,Amador,Townhouse,0,235000,Amador,38.4464,-120.6511
+105,2017,Amador,All Residential,170.91,328231.82,Amador,38.4464,-120.6511
+106,2017,Amador,Condo/Co-op,2,388750,Amador,38.4464,-120.6511
+107,2017,Amador,Multi-Family (2-4 Unit),0.67,392666.67,Amador,38.4464,-120.6511
+108,2017,Amador,Single Family Residential,168.73,327854.55,Amador,38.4464,-120.6511
+109,2018,Amador,All Residential,241.82,352804.55,Amador,38.4464,-120.6511
+110,2018,Amador,Condo/Co-op,4.5,310750,Amador,38.4464,-120.6511
+111,2018,Amador,Multi-Family (2-4 Unit),3.5,510000,Amador,38.4464,-120.6511
+112,2018,Amador,Single Family Residential,236.55,354695.45,Amador,38.4464,-120.6511
+113,2018,Amador,Townhouse,0,370000,Amador,38.4464,-120.6511
+114,2019,Amador,All Residential,303.09,354350,Amador,38.4464,-120.6511
+115,2019,Amador,Condo/Co-op,1,588250,Amador,38.4464,-120.6511
+116,2019,Amador,Multi-Family (2-4 Unit),6,1125000,Amador,38.4464,-120.6511
+117,2019,Amador,Single Family Residential,297.73,355213.64,Amador,38.4464,-120.6511
+118,2019,Amador,Townhouse,1,370000,Amador,38.4464,-120.6511
+119,2020,Amador,All Residential,216.73,377818.18,Amador,38.4464,-120.6511
+120,2020,Amador,Condo/Co-op,0.83,436166.67,Amador,38.4464,-120.6511
+121,2020,Amador,Multi-Family (2-4 Unit),5,547250,Amador,38.4464,-120.6511
+122,2020,Amador,Single Family Residential,210.64,377727.27,Amador,38.4464,-120.6511
+123,2020,Amador,Townhouse,0,350000,Amador,38.4464,-120.6511
+124,2021,Amador,All Residential,118.27,458525.41,Amador,38.4464,-120.6511
+125,2021,Amador,Condo/Co-op,3.2,413200,Amador,38.4464,-120.6511
+126,2021,Amador,Multi-Family (2-4 Unit),7.9,614245.5,Amador,38.4464,-120.6511
+127,2021,Amador,Single Family Residential,108.09,457979.95,Amador,38.4464,-120.6511
+128,2022,Amador,All Residential,139,843000,Amador,38.4464,-120.6511
+129,2022,Amador,Condo/Co-op,3,374900,Amador,38.4464,-120.6511
+130,2022,Amador,Multi-Family (2-4 Unit),4,537727,Amador,38.4464,-120.6511
+131,2022,Amador,Single Family Residential,126,846750,Amador,38.4464,-120.6511
+132,2012,Butte,All Residential,572.27,191422.64,Butte,39.6669,-121.6007
+133,2012,Butte,Condo/Co-op,24.18,114763.64,Butte,39.6669,-121.6007
+134,2012,Butte,Multi-Family (2-4 Unit),22.64,193405.36,Butte,39.6669,-121.6007
+135,2012,Butte,Single Family Residential,524.73,195331.82,Butte,39.6669,-121.6007
+136,2012,Butte,Townhouse,0.4,165350,Butte,39.6669,-121.6007
+137,2013,Butte,All Residential,493.64,231159.09,Butte,39.6669,-121.6007
+138,2013,Butte,Condo/Co-op,18.91,136727.27,Butte,39.6669,-121.6007
+139,2013,Butte,Multi-Family (2-4 Unit),15.91,236011.32,Butte,39.6669,-121.6007
+140,2013,Butte,Single Family Residential,457.91,236664.55,Butte,39.6669,-121.6007
+141,2013,Butte,Townhouse,0.75,197375,Butte,39.6669,-121.6007
+142,2014,Butte,All Residential,583,243318.18,Butte,39.6669,-121.6007
+143,2014,Butte,Condo/Co-op,15,141113.64,Butte,39.6669,-121.6007
+144,2014,Butte,Multi-Family (2-4 Unit),24.82,280290.91,Butte,39.6669,-121.6007
+145,2014,Butte,Single Family Residential,542.36,247186.36,Butte,39.6669,-121.6007
+146,2014,Butte,Townhouse,2.5,221550,Butte,39.6669,-121.6007
+147,2015,Butte,All Residential,615.55,263886.36,Butte,39.6669,-121.6007
+148,2015,Butte,Condo/Co-op,20.64,158500,Butte,39.6669,-121.6007
+149,2015,Butte,Multi-Family (2-4 Unit),35.8,271650,Butte,39.6669,-121.6007
+150,2015,Butte,Single Family Residential,558.64,265477.27,Butte,39.6669,-121.6007
+151,2015,Butte,Townhouse,0.5,270000,Butte,39.6669,-121.6007
+152,2016,Butte,All Residential,688.36,285376.05,Butte,39.6669,-121.6007
+153,2016,Butte,Condo/Co-op,21.18,156181.82,Butte,39.6669,-121.6007
+154,2016,Butte,Multi-Family (2-4 Unit),24.09,312709.09,Butte,39.6669,-121.6007
+155,2016,Butte,Single Family Residential,641.91,289542.73,Butte,39.6669,-121.6007
+156,2016,Butte,Townhouse,1,205500,Butte,39.6669,-121.6007
+157,2017,Butte,All Residential,596.18,306688.82,Butte,39.6669,-121.6007
+158,2017,Butte,Condo/Co-op,18.64,186477.27,Butte,39.6669,-121.6007
+159,2017,Butte,Multi-Family (2-4 Unit),20.73,371852.27,Butte,39.6669,-121.6007
+160,2017,Butte,Single Family Residential,553.82,310209.09,Butte,39.6669,-121.6007
+161,2017,Butte,Townhouse,3.12,274406.25,Butte,39.6669,-121.6007
+162,2018,Butte,All Residential,687.82,325560.86,Butte,39.6669,-121.6007
+163,2018,Butte,Condo/Co-op,18,179636.36,Butte,39.6669,-121.6007
+164,2018,Butte,Multi-Family (2-4 Unit),25.09,374000,Butte,39.6669,-121.6007
+165,2018,Butte,Single Family Residential,643.27,330124.91,Butte,39.6669,-121.6007
+166,2018,Butte,Townhouse,1.8,243230,Butte,39.6669,-121.6007
+167,2019,Butte,All Residential,646.27,370913.32,Butte,39.6669,-121.6007
+168,2019,Butte,Condo/Co-op,15.18,229245.45,Butte,39.6669,-121.6007
+169,2019,Butte,Multi-Family (2-4 Unit),30.64,419636.36,Butte,39.6669,-121.6007
+170,2019,Butte,Single Family Residential,597.18,375795.45,Butte,39.6669,-121.6007
+171,2019,Butte,Townhouse,3.25,276500,Butte,39.6669,-121.6007
+172,2020,Butte,All Residential,435.27,394100.55,Butte,39.6669,-121.6007
+173,2020,Butte,Condo/Co-op,9.91,210977.27,Butte,39.6669,-121.6007
+174,2020,Butte,Multi-Family (2-4 Unit),26.45,411863.64,Butte,39.6669,-121.6007
+175,2020,Butte,Single Family Residential,397.55,399829.64,Butte,39.6669,-121.6007
+176,2020,Butte,Townhouse,1.6,331250,Butte,39.6669,-121.6007
+177,2021,Butte,All Residential,362,440977.27,Butte,39.6669,-121.6007
+178,2021,Butte,Condo/Co-op,8.55,253136.36,Butte,39.6669,-121.6007
+179,2021,Butte,Multi-Family (2-4 Unit),15.82,394136.36,Butte,39.6669,-121.6007
+180,2021,Butte,Single Family Residential,336.55,450181.82,Butte,39.6669,-121.6007
+181,2021,Butte,Townhouse,0.75,365812.5,Butte,39.6669,-121.6007
+182,2022,Butte,All Residential,510,847500,Butte,39.6669,-121.6007
+183,2022,Butte,Condo/Co-op,9,433000,Butte,39.6669,-121.6007
+184,2022,Butte,Multi-Family (2-4 Unit),30,597500,Butte,39.6669,-121.6007
+185,2022,Butte,Single Family Residential,470,865000,Butte,39.6669,-121.6007
+186,2022,Butte,Townhouse,0,245000,Butte,39.6669,-121.6007
+187,2012,Calaveras,All Residential,18.18,200016.5,Calaveras,38.2046,-120.5541
+188,2012,Calaveras,Multi-Family (2-4 Unit),0,8000,Calaveras,38.2046,-120.5541
+189,2012,Calaveras,Single Family Residential,18,199698.32,Calaveras,38.2046,-120.5541
+190,2012,Calaveras,Townhouse,0,212000,Calaveras,38.2046,-120.5541
+191,2013,Calaveras,All Residential,23.09,283459.41,Calaveras,38.2046,-120.5541
+192,2013,Calaveras,Condo/Co-op,1,114000,Calaveras,38.2046,-120.5541
+193,2013,Calaveras,Single Family Residential,21.91,286186.68,Calaveras,38.2046,-120.5541
+194,2014,Calaveras,All Residential,13.57,299142.86,Calaveras,38.2046,-120.5541
+195,2014,Calaveras,Condo/Co-op,1,374989,Calaveras,38.2046,-120.5541
+196,2014,Calaveras,Single Family Residential,12.57,305785.71,Calaveras,38.2046,-120.5541
+197,2015,Calaveras,All Residential,15.22,429933.83,Calaveras,38.2046,-120.5541
+198,2015,Calaveras,Single Family Residential,13.78,429933.83,Calaveras,38.2046,-120.5541
+199,2016,Calaveras,All Residential,13.6,452745.4,Calaveras,38.2046,-120.5541
+200,2016,Calaveras,Condo/Co-op,0,240000,Calaveras,38.2046,-120.5541
+201,2016,Calaveras,Single Family Residential,12.6,459750.4,Calaveras,38.2046,-120.5541
+202,2017,Calaveras,All Residential,15.2,395650,Calaveras,38.2046,-120.5541
+203,2017,Calaveras,Single Family Residential,15.2,395650,Calaveras,38.2046,-120.5541
+204,2018,Calaveras,All Residential,23.09,509777.27,Calaveras,38.2046,-120.5541
+205,2018,Calaveras,Multi-Family (2-4 Unit),0,850000,Calaveras,38.2046,-120.5541
+206,2018,Calaveras,Single Family Residential,22.64,504777.27,Calaveras,38.2046,-120.5541
+207,2019,Calaveras,All Residential,22.55,383431.82,Calaveras,38.2046,-120.5541
+208,2019,Calaveras,Condo/Co-op,0,334719,Calaveras,38.2046,-120.5541
+209,2019,Calaveras,Single Family Residential,22,390250,Calaveras,38.2046,-120.5541
+210,2019,Calaveras,Townhouse,0,209000,Calaveras,38.2046,-120.5541
+211,2020,Calaveras,All Residential,152.82,388022.73,Calaveras,38.2046,-120.5541
+212,2020,Calaveras,Condo/Co-op,2.6,285200,Calaveras,38.2046,-120.5541
+213,2020,Calaveras,Multi-Family (2-4 Unit),4,725000,Calaveras,38.2046,-120.5541
+214,2020,Calaveras,Single Family Residential,147.82,389295.45,Calaveras,38.2046,-120.5541
+215,2020,Calaveras,Townhouse,1,570000,Calaveras,38.2046,-120.5541
+216,2021,Calaveras,All Residential,108.45,487568.18,Calaveras,38.2046,-120.5541
+217,2021,Calaveras,Condo/Co-op,1.6,365550,Calaveras,38.2046,-120.5541
+218,2021,Calaveras,Multi-Family (2-4 Unit),6.14,649071.43,Calaveras,38.2046,-120.5541
+219,2021,Calaveras,Single Family Residential,99.27,490954.55,Calaveras,38.2046,-120.5541
+220,2021,Calaveras,Townhouse,1.5,389750,Calaveras,38.2046,-120.5541
+221,2022,Calaveras,All Residential,169,936999.5,Calaveras,38.2046,-120.5541
+222,2022,Calaveras,Multi-Family (2-4 Unit),5,355000,Calaveras,38.2046,-120.5541
+223,2022,Calaveras,Single Family Residential,159,940500,Calaveras,38.2046,-120.5541
+224,2012,Colusa,All Residential,4.91,175000,Colusa,39.1775,-122.237
+225,2012,Colusa,Multi-Family (2-4 Unit),0,120000,Colusa,39.1775,-122.237
+226,2012,Colusa,Single Family Residential,4.82,176931.82,Colusa,39.1775,-122.237
+227,2013,Colusa,All Residential,3.91,200024.55,Colusa,39.1775,-122.237
+228,2013,Colusa,Single Family Residential,2.91,200024.55,Colusa,39.1775,-122.237
+229,2014,Colusa,All Residential,0.91,241007.91,Colusa,39.1775,-122.237
+230,2014,Colusa,Multi-Family (2-4 Unit),0,152500,Colusa,39.1775,-122.237
+231,2014,Colusa,Single Family Residential,0.91,241130.64,Colusa,39.1775,-122.237
+232,2015,Colusa,All Residential,2.18,239207.55,Colusa,39.1775,-122.237
+233,2015,Colusa,Multi-Family (2-4 Unit),0,442000,Colusa,39.1775,-122.237
+234,2015,Colusa,Single Family Residential,2.18,234298.45,Colusa,39.1775,-122.237
+235,2016,Colusa,All Residential,11.27,348100,Colusa,39.1775,-122.237
+236,2016,Colusa,Multi-Family (2-4 Unit),1.67,400000,Colusa,39.1775,-122.237
+237,2016,Colusa,Single Family Residential,9.73,338100,Colusa,39.1775,-122.237
+238,2017,Colusa,All Residential,4.82,318227.27,Colusa,39.1775,-122.237
+239,2017,Colusa,Multi-Family (2-4 Unit),0,750000,Colusa,39.1775,-122.237
+240,2017,Colusa,Single Family Residential,4.82,318227.27,Colusa,39.1775,-122.237
+241,2018,Colusa,All Residential,1.64,322422.73,Colusa,39.1775,-122.237
+242,2018,Colusa,Multi-Family (2-4 Unit),0,485000,Colusa,39.1775,-122.237
+243,2018,Colusa,Single Family Residential,1.64,323240.91,Colusa,39.1775,-122.237
+244,2019,Colusa,All Residential,0.91,337863.64,Colusa,39.1775,-122.237
+245,2019,Colusa,Condo/Co-op,0,270000,Colusa,39.1775,-122.237
+246,2019,Colusa,Multi-Family (2-4 Unit),0,435833.33,Colusa,39.1775,-122.237
+247,2019,Colusa,Single Family Residential,0.91,336318.18,Colusa,39.1775,-122.237
+248,2020,Colusa,All Residential,0.55,364904.55,Colusa,39.1775,-122.237
+249,2020,Colusa,Multi-Family (2-4 Unit),0,546000,Colusa,39.1775,-122.237
+250,2020,Colusa,Single Family Residential,0.55,364909.09,Colusa,39.1775,-122.237
+251,2021,Colusa,All Residential,13.27,398704.55,Colusa,39.1775,-122.237
+252,2021,Colusa,Multi-Family (2-4 Unit),4,651178.57,Colusa,39.1775,-122.237
+253,2021,Colusa,Single Family Residential,9.91,403500,Colusa,39.1775,-122.237
+254,2021,Colusa,Townhouse,0,322500,Colusa,39.1775,-122.237
+255,2022,Colusa,All Residential,29,812500,Colusa,39.1775,-122.237
+256,2022,Colusa,Multi-Family (2-4 Unit),5,1114000,Colusa,39.1775,-122.237
+257,2022,Colusa,Single Family Residential,23,815000,Colusa,39.1775,-122.237
+258,2012,Contra Costa,All Residential,2097.64,332454.55,Contra Costa,37.9191,-121.9278
+259,2012,Contra Costa,Condo/Co-op,215.45,186109.09,Contra Costa,37.9191,-121.9278
+260,2012,Contra Costa,Multi-Family (2-4 Unit),45.73,248490.91,Contra Costa,37.9191,-121.9278
+261,2012,Contra Costa,Single Family Residential,1723.91,358363.64,Contra Costa,37.9191,-121.9278
+262,2012,Contra Costa,Townhouse,112.55,345081.82,Contra Costa,37.9191,-121.9278
+263,2013,Contra Costa,All Residential,1683,448364.77,Contra Costa,37.9191,-121.9278
+264,2013,Contra Costa,Condo/Co-op,171.09,260272.73,Contra Costa,37.9191,-121.9278
+265,2013,Contra Costa,Multi-Family (2-4 Unit),57.73,379272.73,Contra Costa,37.9191,-121.9278
+266,2013,Contra Costa,Single Family Residential,1363.36,487431.82,Contra Costa,37.9191,-121.9278
+267,2013,Contra Costa,Townhouse,90.82,478422.73,Contra Costa,37.9191,-121.9278
+268,2014,Contra Costa,All Residential,2080.73,493466.82,Contra Costa,37.9191,-121.9278
+269,2014,Contra Costa,Condo/Co-op,246,335782.95,Contra Costa,37.9191,-121.9278
+270,2014,Contra Costa,Multi-Family (2-4 Unit),72,465437.95,Contra Costa,37.9191,-121.9278
+271,2014,Contra Costa,Single Family Residential,1645.36,532272.73,Contra Costa,37.9191,-121.9278
+272,2014,Contra Costa,Townhouse,117.36,512977.27,Contra Costa,37.9191,-121.9278
+273,2015,Contra Costa,All Residential,1930.91,533891.82,Contra Costa,37.9191,-121.9278
+274,2015,Contra Costa,Condo/Co-op,194.55,369318.18,Contra Costa,37.9191,-121.9278
+275,2015,Contra Costa,Multi-Family (2-4 Unit),63.82,502250,Contra Costa,37.9191,-121.9278
+276,2015,Contra Costa,Single Family Residential,1583.55,567090.91,Contra Costa,37.9191,-121.9278
+277,2015,Contra Costa,Townhouse,89,558954.55,Contra Costa,37.9191,-121.9278
+278,2016,Contra Costa,All Residential,1857.18,573649.86,Contra Costa,37.9191,-121.9278
+279,2016,Contra Costa,Condo/Co-op,220.64,396795.45,Contra Costa,37.9191,-121.9278
+280,2016,Contra Costa,Multi-Family (2-4 Unit),51.64,559000,Contra Costa,37.9191,-121.9278
+281,2016,Contra Costa,Single Family Residential,1498.09,608151.36,Contra Costa,37.9191,-121.9278
+282,2016,Contra Costa,Townhouse,86.82,608954.55,Contra Costa,37.9191,-121.9278
+283,2017,Contra Costa,All Residential,1564.55,624160.27,Contra Costa,37.9191,-121.9278
+284,2017,Contra Costa,Condo/Co-op,184.27,434386.36,Contra Costa,37.9191,-121.9278
+285,2017,Contra Costa,Multi-Family (2-4 Unit),32.09,568886.36,Contra Costa,37.9191,-121.9278
+286,2017,Contra Costa,Single Family Residential,1280.91,664490.91,Contra Costa,37.9191,-121.9278
+287,2017,Contra Costa,Townhouse,67.27,644704.55,Contra Costa,37.9191,-121.9278
+288,2018,Contra Costa,All Residential,1797,669727.27,Contra Costa,37.9191,-121.9278
+289,2018,Contra Costa,Condo/Co-op,206.55,473727.27,Contra Costa,37.9191,-121.9278
+290,2018,Contra Costa,Multi-Family (2-4 Unit),37.82,751735.18,Contra Costa,37.9191,-121.9278
+291,2018,Contra Costa,Single Family Residential,1461.27,706055.27,Contra Costa,37.9191,-121.9278
+292,2018,Contra Costa,Townhouse,91.36,680500,Contra Costa,37.9191,-121.9278
+293,2019,Contra Costa,All Residential,2001.64,678090.91,Contra Costa,37.9191,-121.9278
+294,2019,Contra Costa,Condo/Co-op,283.45,470090.91,Contra Costa,37.9191,-121.9278
+295,2019,Contra Costa,Multi-Family (2-4 Unit),37,735181.82,Contra Costa,37.9191,-121.9278
+296,2019,Contra Costa,Single Family Residential,1560,718568.18,Contra Costa,37.9191,-121.9278
+297,2019,Contra Costa,Townhouse,121.18,652772.73,Contra Costa,37.9191,-121.9278
+298,2020,Contra Costa,All Residential,1411.36,742272.73,Contra Costa,37.9191,-121.9278
+299,2020,Contra Costa,Condo/Co-op,273.73,468227.27,Contra Costa,37.9191,-121.9278
+300,2020,Contra Costa,Multi-Family (2-4 Unit),32.27,783090.91,Contra Costa,37.9191,-121.9278
+301,2020,Contra Costa,Single Family Residential,1020.73,795340.91,Contra Costa,37.9191,-121.9278
+302,2020,Contra Costa,Townhouse,84.64,703719,Contra Costa,37.9191,-121.9278
+303,2021,Contra Costa,All Residential,1028.27,878977.27,Contra Costa,37.9191,-121.9278
+304,2021,Contra Costa,Condo/Co-op,195.36,522750,Contra Costa,37.9191,-121.9278
+305,2021,Contra Costa,Multi-Family (2-4 Unit),34.45,883318.18,Contra Costa,37.9191,-121.9278
+306,2021,Contra Costa,Single Family Residential,735.18,963045.45,Contra Costa,37.9191,-121.9278
+307,2021,Contra Costa,Townhouse,63.27,774818.18,Contra Costa,37.9191,-121.9278
+308,2022,Contra Costa,All Residential,1219,1566000,Contra Costa,37.9191,-121.9278
+309,2022,Contra Costa,Condo/Co-op,210,972500,Contra Costa,37.9191,-121.9278
+310,2022,Contra Costa,Multi-Family (2-4 Unit),45,1654000,Contra Costa,37.9191,-121.9278
+311,2022,Contra Costa,Single Family Residential,883,1725000,Contra Costa,37.9191,-121.9278
+312,2022,Contra Costa,Townhouse,81,1482500,Contra Costa,37.9191,-121.9278
+313,2012,El Dorado,All Residential,1155.18,287786.36,El Dorado,38.7787,-120.5247
+314,2012,El Dorado,Condo/Co-op,51.64,156192.18,El Dorado,38.7787,-120.5247
+315,2012,El Dorado,Multi-Family (2-4 Unit),27.91,208409.09,El Dorado,38.7787,-120.5247
+316,2012,El Dorado,Single Family Residential,1073.64,295363.64,El Dorado,38.7787,-120.5247
+317,2012,El Dorado,Townhouse,1.89,150177.78,El Dorado,38.7787,-120.5247
+318,2013,El Dorado,All Residential,1023.27,362304.55,El Dorado,38.7787,-120.5247
+319,2013,El Dorado,Condo/Co-op,47.27,227760.91,El Dorado,38.7787,-120.5247
+320,2013,El Dorado,Multi-Family (2-4 Unit),28.82,256027.27,El Dorado,38.7787,-120.5247
+321,2013,El Dorado,Single Family Residential,943.45,371681.82,El Dorado,38.7787,-120.5247
+322,2013,El Dorado,Townhouse,4,193800,El Dorado,38.7787,-120.5247
+323,2014,El Dorado,All Residential,1200.91,393750,El Dorado,38.7787,-120.5247
+324,2014,El Dorado,Condo/Co-op,57.64,244318.18,El Dorado,38.7787,-120.5247
+325,2014,El Dorado,Multi-Family (2-4 Unit),20.9,323800,El Dorado,38.7787,-120.5247
+326,2014,El Dorado,Single Family Residential,1120.82,404468.18,El Dorado,38.7787,-120.5247
+327,2014,El Dorado,Townhouse,0.8,209000,El Dorado,38.7787,-120.5247
+328,2015,El Dorado,All Residential,1214.55,425868.18,El Dorado,38.7787,-120.5247
+329,2015,El Dorado,Condo/Co-op,63.64,242336.36,El Dorado,38.7787,-120.5247
+330,2015,El Dorado,Multi-Family (2-4 Unit),25.64,373250,El Dorado,38.7787,-120.5247
+331,2015,El Dorado,Single Family Residential,1121.18,438936.36,El Dorado,38.7787,-120.5247
+332,2015,El Dorado,Townhouse,4,303375,El Dorado,38.7787,-120.5247
+333,2016,El Dorado,All Residential,1040.91,457022.73,El Dorado,38.7787,-120.5247
+334,2016,El Dorado,Condo/Co-op,46.73,277272.73,El Dorado,38.7787,-120.5247
+335,2016,El Dorado,Multi-Family (2-4 Unit),29.09,409545.45,El Dorado,38.7787,-120.5247
+336,2016,El Dorado,Single Family Residential,962.64,470504.55,El Dorado,38.7787,-120.5247
+337,2016,El Dorado,Townhouse,2.33,287041.67,El Dorado,38.7787,-120.5247
+338,2017,El Dorado,All Residential,972.55,493090.91,El Dorado,38.7787,-120.5247
+339,2017,El Dorado,Condo/Co-op,30.36,304463.64,El Dorado,38.7787,-120.5247
+340,2017,El Dorado,Multi-Family (2-4 Unit),22.6,404550,El Dorado,38.7787,-120.5247
+341,2017,El Dorado,Single Family Residential,918.55,503827.27,El Dorado,38.7787,-120.5247
+342,2017,El Dorado,Townhouse,1.71,286750,El Dorado,38.7787,-120.5247
+343,2018,El Dorado,All Residential,1020.45,530795.45,El Dorado,38.7787,-120.5247
+344,2018,El Dorado,Condo/Co-op,35.64,329406.82,El Dorado,38.7787,-120.5247
+345,2018,El Dorado,Multi-Family (2-4 Unit),21.73,499261.36,El Dorado,38.7787,-120.5247
+346,2018,El Dorado,Single Family Residential,959.09,541531.82,El Dorado,38.7787,-120.5247
+347,2018,El Dorado,Townhouse,4.14,369028.57,El Dorado,38.7787,-120.5247
+348,2019,El Dorado,All Residential,1225.27,538772.73,El Dorado,38.7787,-120.5247
+349,2019,El Dorado,Condo/Co-op,30.55,348409.09,El Dorado,38.7787,-120.5247
+350,2019,El Dorado,Multi-Family (2-4 Unit),25.73,450113.64,El Dorado,38.7787,-120.5247
+351,2019,El Dorado,Single Family Residential,1154.09,548409.09,El Dorado,38.7787,-120.5247
+352,2019,El Dorado,Townhouse,15.5,426750,El Dorado,38.7787,-120.5247
+353,2020,El Dorado,All Residential,768.27,569204.55,El Dorado,38.7787,-120.5247
+354,2020,El Dorado,Condo/Co-op,24.91,349545.45,El Dorado,38.7787,-120.5247
+355,2020,El Dorado,Multi-Family (2-4 Unit),23.64,560681.82,El Dorado,38.7787,-120.5247
+356,2020,El Dorado,Single Family Residential,710.73,581818.18,El Dorado,38.7787,-120.5247
+357,2020,El Dorado,Townhouse,8.78,525388.89,El Dorado,38.7787,-120.5247
+358,2021,El Dorado,All Residential,474.18,698045.45,El Dorado,38.7787,-120.5247
+359,2021,El Dorado,Condo/Co-op,8.55,379181.82,El Dorado,38.7787,-120.5247
+360,2021,El Dorado,Multi-Family (2-4 Unit),32.91,702431.82,El Dorado,38.7787,-120.5247
+361,2021,El Dorado,Single Family Residential,426.91,709281.82,El Dorado,38.7787,-120.5247
+362,2021,El Dorado,Townhouse,5.82,514340.91,El Dorado,38.7787,-120.5247
+363,2022,El Dorado,All Residential,564,1301000,El Dorado,38.7787,-120.5247
+364,2022,El Dorado,Condo/Co-op,6,805000,El Dorado,38.7787,-120.5247
+365,2022,El Dorado,Multi-Family (2-4 Unit),35,1250000,El Dorado,38.7787,-120.5247
+366,2022,El Dorado,Single Family Residential,517,1359000,El Dorado,38.7787,-120.5247
+367,2022,El Dorado,Townhouse,6,965000,El Dorado,38.7787,-120.5247
+368,2012,Fresno,All Residential,1762.73,161908.64,Fresno,36.7582,-119.6493
+369,2012,Fresno,Condo/Co-op,68.82,69813.64,Fresno,36.7582,-119.6493
+370,2012,Fresno,Multi-Family (2-4 Unit),37.82,149922.73,Fresno,36.7582,-119.6493
+371,2012,Fresno,Single Family Residential,1656.09,165204.55,Fresno,36.7582,-119.6493
+372,2012,Fresno,Townhouse,0,155000,Fresno,36.7582,-119.6493
+373,2013,Fresno,All Residential,1497.73,194613.64,Fresno,36.7582,-119.6493
+374,2013,Fresno,Condo/Co-op,69.45,100338,Fresno,36.7582,-119.6493
+375,2013,Fresno,Multi-Family (2-4 Unit),43,155845.36,Fresno,36.7582,-119.6493
+376,2013,Fresno,Single Family Residential,1385.27,199250,Fresno,36.7582,-119.6493
+377,2014,Fresno,All Residential,2218.18,219563.64,Fresno,36.7582,-119.6493
+378,2014,Fresno,Condo/Co-op,97.82,100136.36,Fresno,36.7582,-119.6493
+379,2014,Fresno,Multi-Family (2-4 Unit),72.73,186993.5,Fresno,36.7582,-119.6493
+380,2014,Fresno,Single Family Residential,2047.64,224850,Fresno,36.7582,-119.6493
+381,2015,Fresno,All Residential,2423.82,239431.82,Fresno,36.7582,-119.6493
+382,2015,Fresno,Condo/Co-op,121.73,119781.09,Fresno,36.7582,-119.6493
+383,2015,Fresno,Multi-Family (2-4 Unit),80.55,202090.91,Fresno,36.7582,-119.6493
+384,2015,Fresno,Single Family Residential,2221.55,244905,Fresno,36.7582,-119.6493
+385,2016,Fresno,All Residential,2004.55,250795.45,Fresno,36.7582,-119.6493
+386,2016,Fresno,Condo/Co-op,75.36,126268.18,Fresno,36.7582,-119.6493
+387,2016,Fresno,Multi-Family (2-4 Unit),64.45,209902.27,Fresno,36.7582,-119.6493
+388,2016,Fresno,Single Family Residential,1864.55,256613.64,Fresno,36.7582,-119.6493
+389,2016,Fresno,Townhouse,0,150000,Fresno,36.7582,-119.6493
+390,2017,Fresno,All Residential,1756.36,269290.45,Fresno,36.7582,-119.6493
+391,2017,Fresno,Condo/Co-op,73.18,148363.64,Fresno,36.7582,-119.6493
+392,2017,Fresno,Multi-Family (2-4 Unit),65.36,248681.77,Fresno,36.7582,-119.6493
+393,2017,Fresno,Single Family Residential,1617.82,274658.27,Fresno,36.7582,-119.6493
+394,2018,Fresno,All Residential,1850.09,288290.91,Fresno,36.7582,-119.6493
+395,2018,Fresno,Condo/Co-op,72.09,152522.73,Fresno,36.7582,-119.6493
+396,2018,Fresno,Multi-Family (2-4 Unit),57.27,279068.18,Fresno,36.7582,-119.6493
+397,2018,Fresno,Single Family Residential,1720.73,292585.45,Fresno,36.7582,-119.6493
+398,2018,Fresno,Townhouse,0,335000,Fresno,36.7582,-119.6493
+399,2019,Fresno,All Residential,1918.18,301616.55,Fresno,36.7582,-119.6493
+400,2019,Fresno,Condo/Co-op,88.64,174636.36,Fresno,36.7582,-119.6493
+401,2019,Fresno,Multi-Family (2-4 Unit),54.55,302272.73,Fresno,36.7582,-119.6493
+402,2019,Fresno,Single Family Residential,1775,306456.41,Fresno,36.7582,-119.6493
+403,2020,Fresno,All Residential,1166.27,331659.09,Fresno,36.7582,-119.6493
+404,2020,Fresno,Condo/Co-op,62.82,193204.55,Fresno,36.7582,-119.6493
+405,2020,Fresno,Multi-Family (2-4 Unit),50.09,334022.73,Fresno,36.7582,-119.6493
+406,2020,Fresno,Single Family Residential,1053.36,336314.55,Fresno,36.7582,-119.6493
+407,2021,Fresno,All Residential,828.82,390500,Fresno,36.7582,-119.6493
+408,2021,Fresno,Condo/Co-op,44.27,209181.82,Fresno,36.7582,-119.6493
+409,2021,Fresno,Multi-Family (2-4 Unit),36.27,381727.27,Fresno,36.7582,-119.6493
+410,2021,Fresno,Single Family Residential,747.82,398272.73,Fresno,36.7582,-119.6493
+411,2021,Fresno,Townhouse,1,717000,Fresno,36.7582,-119.6493
+412,2022,Fresno,All Residential,1075,775500,Fresno,36.7582,-119.6493
+413,2022,Fresno,Condo/Co-op,67,404500,Fresno,36.7582,-119.6493
+414,2022,Fresno,Multi-Family (2-4 Unit),48,632000,Fresno,36.7582,-119.6493
+415,2022,Fresno,Single Family Residential,960,792250,Fresno,36.7582,-119.6493
+416,2012,Glenn,All Residential,62.45,152940.86,Glenn,39.5982,-122.392
+417,2012,Glenn,Multi-Family (2-4 Unit),2,164783.33,Glenn,39.5982,-122.392
+418,2012,Glenn,Single Family Residential,60.82,156572.68,Glenn,39.5982,-122.392
+419,2013,Glenn,All Residential,49.55,150374.91,Glenn,39.5982,-122.392
+420,2013,Glenn,Multi-Family (2-4 Unit),3,208500,Glenn,39.5982,-122.392
+421,2013,Glenn,Single Family Residential,48.27,150579.45,Glenn,39.5982,-122.392
+422,2014,Glenn,All Residential,61.73,170745.91,Glenn,39.5982,-122.392
+423,2014,Glenn,Multi-Family (2-4 Unit),3.75,144025,Glenn,39.5982,-122.392
+424,2014,Glenn,Single Family Residential,57.91,169882.27,Glenn,39.5982,-122.392
+425,2015,Glenn,All Residential,61.18,210972.73,Glenn,39.5982,-122.392
+426,2015,Glenn,Condo/Co-op,0,165000,Glenn,39.5982,-122.392
+427,2015,Glenn,Multi-Family (2-4 Unit),7,445000,Glenn,39.5982,-122.392
+428,2015,Glenn,Single Family Residential,57.64,210695.45,Glenn,39.5982,-122.392
+429,2016,Glenn,All Residential,68.09,221403.32,Glenn,39.5982,-122.392
+430,2016,Glenn,Multi-Family (2-4 Unit),2.8,218818.2,Glenn,39.5982,-122.392
+431,2016,Glenn,Single Family Residential,65.45,219612.41,Glenn,39.5982,-122.392
+432,2017,Glenn,All Residential,75.09,228090.91,Glenn,39.5982,-122.392
+433,2017,Glenn,Multi-Family (2-4 Unit),3.5,261750,Glenn,39.5982,-122.392
+434,2017,Glenn,Single Family Residential,72,230272.73,Glenn,39.5982,-122.392
+435,2017,Glenn,Townhouse,0,55000,Glenn,39.5982,-122.392
+436,2018,Glenn,All Residential,72.55,246741.82,Glenn,39.5982,-122.392
+437,2018,Glenn,Multi-Family (2-4 Unit),2,493000,Glenn,39.5982,-122.392
+438,2018,Glenn,Single Family Residential,69.55,246452.95,Glenn,39.5982,-122.392
+439,2018,Glenn,Townhouse,2,300625,Glenn,39.5982,-122.392
+440,2019,Glenn,All Residential,82.91,285154.95,Glenn,39.5982,-122.392
+441,2019,Glenn,Multi-Family (2-4 Unit),1,377000,Glenn,39.5982,-122.392
+442,2019,Glenn,Single Family Residential,80.18,285609.5,Glenn,39.5982,-122.392
+443,2019,Glenn,Townhouse,1.5,293500,Glenn,39.5982,-122.392
+444,2020,Glenn,All Residential,55.45,324160.59,Glenn,39.5982,-122.392
+445,2020,Glenn,Multi-Family (2-4 Unit),3,636000,Glenn,39.5982,-122.392
+446,2020,Glenn,Single Family Residential,52.09,323274.23,Glenn,39.5982,-122.392
+447,2020,Glenn,Townhouse,3,526500,Glenn,39.5982,-122.392
+448,2021,Glenn,All Residential,41,351758.68,Glenn,39.5982,-122.392
+449,2021,Glenn,Multi-Family (2-4 Unit),6,752000,Glenn,39.5982,-122.392
+450,2021,Glenn,Single Family Residential,38.18,352213.23,Glenn,39.5982,-122.392
+451,2021,Glenn,Townhouse,0,270000,Glenn,39.5982,-122.392
+452,2022,Glenn,All Residential,84,727500,Glenn,39.5982,-122.392
+453,2022,Glenn,Multi-Family (2-4 Unit),3,179000,Glenn,39.5982,-122.392
+454,2022,Glenn,Single Family Residential,77,730000,Glenn,39.5982,-122.392
+455,2012,Kern,All Residential,1726.64,138590.91,Kern,35.3429,-118.7299
+456,2012,Kern,Condo/Co-op,44.36,78472.73,Kern,35.3429,-118.7299
+457,2012,Kern,Multi-Family (2-4 Unit),82.36,104727.27,Kern,35.3429,-118.7299
+458,2012,Kern,Single Family Residential,1598.45,141622.73,Kern,35.3429,-118.7299
+459,2012,Kern,Townhouse,1.29,67757.14,Kern,35.3429,-118.7299
+460,2013,Kern,All Residential,1418.82,179854.09,Kern,35.3429,-118.7299
+461,2013,Kern,Condo/Co-op,48.64,98750,Kern,35.3429,-118.7299
+462,2013,Kern,Multi-Family (2-4 Unit),73.91,137286.36,Kern,35.3429,-118.7299
+463,2013,Kern,Single Family Residential,1294.64,184541.36,Kern,35.3429,-118.7299
+464,2013,Kern,Townhouse,2,111750,Kern,35.3429,-118.7299
+465,2014,Kern,All Residential,1891.45,201409.09,Kern,35.3429,-118.7299
+466,2014,Kern,Condo/Co-op,54.36,109136.36,Kern,35.3429,-118.7299
+467,2014,Kern,Multi-Family (2-4 Unit),118.82,162977.27,Kern,35.3429,-118.7299
+468,2014,Kern,Single Family Residential,1716.82,207136.36,Kern,35.3429,-118.7299
+469,2014,Kern,Townhouse,1.25,130750,Kern,35.3429,-118.7299
+470,2015,Kern,All Residential,2635.82,216136.36,Kern,35.3429,-118.7299
+471,2015,Kern,Condo/Co-op,75.91,115163.64,Kern,35.3429,-118.7299
+472,2015,Kern,Multi-Family (2-4 Unit),163.91,166068.18,Kern,35.3429,-118.7299
+473,2015,Kern,Single Family Residential,2393.73,221454.55,Kern,35.3429,-118.7299
+474,2015,Kern,Townhouse,2.33,150666.67,Kern,35.3429,-118.7299
+475,2016,Kern,All Residential,2627.36,226825,Kern,35.3429,-118.7299
+476,2016,Kern,Condo/Co-op,82,126404.55,Kern,35.3429,-118.7299
+477,2016,Kern,Multi-Family (2-4 Unit),189.91,185072.73,Kern,35.3429,-118.7299
+478,2016,Kern,Single Family Residential,2351.91,231090,Kern,35.3429,-118.7299
+479,2016,Kern,Townhouse,3.25,156250,Kern,35.3429,-118.7299
+480,2017,Kern,All Residential,2295.91,237943.64,Kern,35.3429,-118.7299
+481,2017,Kern,Condo/Co-op,71.82,137818.18,Kern,35.3429,-118.7299
+482,2017,Kern,Multi-Family (2-4 Unit),163.45,201122.73,Kern,35.3429,-118.7299
+483,2017,Kern,Single Family Residential,2054.18,242118.18,Kern,35.3429,-118.7299
+484,2017,Kern,Townhouse,7.33,153383.33,Kern,35.3429,-118.7299
+485,2018,Kern,All Residential,2334.91,250750,Kern,35.3429,-118.7299
+486,2018,Kern,Condo/Co-op,65.27,140159.09,Kern,35.3429,-118.7299
+487,2018,Kern,Multi-Family (2-4 Unit),136.55,227909.09,Kern,35.3429,-118.7299
+488,2018,Kern,Single Family Residential,2127.45,254831.73,Kern,35.3429,-118.7299
+489,2018,Kern,Townhouse,5.75,187193.75,Kern,35.3429,-118.7299
+490,2019,Kern,All Residential,2144.45,264799.95,Kern,35.3429,-118.7299
+491,2019,Kern,Condo/Co-op,49.64,143568.18,Kern,35.3429,-118.7299
+492,2019,Kern,Multi-Family (2-4 Unit),129.64,244790.91,Kern,35.3429,-118.7299
+493,2019,Kern,Single Family Residential,1961.55,269202.05,Kern,35.3429,-118.7299
+494,2019,Kern,Townhouse,3.67,181166.67,Kern,35.3429,-118.7299
+495,2020,Kern,All Residential,1618.36,290270.45,Kern,35.3429,-118.7299
+496,2020,Kern,Condo/Co-op,48.55,154340.91,Kern,35.3429,-118.7299
+497,2020,Kern,Multi-Family (2-4 Unit),126.64,252636.36,Kern,35.3429,-118.7299
+498,2020,Kern,Single Family Residential,1441.27,294362.73,Kern,35.3429,-118.7299
+499,2020,Kern,Townhouse,2.33,287000,Kern,35.3429,-118.7299
+500,2021,Kern,All Residential,1239,340312.73,Kern,35.3429,-118.7299
+501,2021,Kern,Condo/Co-op,39.82,187340.91,Kern,35.3429,-118.7299
+502,2021,Kern,Multi-Family (2-4 Unit),102.55,311840.91,Kern,35.3429,-118.7299
+503,2021,Kern,Single Family Residential,1094.27,347130.91,Kern,35.3429,-118.7299
+504,2021,Kern,Townhouse,2.17,249333.33,Kern,35.3429,-118.7299
+505,2022,Kern,All Residential,1727,680000,Kern,35.3429,-118.7299
+506,2022,Kern,Condo/Co-op,39,380000,Kern,35.3429,-118.7299
+507,2022,Kern,Multi-Family (2-4 Unit),130,553500,Kern,35.3429,-118.7299
+508,2022,Kern,Single Family Residential,1558,697400,Kern,35.3429,-118.7299
+509,2012,Lake,All Residential,406.91,130318.14,Lake,39.0996,-122.7532
+510,2012,Lake,Condo/Co-op,1,158750,Lake,39.0996,-122.7532
+511,2012,Lake,Multi-Family (2-4 Unit),19.25,151034.5,Lake,39.0996,-122.7532
+512,2012,Lake,Single Family Residential,387.45,131359.05,Lake,39.0996,-122.7532
+513,2012,Lake,Townhouse,2.5,139875,Lake,39.0996,-122.7532
+514,2013,Lake,All Residential,346.55,155227.27,Lake,39.0996,-122.7532
+515,2013,Lake,Condo/Co-op,1.83,113691.58,Lake,39.0996,-122.7532
+516,2013,Lake,Multi-Family (2-4 Unit),19.25,173224.88,Lake,39.0996,-122.7532
+517,2013,Lake,Single Family Residential,324.64,156318.18,Lake,39.0996,-122.7532
+518,2013,Lake,Townhouse,4,230000,Lake,39.0996,-122.7532
+519,2014,Lake,All Residential,365.45,176086.36,Lake,39.0996,-122.7532
+520,2014,Lake,Condo/Co-op,2.67,177166.67,Lake,39.0996,-122.7532
+521,2014,Lake,Multi-Family (2-4 Unit),13,161929.17,Lake,39.0996,-122.7532
+522,2014,Lake,Single Family Residential,349.36,177490.91,Lake,39.0996,-122.7532
+523,2014,Lake,Townhouse,1,235000,Lake,39.0996,-122.7532
+524,2015,Lake,All Residential,463.18,220800,Lake,39.0996,-122.7532
+525,2015,Lake,Condo/Co-op,2.86,146642.86,Lake,39.0996,-122.7532
+526,2015,Lake,Multi-Family (2-4 Unit),16.5,538375,Lake,39.0996,-122.7532
+527,2015,Lake,Single Family Residential,442.82,223327.27,Lake,39.0996,-122.7532
+528,2015,Lake,Townhouse,2,170000,Lake,39.0996,-122.7532
+529,2016,Lake,All Residential,460.45,251204.55,Lake,39.0996,-122.7532
+530,2016,Lake,Condo/Co-op,0,550000,Lake,39.0996,-122.7532
+531,2016,Lake,Multi-Family (2-4 Unit),16.22,290416.67,Lake,39.0996,-122.7532
+532,2016,Lake,Single Family Residential,441.64,251454.55,Lake,39.0996,-122.7532
+533,2016,Lake,Townhouse,2,394500,Lake,39.0996,-122.7532
+534,2017,Lake,All Residential,467.36,260227.27,Lake,39.0996,-122.7532
+535,2017,Lake,Condo/Co-op,2,308750,Lake,39.0996,-122.7532
+536,2017,Lake,Multi-Family (2-4 Unit),15.71,326178.57,Lake,39.0996,-122.7532
+537,2017,Lake,Single Family Residential,446.09,259918.18,Lake,39.0996,-122.7532
+538,2017,Lake,Townhouse,8,262000,Lake,39.0996,-122.7532
+539,2018,Lake,All Residential,517.27,280254.55,Lake,39.0996,-122.7532
+540,2018,Lake,Condo/Co-op,0,249000,Lake,39.0996,-122.7532
+541,2018,Lake,Multi-Family (2-4 Unit),12.25,287656.25,Lake,39.0996,-122.7532
+542,2018,Lake,Single Family Residential,500.18,281045.45,Lake,39.0996,-122.7532
+543,2018,Lake,Townhouse,3,250887,Lake,39.0996,-122.7532
+544,2019,Lake,All Residential,536,280590.91,Lake,39.0996,-122.7532
+545,2019,Lake,Condo/Co-op,6.5,237187.5,Lake,39.0996,-122.7532
+546,2019,Lake,Multi-Family (2-4 Unit),8.71,388928.57,Lake,39.0996,-122.7532
+547,2019,Lake,Single Family Residential,517.64,282500,Lake,39.0996,-122.7532
+548,2019,Lake,Townhouse,4.33,252916.67,Lake,39.0996,-122.7532
+549,2020,Lake,All Residential,397.36,316250,Lake,39.0996,-122.7532
+550,2020,Lake,Condo/Co-op,5,175000,Lake,39.0996,-122.7532
+551,2020,Lake,Multi-Family (2-4 Unit),10.75,333843.75,Lake,39.0996,-122.7532
+552,2020,Lake,Single Family Residential,378.64,316181.82,Lake,39.0996,-122.7532
+553,2020,Lake,Townhouse,4.2,313100,Lake,39.0996,-122.7532
+554,2021,Lake,All Residential,359.55,359113.64,Lake,39.0996,-122.7532
+555,2021,Lake,Condo/Co-op,3.5,349750,Lake,39.0996,-122.7532
+556,2021,Lake,Multi-Family (2-4 Unit),9.89,388327.78,Lake,39.0996,-122.7532
+557,2021,Lake,Single Family Residential,344.27,362000,Lake,39.0996,-122.7532
+558,2021,Lake,Townhouse,4,299541.67,Lake,39.0996,-122.7532
+559,2022,Lake,All Residential,587,690000,Lake,39.0996,-122.7532
+560,2022,Lake,Condo/Co-op,2,155000,Lake,39.0996,-122.7532
+561,2022,Lake,Multi-Family (2-4 Unit),25,690000,Lake,39.0996,-122.7532
+562,2022,Lake,Single Family Residential,557,704400,Lake,39.0996,-122.7532
+563,2022,Lake,Townhouse,1,827000,Lake,39.0996,-122.7532
+564,2012,Los Angeles,All Residential,19561.82,357545.45,Los Angeles,34.3207,-118.2248
+565,2012,Los Angeles,Condo/Co-op,3169.91,276636.36,Los Angeles,34.3207,-118.2248
+566,2012,Los Angeles,Multi-Family (2-4 Unit),1773.55,372181.82,Los Angeles,34.3207,-118.2248
+567,2012,Los Angeles,Single Family Residential,13786,373181.82,Los Angeles,34.3207,-118.2248
+568,2012,Los Angeles,Townhouse,832.36,366250,Los Angeles,34.3207,-118.2248
+569,2013,Los Angeles,All Residential,12915.36,450293.41,Los Angeles,34.3207,-118.2248
+570,2013,Los Angeles,Condo/Co-op,2045.45,356727.27,Los Angeles,34.3207,-118.2248
+571,2013,Los Angeles,Multi-Family (2-4 Unit),1342.36,458727.27,Los Angeles,34.3207,-118.2248
+572,2013,Los Angeles,Single Family Residential,8966,472500,Los Angeles,34.3207,-118.2248
+573,2013,Los Angeles,Townhouse,561.55,435454.55,Los Angeles,34.3207,-118.2248
+574,2014,Los Angeles,All Residential,16625,503090.91,Los Angeles,34.3207,-118.2248
+575,2014,Los Angeles,Condo/Co-op,2714.36,405413.64,Los Angeles,34.3207,-118.2248
+576,2014,Los Angeles,Multi-Family (2-4 Unit),1626.64,540681.82,Los Angeles,34.3207,-118.2248
+577,2014,Los Angeles,Single Family Residential,11413.55,528136.36,Los Angeles,34.3207,-118.2248
+578,2014,Los Angeles,Townhouse,870.45,461068.18,Los Angeles,34.3207,-118.2248
+579,2015,Los Angeles,All Residential,17423.64,539227.27,Los Angeles,34.3207,-118.2248
+580,2015,Los Angeles,Condo/Co-op,2647.64,433204.55,Los Angeles,34.3207,-118.2248
+581,2015,Los Angeles,Multi-Family (2-4 Unit),1985.09,601000,Los Angeles,34.3207,-118.2248
+582,2015,Los Angeles,Single Family Residential,11887.91,565363.64,Los Angeles,34.3207,-118.2248
+583,2015,Los Angeles,Townhouse,903,488908.18,Los Angeles,34.3207,-118.2248
+584,2016,Los Angeles,All Residential,18605.27,578772.73,Los Angeles,34.3207,-118.2248
+585,2016,Los Angeles,Condo/Co-op,2744.36,455713.18,Los Angeles,34.3207,-118.2248
+586,2016,Los Angeles,Multi-Family (2-4 Unit),1951.45,666568.18,Los Angeles,34.3207,-118.2248
+587,2016,Los Angeles,Single Family Residential,12877.82,608636.36,Los Angeles,34.3207,-118.2248
+588,2016,Los Angeles,Townhouse,1031.64,508545.45,Los Angeles,34.3207,-118.2248
+589,2017,Los Angeles,All Residential,17625.36,624681.77,Los Angeles,34.3207,-118.2248
+590,2017,Los Angeles,Condo/Co-op,2446.64,485318.18,Los Angeles,34.3207,-118.2248
+591,2017,Los Angeles,Multi-Family (2-4 Unit),1767.09,738750,Los Angeles,34.3207,-118.2248
+592,2017,Los Angeles,Single Family Residential,12423.64,655340.91,Los Angeles,34.3207,-118.2248
+593,2017,Los Angeles,Townhouse,988,560672.73,Los Angeles,34.3207,-118.2248
+594,2018,Los Angeles,All Residential,18796.55,668068.18,Los Angeles,34.3207,-118.2248
+595,2018,Los Angeles,Condo/Co-op,2624.91,524750,Los Angeles,34.3207,-118.2248
+596,2018,Los Angeles,Multi-Family (2-4 Unit),1865.27,805272.73,Los Angeles,34.3207,-118.2248
+597,2018,Los Angeles,Single Family Residential,13250.82,695477.27,Los Angeles,34.3207,-118.2248
+598,2018,Los Angeles,Townhouse,1055.55,598454.55,Los Angeles,34.3207,-118.2248
+599,2019,Los Angeles,All Residential,19975.09,687090,Los Angeles,34.3207,-118.2248
+600,2019,Los Angeles,Condo/Co-op,3230.45,528204.55,Los Angeles,34.3207,-118.2248
+601,2019,Los Angeles,Multi-Family (2-4 Unit),1867.27,841795.45,Los Angeles,34.3207,-118.2248
+602,2019,Los Angeles,Single Family Residential,13674.64,716477.27,Los Angeles,34.3207,-118.2248
+603,2019,Los Angeles,Townhouse,1202.73,610404,Los Angeles,34.3207,-118.2248
+604,2020,Los Angeles,All Residential,16430.91,744863.64,Los Angeles,34.3207,-118.2248
+605,2020,Los Angeles,Condo/Co-op,3294.73,552704.55,Los Angeles,34.3207,-118.2248
+606,2020,Los Angeles,Multi-Family (2-4 Unit),1743.73,896136.36,Los Angeles,34.3207,-118.2248
+607,2020,Los Angeles,Single Family Residential,10342.18,795454.55,Los Angeles,34.3207,-118.2248
+608,2020,Los Angeles,Townhouse,1050.27,626972,Los Angeles,34.3207,-118.2248
+609,2021,Los Angeles,All Residential,13836.82,873045.45,Los Angeles,34.3207,-118.2248
+610,2021,Los Angeles,Condo/Co-op,2898.18,627818.18,Los Angeles,34.3207,-118.2248
+611,2021,Los Angeles,Multi-Family (2-4 Unit),1729.18,1045590.91,Los Angeles,34.3207,-118.2248
+612,2021,Los Angeles,Single Family Residential,8381.09,942840.91,Los Angeles,34.3207,-118.2248
+613,2021,Los Angeles,Townhouse,828.36,750318.18,Los Angeles,34.3207,-118.2248
+614,2022,Los Angeles,All Residential,16219,1660000,Los Angeles,34.3207,-118.2248
+615,2022,Los Angeles,Condo/Co-op,3177,1224000,Los Angeles,34.3207,-118.2248
+616,2022,Los Angeles,Multi-Family (2-4 Unit),2230,1932500,Los Angeles,34.3207,-118.2248
+617,2022,Los Angeles,Single Family Residential,9902,1774000,Los Angeles,34.3207,-118.2248
+618,2022,Los Angeles,Townhouse,910,1422000,Los Angeles,34.3207,-118.2248
+619,2012,Madera,All Residential,418,148054.32,Madera,37.218,-119.7627
+620,2012,Madera,Condo/Co-op,4.6,113580,Madera,37.218,-119.7627
+621,2012,Madera,Multi-Family (2-4 Unit),6,101114.29,Madera,37.218,-119.7627
+622,2012,Madera,Single Family Residential,407.73,148922.73,Madera,37.218,-119.7627
+623,2013,Madera,All Residential,388,177077.27,Madera,37.218,-119.7627
+624,2013,Madera,Condo/Co-op,2.5,98906.25,Madera,37.218,-119.7627
+625,2013,Madera,Multi-Family (2-4 Unit),4.14,164414.29,Madera,37.218,-119.7627
+626,2013,Madera,Single Family Residential,381.55,177850,Madera,37.218,-119.7627
+627,2014,Madera,All Residential,551,209786.36,Madera,37.218,-119.7627
+628,2014,Madera,Condo/Co-op,3.71,123285.71,Madera,37.218,-119.7627
+629,2014,Madera,Multi-Family (2-4 Unit),11.78,159955.5,Madera,37.218,-119.7627
+630,2014,Madera,Single Family Residential,534.91,211600,Madera,37.218,-119.7627
+631,2014,Madera,Townhouse,1,225000,Madera,37.218,-119.7627
+632,2015,Madera,All Residential,663,223954.55,Madera,37.218,-119.7627
+633,2015,Madera,Condo/Co-op,4.71,129535.71,Madera,37.218,-119.7627
+634,2015,Madera,Multi-Family (2-4 Unit),10.71,281214.29,Madera,37.218,-119.7627
+635,2015,Madera,Single Family Residential,648.09,224165.91,Madera,37.218,-119.7627
+636,2015,Madera,Townhouse,0,259000,Madera,37.218,-119.7627
+637,2016,Madera,All Residential,522.45,239250.91,Madera,37.218,-119.7627
+638,2016,Madera,Condo/Co-op,2.67,187533.33,Madera,37.218,-119.7627
+639,2016,Madera,Multi-Family (2-4 Unit),5.4,205700,Madera,37.218,-119.7627
+640,2016,Madera,Single Family Residential,513.64,239890.91,Madera,37.218,-119.7627
+641,2016,Madera,Townhouse,0,378000,Madera,37.218,-119.7627
+642,2017,Madera,All Residential,498.36,264510,Madera,37.218,-119.7627
+643,2017,Madera,Condo/Co-op,2.57,163107.14,Madera,37.218,-119.7627
+644,2017,Madera,Multi-Family (2-4 Unit),9.62,265843.75,Madera,37.218,-119.7627
+645,2017,Madera,Single Family Residential,486.55,265336.36,Madera,37.218,-119.7627
+646,2017,Madera,Townhouse,1,247964,Madera,37.218,-119.7627
+647,2018,Madera,All Residential,567.73,285040.91,Madera,37.218,-119.7627
+648,2018,Madera,Condo/Co-op,1.83,150250,Madera,37.218,-119.7627
+649,2018,Madera,Multi-Family (2-4 Unit),6.11,246555.56,Madera,37.218,-119.7627
+650,2018,Madera,Single Family Residential,558.27,286452.27,Madera,37.218,-119.7627
+651,2019,Madera,All Residential,561.45,303586.36,Madera,37.218,-119.7627
+652,2019,Madera,Condo/Co-op,0.75,182875,Madera,37.218,-119.7627
+653,2019,Madera,Multi-Family (2-4 Unit),8.29,404571.43,Madera,37.218,-119.7627
+654,2019,Madera,Single Family Residential,549.55,304134.09,Madera,37.218,-119.7627
+655,2020,Madera,All Residential,388.55,341059.09,Madera,37.218,-119.7627
+656,2020,Madera,Condo/Co-op,5,243250,Madera,37.218,-119.7627
+657,2020,Madera,Multi-Family (2-4 Unit),2.62,283062.5,Madera,37.218,-119.7627
+658,2020,Madera,Single Family Residential,383,342886.36,Madera,37.218,-119.7627
+659,2020,Madera,Townhouse,0,169500,Madera,37.218,-119.7627
+660,2021,Madera,All Residential,267.09,403415.91,Madera,37.218,-119.7627
+661,2021,Madera,Condo/Co-op,1.29,216285.71,Madera,37.218,-119.7627
+662,2021,Madera,Multi-Family (2-4 Unit),2.89,398911.11,Madera,37.218,-119.7627
+663,2021,Madera,Single Family Residential,263.09,406056.82,Madera,37.218,-119.7627
+664,2022,Madera,All Residential,418,777750,Madera,37.218,-119.7627
+665,2022,Madera,Condo/Co-op,3,424750,Madera,37.218,-119.7627
+666,2022,Madera,Multi-Family (2-4 Unit),8,281500,Madera,37.218,-119.7627
+667,2022,Madera,Single Family Residential,401,784500,Madera,37.218,-119.7627
+668,2012,Marin,All Residential,659.09,727113.64,Marin,38.0734,-122.7234
+669,2012,Marin,Condo/Co-op,112.36,355868.18,Marin,38.0734,-122.7234
+670,2012,Marin,Multi-Family (2-4 Unit),65.09,999404,Marin,38.0734,-122.7234
+671,2012,Marin,Single Family Residential,481.64,814904.86,Marin,38.0734,-122.7234
+672,2012,Marin,Townhouse,0,997500,Marin,38.0734,-122.7234
+673,2013,Marin,All Residential,509.27,865045.45,Marin,38.0734,-122.7234
+674,2013,Marin,Condo/Co-op,81.27,458196.27,Marin,38.0734,-122.7234
+675,2013,Marin,Multi-Family (2-4 Unit),58.27,1108936.36,Marin,38.0734,-122.7234
+676,2013,Marin,Single Family Residential,369.73,968818.18,Marin,38.0734,-122.7234
+677,2014,Marin,All Residential,474.18,957293.64,Marin,38.0734,-122.7234
+678,2014,Marin,Condo/Co-op,88.73,535409.09,Marin,38.0734,-122.7234
+679,2014,Marin,Multi-Family (2-4 Unit),50.73,1445204.55,Marin,38.0734,-122.7234
+680,2014,Marin,Single Family Residential,334.73,1075491.73,Marin,38.0734,-122.7234
+681,2015,Marin,All Residential,525.27,1006931.82,Marin,38.0734,-122.7234
+682,2015,Marin,Condo/Co-op,112.64,608259.09,Marin,38.0734,-122.7234
+683,2015,Marin,Multi-Family (2-4 Unit),49.91,1397176.68,Marin,38.0734,-122.7234
+684,2015,Marin,Single Family Residential,362.73,1174459.09,Marin,38.0734,-122.7234
+685,2016,Marin,All Residential,573.55,1079544.36,Marin,38.0734,-122.7234
+686,2016,Marin,Condo/Co-op,122.09,628054.55,Marin,38.0734,-122.7234
+687,2016,Marin,Multi-Family (2-4 Unit),41.91,1432931.82,Marin,38.0734,-122.7234
+688,2016,Marin,Single Family Residential,409.27,1250045.45,Marin,38.0734,-122.7234
+689,2016,Marin,Townhouse,0,1255000,Marin,38.0734,-122.7234
+690,2017,Marin,All Residential,520.73,1168454.55,Marin,38.0734,-122.7234
+691,2017,Marin,Condo/Co-op,91.55,649490.91,Marin,38.0734,-122.7234
+692,2017,Marin,Multi-Family (2-4 Unit),48.55,1735477.27,Marin,38.0734,-122.7234
+693,2017,Marin,Single Family Residential,380.55,1340045.45,Marin,38.0734,-122.7234
+694,2017,Marin,Townhouse,0,515150,Marin,38.0734,-122.7234
+695,2018,Marin,All Residential,537.36,1268100,Marin,38.0734,-122.7234
+696,2018,Marin,Condo/Co-op,99.55,711568.18,Marin,38.0734,-122.7234
+697,2018,Marin,Multi-Family (2-4 Unit),55.27,1776163.64,Marin,38.0734,-122.7234
+698,2018,Marin,Single Family Residential,382.36,1430454.55,Marin,38.0734,-122.7234
+699,2018,Marin,Townhouse,0,1050000,Marin,38.0734,-122.7234
+700,2019,Marin,All Residential,627.91,1257045.45,Marin,38.0734,-122.7234
+701,2019,Marin,Condo/Co-op,128.73,700704.55,Marin,38.0734,-122.7234
+702,2019,Marin,Multi-Family (2-4 Unit),55,1919318.18,Marin,38.0734,-122.7234
+703,2019,Marin,Single Family Residential,443.64,1394386.36,Marin,38.0734,-122.7234
+704,2020,Marin,All Residential,525.64,1379886.36,Marin,38.0734,-122.7234
+705,2020,Marin,Condo/Co-op,130.82,749818.18,Marin,38.0734,-122.7234
+706,2020,Marin,Multi-Family (2-4 Unit),51.27,1752227.27,Marin,38.0734,-122.7234
+707,2020,Marin,Single Family Residential,342.55,1526704.55,Marin,38.0734,-122.7234
+708,2020,Marin,Townhouse,0,2450000,Marin,38.0734,-122.7234
+709,2021,Marin,All Residential,408.27,1531727.27,Marin,38.0734,-122.7234
+710,2021,Marin,Condo/Co-op,103.18,753545.45,Marin,38.0734,-122.7234
+711,2021,Marin,Multi-Family (2-4 Unit),28.36,1619276.82,Marin,38.0734,-122.7234
+712,2021,Marin,Single Family Residential,260.45,1780500,Marin,38.0734,-122.7234
+713,2021,Marin,Townhouse,17.4,896475.6,Marin,38.0734,-122.7234
+714,2022,Marin,All Residential,390,2750000,Marin,38.0734,-122.7234
+715,2022,Marin,Condo/Co-op,136,1453830,Marin,38.0734,-122.7234
+716,2022,Marin,Multi-Family (2-4 Unit),21,2966350,Marin,38.0734,-122.7234
+717,2022,Marin,Single Family Residential,211,3251000,Marin,38.0734,-122.7234
+718,2022,Marin,Townhouse,22,1695000,Marin,38.0734,-122.7234
+719,2013,Mariposa,All Residential,0,155000,Mariposa,37.5815,-119.9054
+720,2013,Mariposa,Single Family Residential,0,155000,Mariposa,37.5815,-119.9054
+721,2015,Mariposa,All Residential,4,625000,Mariposa,37.5815,-119.9054
+722,2015,Mariposa,Single Family Residential,4,625000,Mariposa,37.5815,-119.9054
+723,2016,Mariposa,All Residential,1,845000,Mariposa,37.5815,-119.9054
+724,2016,Mariposa,Single Family Residential,1,845000,Mariposa,37.5815,-119.9054
+725,2018,Mariposa,All Residential,2,630000,Mariposa,37.5815,-119.9054
+726,2018,Mariposa,Multi-Family (2-4 Unit),0,330000,Mariposa,37.5815,-119.9054
+727,2018,Mariposa,Single Family Residential,0,300000,Mariposa,37.5815,-119.9054
+728,2019,Mariposa,All Residential,4.5,692000,Mariposa,37.5815,-119.9054
+729,2019,Mariposa,Single Family Residential,4.5,692000,Mariposa,37.5815,-119.9054
+730,2020,Mariposa,All Residential,15.67,608833.33,Mariposa,37.5815,-119.9054
+731,2020,Mariposa,Single Family Residential,15.67,608833.33,Mariposa,37.5815,-119.9054
+732,2021,Mariposa,All Residential,77.78,470416.67,Mariposa,37.5815,-119.9054
+733,2021,Mariposa,Condo/Co-op,0.67,408666.67,Mariposa,37.5815,-119.9054
+734,2021,Mariposa,Multi-Family (2-4 Unit),4,777250,Mariposa,37.5815,-119.9054
+735,2021,Mariposa,Single Family Residential,73.11,473750,Mariposa,37.5815,-119.9054
+736,2021,Mariposa,Townhouse,2,460000,Mariposa,37.5815,-119.9054
+737,2022,Mariposa,All Residential,130,809000,Mariposa,37.5815,-119.9054
+738,2022,Mariposa,Multi-Family (2-4 Unit),3,350000,Mariposa,37.5815,-119.9054
+739,2022,Mariposa,Single Family Residential,124,812750,Mariposa,37.5815,-119.9054
+740,2012,Merced,All Residential,558.27,131650,Merced,37.1919,-120.7177
+741,2012,Merced,Condo/Co-op,5.67,67210.83,Merced,37.1919,-120.7177
+742,2012,Merced,Multi-Family (2-4 Unit),20.45,119082.73,Merced,37.1919,-120.7177
+743,2012,Merced,Single Family Residential,532.36,132522.73,Merced,37.1919,-120.7177
+744,2012,Merced,Townhouse,0,106500,Merced,37.1919,-120.7177
+745,2013,Merced,All Residential,356.36,167636.36,Merced,37.1919,-120.7177
+746,2013,Merced,Condo/Co-op,3.86,104551.43,Merced,37.1919,-120.7177
+747,2013,Merced,Multi-Family (2-4 Unit),18.27,142477.27,Merced,37.1919,-120.7177
+748,2013,Merced,Single Family Residential,334.45,168568.18,Merced,37.1919,-120.7177
+749,2014,Merced,All Residential,602.27,195309.09,Merced,37.1919,-120.7177
+750,2014,Merced,Condo/Co-op,6.11,112750,Merced,37.1919,-120.7177
+751,2014,Merced,Multi-Family (2-4 Unit),46.82,170318.18,Merced,37.1919,-120.7177
+752,2014,Merced,Single Family Residential,548.36,197204.55,Merced,37.1919,-120.7177
+753,2014,Merced,Townhouse,2,304000,Merced,37.1919,-120.7177
+754,2015,Merced,All Residential,627.27,224136.36,Merced,37.1919,-120.7177
+755,2015,Merced,Condo/Co-op,4.8,117630,Merced,37.1919,-120.7177
+756,2015,Merced,Multi-Family (2-4 Unit),29.18,179886.36,Merced,37.1919,-120.7177
+757,2015,Merced,Single Family Residential,592.55,227336.36,Merced,37.1919,-120.7177
+758,2015,Merced,Townhouse,0.5,126250,Merced,37.1919,-120.7177
+759,2016,Merced,All Residential,593.27,246781.82,Merced,37.1919,-120.7177
+760,2016,Merced,Condo/Co-op,3.33,175323.22,Merced,37.1919,-120.7177
+761,2016,Merced,Multi-Family (2-4 Unit),29.5,201875,Merced,37.1919,-120.7177
+762,2016,Merced,Single Family Residential,560,248015.36,Merced,37.1919,-120.7177
+763,2016,Merced,Townhouse,0,120000,Merced,37.1919,-120.7177
+764,2017,Merced,All Residential,581.45,270234.73,Merced,37.1919,-120.7177
+765,2017,Merced,Condo/Co-op,7.62,188937.5,Merced,37.1919,-120.7177
+766,2017,Merced,Multi-Family (2-4 Unit),28.45,216318.18,Merced,37.1919,-120.7177
+767,2017,Merced,Single Family Residential,543.82,272584.45,Merced,37.1919,-120.7177
+768,2017,Merced,Townhouse,2,199500,Merced,37.1919,-120.7177
+769,2018,Merced,All Residential,670.73,298685.73,Merced,37.1919,-120.7177
+770,2018,Merced,Condo/Co-op,10.1,168625,Merced,37.1919,-120.7177
+771,2018,Merced,Multi-Family (2-4 Unit),27.55,289977.27,Merced,37.1919,-120.7177
+772,2018,Merced,Single Family Residential,630,300472.41,Merced,37.1919,-120.7177
+773,2018,Merced,Townhouse,4.17,265125,Merced,37.1919,-120.7177
+774,2019,Merced,All Residential,724.27,308688.64,Merced,37.1919,-120.7177
+775,2019,Merced,Condo/Co-op,10,168454.55,Merced,37.1919,-120.7177
+776,2019,Merced,Multi-Family (2-4 Unit),15.36,312568.18,Merced,37.1919,-120.7177
+777,2019,Merced,Single Family Residential,696.82,309831.82,Merced,37.1919,-120.7177
+778,2019,Merced,Townhouse,2.33,300833.33,Merced,37.1919,-120.7177
+779,2020,Merced,All Residential,452.27,336777.27,Merced,37.1919,-120.7177
+780,2020,Merced,Condo/Co-op,6.6,220750,Merced,37.1919,-120.7177
+781,2020,Merced,Multi-Family (2-4 Unit),17.27,357363.64,Merced,37.1919,-120.7177
+782,2020,Merced,Single Family Residential,425.73,337691.23,Merced,37.1919,-120.7177
+783,2020,Merced,Townhouse,3,293333.33,Merced,37.1919,-120.7177
+784,2021,Merced,All Residential,291.09,400764.77,Merced,37.1919,-120.7177
+785,2021,Merced,Condo/Co-op,4.67,297333.33,Merced,37.1919,-120.7177
+786,2021,Merced,Multi-Family (2-4 Unit),24.73,397136.36,Merced,37.1919,-120.7177
+787,2021,Merced,Single Family Residential,260.55,403204.77,Merced,37.1919,-120.7177
+788,2021,Merced,Townhouse,1.29,324571.43,Merced,37.1919,-120.7177
+789,2022,Merced,All Residential,436,806000,Merced,37.1919,-120.7177
+790,2022,Merced,Condo/Co-op,3,515000,Merced,37.1919,-120.7177
+791,2022,Merced,Multi-Family (2-4 Unit),34,770637.5,Merced,37.1919,-120.7177
+792,2022,Merced,Single Family Residential,399,812000,Merced,37.1919,-120.7177
+793,2022,Merced,Townhouse,0,290000,Merced,37.1919,-120.7177
+794,2012,Monterey,All Residential,902,308545.45,Monterey,36.2172,-121.2392
+795,2012,Monterey,Condo/Co-op,67.27,234931.82,Monterey,36.2172,-121.2392
+796,2012,Monterey,Multi-Family (2-4 Unit),19.27,338690.91,Monterey,36.2172,-121.2392
+797,2012,Monterey,Single Family Residential,787.36,314200,Monterey,36.2172,-121.2392
+798,2012,Monterey,Townhouse,28.09,407650,Monterey,36.2172,-121.2392
+799,2013,Monterey,All Residential,707.45,406481.82,Monterey,36.2172,-121.2392
+800,2013,Monterey,Condo/Co-op,48.18,335818.18,Monterey,36.2172,-121.2392
+801,2013,Monterey,Multi-Family (2-4 Unit),17.55,372477.27,Monterey,36.2172,-121.2392
+802,2013,Monterey,Single Family Residential,626.18,413250,Monterey,36.2172,-121.2392
+803,2013,Monterey,Townhouse,15.55,410963.64,Monterey,36.2172,-121.2392
+804,2014,Monterey,All Residential,865.55,467209.09,Monterey,36.2172,-121.2392
+805,2014,Monterey,Condo/Co-op,70,366795.45,Monterey,36.2172,-121.2392
+806,2014,Monterey,Multi-Family (2-4 Unit),26.64,549681.82,Monterey,36.2172,-121.2392
+807,2014,Monterey,Single Family Residential,752,477390.91,Monterey,36.2172,-121.2392
+808,2014,Monterey,Townhouse,17.8,465825,Monterey,36.2172,-121.2392
+809,2015,Monterey,All Residential,915.91,499900,Monterey,36.2172,-121.2392
+810,2015,Monterey,Condo/Co-op,63.18,398500,Monterey,36.2172,-121.2392
+811,2015,Monterey,Multi-Family (2-4 Unit),29.73,569061.36,Monterey,36.2172,-121.2392
+812,2015,Monterey,Single Family Residential,807.73,509237.68,Monterey,36.2172,-121.2392
+813,2015,Monterey,Townhouse,15.27,546231.82,Monterey,36.2172,-121.2392
+814,2016,Monterey,All Residential,1019.64,538772.73,Monterey,36.2172,-121.2392
+815,2016,Monterey,Condo/Co-op,71.27,422163.64,Monterey,36.2172,-121.2392
+816,2016,Monterey,Multi-Family (2-4 Unit),35.36,585227.27,Monterey,36.2172,-121.2392
+817,2016,Monterey,Single Family Residential,896.36,550113.64,Monterey,36.2172,-121.2392
+818,2016,Monterey,Townhouse,16.64,627727.27,Monterey,36.2172,-121.2392
+819,2017,Monterey,All Residential,951.91,610204.95,Monterey,36.2172,-121.2392
+820,2017,Monterey,Condo/Co-op,73.91,485318.18,Monterey,36.2172,-121.2392
+821,2017,Monterey,Multi-Family (2-4 Unit),27.73,778954.55,Monterey,36.2172,-121.2392
+822,2017,Monterey,Single Family Residential,833.27,618272.73,Monterey,36.2172,-121.2392
+823,2017,Monterey,Townhouse,17,571113.64,Monterey,36.2172,-121.2392
+824,2018,Monterey,All Residential,946.55,644000,Monterey,36.2172,-121.2392
+825,2018,Monterey,Condo/Co-op,91.36,515700,Monterey,36.2172,-121.2392
+826,2018,Monterey,Multi-Family (2-4 Unit),24.09,704500,Monterey,36.2172,-121.2392
+827,2018,Monterey,Single Family Residential,809.91,660147.27,Monterey,36.2172,-121.2392
+828,2018,Monterey,Townhouse,21.18,630043.77,Monterey,36.2172,-121.2392
+829,2019,Monterey,All Residential,960.27,655659.09,Monterey,36.2172,-121.2392
+830,2019,Monterey,Condo/Co-op,110.82,490678.59,Monterey,36.2172,-121.2392
+831,2019,Monterey,Multi-Family (2-4 Unit),19.9,761925,Monterey,36.2172,-121.2392
+832,2019,Monterey,Single Family Residential,807.45,671886.36,Monterey,36.2172,-121.2392
+833,2019,Monterey,Townhouse,23,651437.41,Monterey,36.2172,-121.2392
+834,2020,Monterey,All Residential,752.09,748609.09,Monterey,36.2172,-121.2392
+835,2020,Monterey,Condo/Co-op,76.91,559068.18,Monterey,36.2172,-121.2392
+836,2020,Monterey,Multi-Family (2-4 Unit),18.82,692411.14,Monterey,36.2172,-121.2392
+837,2020,Monterey,Single Family Residential,642.36,785863.64,Monterey,36.2172,-121.2392
+838,2020,Monterey,Townhouse,14,671450,Monterey,36.2172,-121.2392
+839,2021,Monterey,All Residential,537.73,872250,Monterey,36.2172,-121.2392
+840,2021,Monterey,Condo/Co-op,45.09,627863.64,Monterey,36.2172,-121.2392
+841,2021,Monterey,Multi-Family (2-4 Unit),15.55,1062045.45,Monterey,36.2172,-121.2392
+842,2021,Monterey,Single Family Residential,464,898090.91,Monterey,36.2172,-121.2392
+843,2021,Monterey,Townhouse,13.09,781772.73,Monterey,36.2172,-121.2392
+844,2022,Monterey,All Residential,584,1663000,Monterey,36.2172,-121.2392
+845,2022,Monterey,Condo/Co-op,59,1307500,Monterey,36.2172,-121.2392
+846,2022,Monterey,Multi-Family (2-4 Unit),25,1795000,Monterey,36.2172,-121.2392
+847,2022,Monterey,Single Family Residential,490,1713000,Monterey,36.2172,-121.2392
+848,2022,Monterey,Townhouse,10,1304000,Monterey,36.2172,-121.2392
+849,2012,Napa,All Residential,459,379859.09,Napa,38.5065,-122.3305
+850,2012,Napa,Condo/Co-op,45.36,282274.36,Napa,38.5065,-122.3305
+851,2012,Napa,Multi-Family (2-4 Unit),70.27,677272.73,Napa,38.5065,-122.3305
+852,2012,Napa,Single Family Residential,343.36,378372.73,Napa,38.5065,-122.3305
+853,2013,Napa,All Residential,382.73,490500,Napa,38.5065,-122.3305
+854,2013,Napa,Condo/Co-op,29.27,374318.18,Napa,38.5065,-122.3305
+855,2013,Napa,Multi-Family (2-4 Unit),72.27,850395.45,Napa,38.5065,-122.3305
+856,2013,Napa,Single Family Residential,281.18,496500,Napa,38.5065,-122.3305
+857,2014,Napa,All Residential,398.27,560522.73,Napa,38.5065,-122.3305
+858,2014,Napa,Condo/Co-op,28.73,380236.36,Napa,38.5065,-122.3305
+859,2014,Napa,Multi-Family (2-4 Unit),64.45,1178312.64,Napa,38.5065,-122.3305
+860,2014,Napa,Single Family Residential,305.09,566722.73,Napa,38.5065,-122.3305
+861,2015,Napa,All Residential,446.36,615045.45,Napa,38.5065,-122.3305
+862,2015,Napa,Condo/Co-op,32.82,428618.18,Napa,38.5065,-122.3305
+863,2015,Napa,Multi-Family (2-4 Unit),75.45,1025022.73,Napa,38.5065,-122.3305
+864,2015,Napa,Single Family Residential,338.09,619272.73,Napa,38.5065,-122.3305
+865,2016,Napa,All Residential,477.27,655289.68,Napa,38.5065,-122.3305
+866,2016,Napa,Condo/Co-op,28.91,473500,Napa,38.5065,-122.3305
+867,2016,Napa,Multi-Family (2-4 Unit),73.36,1461254.55,Napa,38.5065,-122.3305
+868,2016,Napa,Single Family Residential,374.82,659931.82,Napa,38.5065,-122.3305
+869,2016,Napa,Townhouse,0,437000,Napa,38.5065,-122.3305
+870,2017,Napa,All Residential,437.82,698659.09,Napa,38.5065,-122.3305
+871,2017,Napa,Condo/Co-op,29.09,510045.45,Napa,38.5065,-122.3305
+872,2017,Napa,Multi-Family (2-4 Unit),70.55,1121350,Napa,38.5065,-122.3305
+873,2017,Napa,Single Family Residential,338.18,699840.91,Napa,38.5065,-122.3305
+874,2018,Napa,All Residential,445.36,733095.45,Napa,38.5065,-122.3305
+875,2018,Napa,Condo/Co-op,30.91,563663.64,Napa,38.5065,-122.3305
+876,2018,Napa,Multi-Family (2-4 Unit),68.73,1192827.27,Napa,38.5065,-122.3305
+877,2018,Napa,Single Family Residential,345.73,734050,Napa,38.5065,-122.3305
+878,2019,Napa,All Residential,510.82,739909.05,Napa,38.5065,-122.3305
+879,2019,Napa,Condo/Co-op,48,548477.27,Napa,38.5065,-122.3305
+880,2019,Napa,Multi-Family (2-4 Unit),83.91,1275227.27,Napa,38.5065,-122.3305
+881,2019,Napa,Single Family Residential,378.73,734045.41,Napa,38.5065,-122.3305
+882,2020,Napa,All Residential,429.45,791772.73,Napa,38.5065,-122.3305
+883,2020,Napa,Condo/Co-op,52.09,555590.91,Napa,38.5065,-122.3305
+884,2020,Napa,Multi-Family (2-4 Unit),75.09,1570090.91,Napa,38.5065,-122.3305
+885,2020,Napa,Single Family Residential,301.36,792204.55,Napa,38.5065,-122.3305
+886,2020,Napa,Townhouse,1,774539,Napa,38.5065,-122.3305
+887,2021,Napa,All Residential,343.27,904663.82,Napa,38.5065,-122.3305
+888,2021,Napa,Condo/Co-op,26.09,625008.59,Napa,38.5065,-122.3305
+889,2021,Napa,Multi-Family (2-4 Unit),28.18,1396409.09,Napa,38.5065,-122.3305
+890,2021,Napa,Single Family Residential,282.27,937295.45,Napa,38.5065,-122.3305
+891,2021,Napa,Townhouse,6.73,712662.14,Napa,38.5065,-122.3305
+892,2022,Napa,All Residential,406,1662500,Napa,38.5065,-122.3305
+893,2022,Napa,Condo/Co-op,29,1094000,Napa,38.5065,-122.3305
+894,2022,Napa,Multi-Family (2-4 Unit),34,2700000,Napa,38.5065,-122.3305
+895,2022,Napa,Single Family Residential,339,1750000,Napa,38.5065,-122.3305
+896,2022,Napa,Townhouse,4,1344342.5,Napa,38.5065,-122.3305
+897,2012,Nevada,All Residential,311.55,285818.18,Nevada,39.3014,-120.7685
+898,2012,Nevada,Condo/Co-op,33.55,274036.36,Nevada,39.3014,-120.7685
+899,2012,Nevada,Multi-Family (2-4 Unit),0.33,182895.44,Nevada,39.3014,-120.7685
+900,2012,Nevada,Single Family Residential,277.09,291863.64,Nevada,39.3014,-120.7685
+901,2012,Nevada,Townhouse,0.56,173000,Nevada,39.3014,-120.7685
+902,2013,Nevada,All Residential,378.45,349886.36,Nevada,39.3014,-120.7685
+903,2013,Nevada,Condo/Co-op,40.27,322963.64,Nevada,39.3014,-120.7685
+904,2013,Nevada,Multi-Family (2-4 Unit),0.9,291215,Nevada,39.3014,-120.7685
+905,2013,Nevada,Single Family Residential,337,353565.86,Nevada,39.3014,-120.7685
+906,2013,Nevada,Townhouse,0.22,242010.22,Nevada,39.3014,-120.7685
+907,2014,Nevada,All Residential,457,379240.91,Nevada,39.3014,-120.7685
+908,2014,Nevada,Condo/Co-op,42.45,306490.91,Nevada,39.3014,-120.7685
+909,2014,Nevada,Multi-Family (2-4 Unit),2.5,422250,Nevada,39.3014,-120.7685
+910,2014,Nevada,Single Family Residential,411.82,383065.18,Nevada,39.3014,-120.7685
+911,2014,Nevada,Townhouse,0,256468.83,Nevada,39.3014,-120.7685
+912,2015,Nevada,All Residential,450.45,404000,Nevada,39.3014,-120.7685
+913,2015,Nevada,Condo/Co-op,44.27,350431.82,Nevada,39.3014,-120.7685
+914,2015,Nevada,Multi-Family (2-4 Unit),3.62,302207.44,Nevada,39.3014,-120.7685
+915,2015,Nevada,Single Family Residential,402.64,409045.45,Nevada,39.3014,-120.7685
+916,2015,Nevada,Townhouse,0,303757.67,Nevada,39.3014,-120.7685
+917,2016,Nevada,All Residential,453.09,426409.09,Nevada,39.3014,-120.7685
+918,2016,Nevada,Condo/Co-op,45.18,360692.55,Nevada,39.3014,-120.7685
+919,2016,Nevada,Multi-Family (2-4 Unit),3.22,439833.33,Nevada,39.3014,-120.7685
+920,2016,Nevada,Single Family Residential,404.55,433459.09,Nevada,39.3014,-120.7685
+921,2016,Nevada,Townhouse,0,268000,Nevada,39.3014,-120.7685
+922,2017,Nevada,All Residential,419.36,478736.36,Nevada,39.3014,-120.7685
+923,2017,Nevada,Condo/Co-op,35.64,382500,Nevada,39.3014,-120.7685
+924,2017,Nevada,Multi-Family (2-4 Unit),1.83,476368.75,Nevada,39.3014,-120.7685
+925,2017,Nevada,Single Family Residential,381.64,485704.55,Nevada,39.3014,-120.7685
+926,2017,Nevada,Townhouse,0.25,308500,Nevada,39.3014,-120.7685
+927,2018,Nevada,All Residential,439,504454.55,Nevada,39.3014,-120.7685
+928,2018,Nevada,Condo/Co-op,32.45,413750,Nevada,39.3014,-120.7685
+929,2018,Nevada,Multi-Family (2-4 Unit),1.43,664503.57,Nevada,39.3014,-120.7685
+930,2018,Nevada,Single Family Residential,405,510757.14,Nevada,39.3014,-120.7685
+931,2018,Nevada,Townhouse,0,387000,Nevada,39.3014,-120.7685
+932,2019,Nevada,All Residential,705.18,497734.91,Nevada,39.3014,-120.7685
+933,2019,Nevada,Condo/Co-op,36.64,449636.36,Nevada,39.3014,-120.7685
+934,2019,Nevada,Multi-Family (2-4 Unit),5.67,650833.33,Nevada,39.3014,-120.7685
+935,2019,Nevada,Single Family Residential,663.82,503795.45,Nevada,39.3014,-120.7685
+936,2019,Nevada,Townhouse,0,373500,Nevada,39.3014,-120.7685
+937,2020,Nevada,All Residential,548.91,564250,Nevada,39.3014,-120.7685
+938,2020,Nevada,Condo/Co-op,32.73,497613.64,Nevada,39.3014,-120.7685
+939,2020,Nevada,Multi-Family (2-4 Unit),12,519844.44,Nevada,39.3014,-120.7685
+940,2020,Nevada,Single Family Residential,502.27,572045.45,Nevada,39.3014,-120.7685
+941,2020,Nevada,Townhouse,3.5,335000,Nevada,39.3014,-120.7685
+942,2021,Nevada,All Residential,353.55,681681.82,Nevada,39.3014,-120.7685
+943,2021,Nevada,Condo/Co-op,19.27,620140.91,Nevada,39.3014,-120.7685
+944,2021,Nevada,Multi-Family (2-4 Unit),18.09,742704.55,Nevada,39.3014,-120.7685
+945,2021,Nevada,Single Family Residential,315.64,684472.73,Nevada,39.3014,-120.7685
+946,2021,Nevada,Townhouse,0.6,703905.2,Nevada,39.3014,-120.7685
+947,2022,Nevada,All Residential,415,1219000,Nevada,39.3014,-120.7685
+948,2022,Nevada,Condo/Co-op,19,1138500,Nevada,39.3014,-120.7685
+949,2022,Nevada,Multi-Family (2-4 Unit),24,1467500,Nevada,39.3014,-120.7685
+950,2022,Nevada,Single Family Residential,372,1214000,Nevada,39.3014,-120.7685
+951,2012,Orange,All Residential,6647.82,461590.91,Orange,33.703,-117.7611
+952,2012,Orange,Condo/Co-op,2065.09,291159.09,Orange,33.703,-117.7611
+953,2012,Orange,Multi-Family (2-4 Unit),175.09,699840.91,Orange,33.703,-117.7611
+954,2012,Orange,Single Family Residential,4383.27,559568.18,Orange,33.703,-117.7611
+955,2012,Orange,Townhouse,24.36,359522.73,Orange,33.703,-117.7611
+956,2013,Orange,All Residential,4617.36,565000,Orange,33.703,-117.7611
+957,2013,Orange,Condo/Co-op,1277.36,365250,Orange,33.703,-117.7611
+958,2013,Orange,Multi-Family (2-4 Unit),164.36,833772.73,Orange,33.703,-117.7611
+959,2013,Orange,Single Family Residential,2967,679340.91,Orange,33.703,-117.7611
+960,2013,Orange,Townhouse,208.64,445977.27,Orange,33.703,-117.7611
+961,2014,Orange,All Residential,6906.27,612618.18,Orange,33.703,-117.7611
+962,2014,Orange,Condo/Co-op,1994.91,396181.82,Orange,33.703,-117.7611
+963,2014,Orange,Multi-Family (2-4 Unit),190.73,903909.09,Orange,33.703,-117.7611
+964,2014,Orange,Single Family Residential,4338.64,728731.82,Orange,33.703,-117.7611
+965,2014,Orange,Townhouse,382,474149.09,Orange,33.703,-117.7611
+966,2015,Orange,All Residential,7915.18,645208.68,Orange,33.703,-117.7611
+967,2015,Orange,Condo/Co-op,2115.18,420699,Orange,33.703,-117.7611
+968,2015,Orange,Multi-Family (2-4 Unit),230.45,958340.91,Orange,33.703,-117.7611
+969,2015,Orange,Single Family Residential,5104.73,755318.18,Orange,33.703,-117.7611
+970,2015,Orange,Townhouse,464.82,501181.82,Orange,33.703,-117.7611
+971,2016,Orange,All Residential,8592.27,682272.73,Orange,33.703,-117.7611
+972,2016,Orange,Condo/Co-op,2190,444636.36,Orange,33.703,-117.7611
+973,2016,Orange,Multi-Family (2-4 Unit),223.27,1013295.45,Orange,33.703,-117.7611
+974,2016,Orange,Single Family Residential,5710.82,793179.45,Orange,33.703,-117.7611
+975,2016,Orange,Townhouse,468.18,535045.45,Orange,33.703,-117.7611
+976,2017,Orange,All Residential,7896.09,724250,Orange,33.703,-117.7611
+977,2017,Orange,Condo/Co-op,1880.64,478272.73,Orange,33.703,-117.7611
+978,2017,Orange,Multi-Family (2-4 Unit),176.91,1159659.09,Orange,33.703,-117.7611
+979,2017,Orange,Single Family Residential,5392.18,841454.55,Orange,33.703,-117.7611
+980,2017,Orange,Townhouse,446.36,571095.45,Orange,33.703,-117.7611
+981,2018,Orange,All Residential,8479.36,772250,Orange,33.703,-117.7611
+982,2018,Orange,Condo/Co-op,2216.27,516068.18,Orange,33.703,-117.7611
+983,2018,Orange,Multi-Family (2-4 Unit),178.09,1260477.27,Orange,33.703,-117.7611
+984,2018,Orange,Single Family Residential,5589.18,879351.64,Orange,33.703,-117.7611
+985,2018,Orange,Townhouse,495.82,606386.36,Orange,33.703,-117.7611
+986,2019,Orange,All Residential,9071.45,777250,Orange,33.703,-117.7611
+987,2019,Orange,Condo/Co-op,2522.18,507931.82,Orange,33.703,-117.7611
+988,2019,Orange,Multi-Family (2-4 Unit),214.09,1298568.18,Orange,33.703,-117.7611
+989,2019,Orange,Single Family Residential,5789.09,886366.27,Orange,33.703,-117.7611
+990,2019,Orange,Townhouse,546.09,599545,Orange,33.703,-117.7611
+991,2020,Orange,All Residential,6661.09,836747.91,Orange,33.703,-117.7611
+992,2020,Orange,Condo/Co-op,1927.09,543750,Orange,33.703,-117.7611
+993,2020,Orange,Multi-Family (2-4 Unit),181.27,1291659.09,Orange,33.703,-117.7611
+994,2020,Orange,Single Family Residential,4089.36,963045.45,Orange,33.703,-117.7611
+995,2020,Orange,Townhouse,463.36,641188.64,Orange,33.703,-117.7611
+996,2021,Orange,All Residential,4339.55,971136.36,Orange,33.703,-117.7611
+997,2021,Orange,Condo/Co-op,1262.36,615113.64,Orange,33.703,-117.7611
+998,2021,Orange,Multi-Family (2-4 Unit),153.36,1547483.45,Orange,33.703,-117.7611
+999,2021,Orange,Single Family Residential,2648.45,1165113.64,Orange,33.703,-117.7611
+1000,2021,Orange,Townhouse,275.36,748863.64,Orange,33.703,-117.7611
+1001,2022,Orange,All Residential,4394,1958000,Orange,33.703,-117.7611
+1002,2022,Orange,Condo/Co-op,1316,1269000,Orange,33.703,-117.7611
+1003,2022,Orange,Multi-Family (2-4 Unit),206,3060000,Orange,33.703,-117.7611
+1004,2022,Orange,Single Family Residential,2594,2420000,Orange,33.703,-117.7611
+1005,2022,Orange,Townhouse,278,1541250,Orange,33.703,-117.7611
+1006,2012,Placer,All Residential,1757.18,303245.45,Placer,39.0635,-120.7175
+1007,2012,Placer,Condo/Co-op,213.82,172372.64,Placer,39.0635,-120.7175
+1008,2012,Placer,Multi-Family (2-4 Unit),14.1,218075,Placer,39.0635,-120.7175
+1009,2012,Placer,Single Family Residential,1526.91,309184.09,Placer,39.0635,-120.7175
+1010,2012,Placer,Townhouse,2.4,165650,Placer,39.0635,-120.7175
+1011,2013,Placer,All Residential,1492.73,373269.32,Placer,39.0635,-120.7175
+1012,2013,Placer,Condo/Co-op,189.82,228639.5,Placer,39.0635,-120.7175
+1013,2013,Placer,Multi-Family (2-4 Unit),19.09,290553,Placer,39.0635,-120.7175
+1014,2013,Placer,Single Family Residential,1281.82,382338.95,Placer,39.0635,-120.7175
+1015,2013,Placer,Townhouse,2.71,164178.57,Placer,39.0635,-120.7175
+1016,2014,Placer,All Residential,1928.45,407255.45,Placer,39.0635,-120.7175
+1017,2014,Placer,Condo/Co-op,203.73,240431.82,Placer,39.0635,-120.7175
+1018,2014,Placer,Multi-Family (2-4 Unit),23.8,274655,Placer,39.0635,-120.7175
+1019,2014,Placer,Single Family Residential,1699.45,414931.82,Placer,39.0635,-120.7175
+1020,2014,Placer,Townhouse,2,243750,Placer,39.0635,-120.7175
+1021,2015,Placer,All Residential,1860,421572.64,Placer,39.0635,-120.7175
+1022,2015,Placer,Condo/Co-op,226.45,244954.55,Placer,39.0635,-120.7175
+1023,2015,Placer,Multi-Family (2-4 Unit),18.55,333494.95,Placer,39.0635,-120.7175
+1024,2015,Placer,Single Family Residential,1612.64,430642.27,Placer,39.0635,-120.7175
+1025,2015,Placer,Townhouse,2.25,218812.5,Placer,39.0635,-120.7175
+1026,2016,Placer,All Residential,1701.27,459993.14,Placer,39.0635,-120.7175
+1027,2016,Placer,Condo/Co-op,224.64,278318.18,Placer,39.0635,-120.7175
+1028,2016,Placer,Multi-Family (2-4 Unit),15.18,365075,Placer,39.0635,-120.7175
+1029,2016,Placer,Single Family Residential,1459.82,468925.18,Placer,39.0635,-120.7175
+1030,2016,Placer,Townhouse,1.67,306083.33,Placer,39.0635,-120.7175
+1031,2017,Placer,All Residential,1447.91,489340.91,Placer,39.0635,-120.7175
+1032,2017,Placer,Condo/Co-op,169.36,317981.82,Placer,39.0635,-120.7175
+1033,2017,Placer,Multi-Family (2-4 Unit),12,424272.73,Placer,39.0635,-120.7175
+1034,2017,Placer,Single Family Residential,1264.18,497522.73,Placer,39.0635,-120.7175
+1035,2017,Placer,Townhouse,2.75,302798.31,Placer,39.0635,-120.7175
+1036,2018,Placer,All Residential,1511.09,520187.73,Placer,39.0635,-120.7175
+1037,2018,Placer,Condo/Co-op,164.73,342777.27,Placer,39.0635,-120.7175
+1038,2018,Placer,Multi-Family (2-4 Unit),17.73,446876.36,Placer,39.0635,-120.7175
+1039,2018,Placer,Single Family Residential,1325.73,533956.86,Placer,39.0635,-120.7175
+1040,2018,Placer,Townhouse,3.33,366111.11,Placer,39.0635,-120.7175
+1041,2019,Placer,All Residential,1537,539681.82,Placer,39.0635,-120.7175
+1042,2019,Placer,Condo/Co-op,142.55,354477.27,Placer,39.0635,-120.7175
+1043,2019,Placer,Multi-Family (2-4 Unit),14.91,529272.73,Placer,39.0635,-120.7175
+1044,2019,Placer,Single Family Residential,1376.45,549877.36,Placer,39.0635,-120.7175
+1045,2019,Placer,Townhouse,3.2,406575,Placer,39.0635,-120.7175
+1046,2020,Placer,All Residential,1109.36,577772.27,Placer,39.0635,-120.7175
+1047,2020,Placer,Condo/Co-op,136.55,387909.09,Placer,39.0635,-120.7175
+1048,2020,Placer,Multi-Family (2-4 Unit),15.7,524920,Placer,39.0635,-120.7175
+1049,2020,Placer,Single Family Residential,955.27,588818.18,Placer,39.0635,-120.7175
+1050,2020,Placer,Townhouse,2.44,322944.44,Placer,39.0635,-120.7175
+1051,2021,Placer,All Residential,687.91,694662.23,Placer,39.0635,-120.7175
+1052,2021,Placer,Condo/Co-op,74.73,460954.55,Placer,39.0635,-120.7175
+1053,2021,Placer,Multi-Family (2-4 Unit),25.18,709000,Placer,39.0635,-120.7175
+1054,2021,Placer,Single Family Residential,585.91,705363.64,Placer,39.0635,-120.7175
+1055,2021,Placer,Townhouse,2.2,451932.1,Placer,39.0635,-120.7175
+1056,2022,Placer,All Residential,834,1346250,Placer,39.0635,-120.7175
+1057,2022,Placer,Condo/Co-op,76,876000,Placer,39.0635,-120.7175
+1058,2022,Placer,Multi-Family (2-4 Unit),36,1772500,Placer,39.0635,-120.7175
+1059,2022,Placer,Single Family Residential,719,1365464,Placer,39.0635,-120.7175
+1060,2022,Placer,Townhouse,3,932500,Placer,39.0635,-120.7175
+1061,2012,Riverside,All Residential,8471.1,225800,Riverside,33.7437,-115.9938
+1062,2012,Riverside,Condo/Co-op,1345.2,166062.5,Riverside,33.7437,-115.9938
+1063,2012,Riverside,Multi-Family (2-4 Unit),136.4,196035,Riverside,33.7437,-115.9938
+1064,2012,Riverside,Single Family Residential,6952.8,232800,Riverside,33.7437,-115.9938
+1065,2012,Riverside,Townhouse,36.7,159004.5,Riverside,33.7437,-115.9938
+1066,2013,Riverside,All Residential,6590.91,279496.82,Riverside,33.7437,-115.9938
+1067,2013,Riverside,Condo/Co-op,1194.91,202972.73,Riverside,33.7437,-115.9938
+1068,2013,Riverside,Multi-Family (2-4 Unit),129.45,244524.77,Riverside,33.7437,-115.9938
+1069,2013,Riverside,Single Family Residential,5237,291067.73,Riverside,33.7437,-115.9938
+1070,2013,Riverside,Townhouse,29.55,227336.36,Riverside,33.7437,-115.9938
+1071,2014,Riverside,All Residential,9673.55,316840.91,Riverside,33.7437,-115.9938
+1072,2014,Riverside,Condo/Co-op,1475.55,236090.91,Riverside,33.7437,-115.9938
+1073,2014,Riverside,Multi-Family (2-4 Unit),168.45,253959.09,Riverside,33.7437,-115.9938
+1074,2014,Riverside,Single Family Residential,7981.91,327420.27,Riverside,33.7437,-115.9938
+1075,2014,Riverside,Townhouse,47.64,266614.82,Riverside,33.7437,-115.9938
+1076,2015,Riverside,All Residential,11161.73,334635.91,Riverside,33.7437,-115.9938
+1077,2015,Riverside,Condo/Co-op,1734.91,237886.36,Riverside,33.7437,-115.9938
+1078,2015,Riverside,Multi-Family (2-4 Unit),185.09,295795.45,Riverside,33.7437,-115.9938
+1079,2015,Riverside,Single Family Residential,9187.45,347108.64,Riverside,33.7437,-115.9938
+1080,2015,Riverside,Townhouse,54.27,289058.64,Riverside,33.7437,-115.9938
+1081,2016,Riverside,All Residential,11613.09,356681.82,Riverside,33.7437,-115.9938
+1082,2016,Riverside,Condo/Co-op,1836.18,246636.36,Riverside,33.7437,-115.9938
+1083,2016,Riverside,Multi-Family (2-4 Unit),165.18,319828.5,Riverside,33.7437,-115.9938
+1084,2016,Riverside,Single Family Residential,9551.82,370340.91,Riverside,33.7437,-115.9938
+1085,2016,Riverside,Townhouse,59.91,298762.91,Riverside,33.7437,-115.9938
+1086,2017,Riverside,All Residential,10316.09,382980.45,Riverside,33.7437,-115.9938
+1087,2017,Riverside,Condo/Co-op,1565.91,262136.36,Riverside,33.7437,-115.9938
+1088,2017,Riverside,Multi-Family (2-4 Unit),149.18,355231.82,Riverside,33.7437,-115.9938
+1089,2017,Riverside,Single Family Residential,8532.27,399463.18,Riverside,33.7437,-115.9938
+1090,2017,Riverside,Townhouse,68.73,350782.05,Riverside,33.7437,-115.9938
+1091,2018,Riverside,All Residential,10938.27,409279.77,Riverside,33.7437,-115.9938
+1092,2018,Riverside,Condo/Co-op,1325.55,286977.27,Riverside,33.7437,-115.9938
+1093,2018,Riverside,Multi-Family (2-4 Unit),137.36,390886.36,Riverside,33.7437,-115.9938
+1094,2018,Riverside,Single Family Residential,9398.55,425159.09,Riverside,33.7437,-115.9938
+1095,2018,Riverside,Townhouse,76.82,351609.09,Riverside,33.7437,-115.9938
+1096,2019,Riverside,All Residential,11140.27,422954.55,Riverside,33.7437,-115.9938
+1097,2019,Riverside,Condo/Co-op,1436.82,305363.64,Riverside,33.7437,-115.9938
+1098,2019,Riverside,Multi-Family (2-4 Unit),138.18,422659.09,Riverside,33.7437,-115.9938
+1099,2019,Riverside,Single Family Residential,9474,438267.27,Riverside,33.7437,-115.9938
+1100,2019,Riverside,Townhouse,91.27,377380.32,Riverside,33.7437,-115.9938
+1101,2020,Riverside,All Residential,7810.82,466545.45,Riverside,33.7437,-115.9938
+1102,2020,Riverside,Condo/Co-op,1304.55,330727.27,Riverside,33.7437,-115.9938
+1103,2020,Riverside,Multi-Family (2-4 Unit),115.09,442863.64,Riverside,33.7437,-115.9938
+1104,2020,Riverside,Single Family Residential,6327.45,484550.68,Riverside,33.7437,-115.9938
+1105,2020,Riverside,Townhouse,63.73,398795.45,Riverside,33.7437,-115.9938
+1106,2021,Riverside,All Residential,5069.73,566873.77,Riverside,33.7437,-115.9938
+1107,2021,Riverside,Condo/Co-op,634.45,401681.82,Riverside,33.7437,-115.9938
+1108,2021,Riverside,Multi-Family (2-4 Unit),107.64,551613.64,Riverside,33.7437,-115.9938
+1109,2021,Riverside,Single Family Residential,4288.73,590363.64,Riverside,33.7437,-115.9938
+1110,2021,Riverside,Townhouse,39.36,466727.27,Riverside,33.7437,-115.9938
+1111,2022,Riverside,All Residential,6895,1143000,Riverside,33.7437,-115.9938
+1112,2022,Riverside,Condo/Co-op,807,883000,Riverside,33.7437,-115.9938
+1113,2022,Riverside,Multi-Family (2-4 Unit),154,1247000,Riverside,33.7437,-115.9938
+1114,2022,Riverside,Single Family Residential,5892,1175000,Riverside,33.7437,-115.9938
+1115,2022,Riverside,Townhouse,42,928000,Riverside,33.7437,-115.9938
+1116,2012,Sacramento,All Residential,4475.09,183390.91,Sacramento,38.4493,-121.3443
+1117,2012,Sacramento,Condo/Co-op,333.18,86850,Sacramento,38.4493,-121.3443
+1118,2012,Sacramento,Multi-Family (2-4 Unit),154.27,187559.09,Sacramento,38.4493,-121.3443
+1119,2012,Sacramento,Single Family Residential,3973.18,190154.55,Sacramento,38.4493,-121.3443
+1120,2012,Sacramento,Townhouse,14.45,94754.55,Sacramento,38.4493,-121.3443
+1121,2013,Sacramento,All Residential,3279.82,245681.73,Sacramento,38.4493,-121.3443
+1122,2013,Sacramento,Condo/Co-op,232.64,131040.91,Sacramento,38.4493,-121.3443
+1123,2013,Sacramento,Multi-Family (2-4 Unit),161,247727.27,Sacramento,38.4493,-121.3443
+1124,2013,Sacramento,Single Family Residential,2872.91,254818.18,Sacramento,38.4493,-121.3443
+1125,2013,Sacramento,Townhouse,13.27,119431.82,Sacramento,38.4493,-121.3443
+1126,2014,Sacramento,All Residential,4096.82,277809.09,Sacramento,38.4493,-121.3443
+1127,2014,Sacramento,Condo/Co-op,329.55,147672.73,Sacramento,38.4493,-121.3443
+1128,2014,Sacramento,Multi-Family (2-4 Unit),195.36,263076.73,Sacramento,38.4493,-121.3443
+1129,2014,Sacramento,Single Family Residential,3557.73,286631.82,Sacramento,38.4493,-121.3443
+1130,2014,Sacramento,Townhouse,14.18,130931.73,Sacramento,38.4493,-121.3443
+1131,2015,Sacramento,All Residential,3577.45,298522.73,Sacramento,38.4493,-121.3443
+1132,2015,Sacramento,Condo/Co-op,256.09,155234.91,Sacramento,38.4493,-121.3443
+1133,2015,Sacramento,Multi-Family (2-4 Unit),173.36,293318.18,Sacramento,38.4493,-121.3443
+1134,2015,Sacramento,Single Family Residential,3137.36,309090.91,Sacramento,38.4493,-121.3443
+1135,2015,Sacramento,Townhouse,10.64,179677.27,Sacramento,38.4493,-121.3443
+1136,2016,Sacramento,All Residential,3086.73,329909.09,Sacramento,38.4493,-121.3443
+1137,2016,Sacramento,Condo/Co-op,171.27,181000,Sacramento,38.4493,-121.3443
+1138,2016,Sacramento,Multi-Family (2-4 Unit),158.36,331870.45,Sacramento,38.4493,-121.3443
+1139,2016,Sacramento,Single Family Residential,2747.55,338477.27,Sacramento,38.4493,-121.3443
+1140,2016,Sacramento,Townhouse,9.55,217000,Sacramento,38.4493,-121.3443
+1141,2017,Sacramento,All Residential,2656.91,356890.91,Sacramento,38.4493,-121.3443
+1142,2017,Sacramento,Condo/Co-op,154,210431.82,Sacramento,38.4493,-121.3443
+1143,2017,Sacramento,Multi-Family (2-4 Unit),116.45,361859.09,Sacramento,38.4493,-121.3443
+1144,2017,Sacramento,Single Family Residential,2378.55,366431.82,Sacramento,38.4493,-121.3443
+1145,2017,Sacramento,Townhouse,7.91,213909.09,Sacramento,38.4493,-121.3443
+1146,2018,Sacramento,All Residential,3145.36,385704.55,Sacramento,38.4493,-121.3443
+1147,2018,Sacramento,Condo/Co-op,201.55,236545.45,Sacramento,38.4493,-121.3443
+1148,2018,Sacramento,Multi-Family (2-4 Unit),126.73,417522.68,Sacramento,38.4493,-121.3443
+1149,2018,Sacramento,Single Family Residential,2808.09,395840.91,Sacramento,38.4493,-121.3443
+1150,2018,Sacramento,Townhouse,9,223863.64,Sacramento,38.4493,-121.3443
+1151,2019,Sacramento,All Residential,2736.45,400727.27,Sacramento,38.4493,-121.3443
+1152,2019,Sacramento,Condo/Co-op,187.73,243250,Sacramento,38.4493,-121.3443
+1153,2019,Sacramento,Multi-Family (2-4 Unit),113.82,438181.82,Sacramento,38.4493,-121.3443
+1154,2019,Sacramento,Single Family Residential,2423,411000,Sacramento,38.4493,-121.3443
+1155,2019,Sacramento,Townhouse,11.91,262681.82,Sacramento,38.4493,-121.3443
+1156,2020,Sacramento,All Residential,1842.36,443022.73,Sacramento,38.4493,-121.3443
+1157,2020,Sacramento,Condo/Co-op,171.36,266409.09,Sacramento,38.4493,-121.3443
+1158,2020,Sacramento,Multi-Family (2-4 Unit),113.09,499545.45,Sacramento,38.4493,-121.3443
+1159,2020,Sacramento,Single Family Residential,1547,451964.95,Sacramento,38.4493,-121.3443
+1160,2020,Sacramento,Townhouse,10.91,299022.73,Sacramento,38.4493,-121.3443
+1161,2021,Sacramento,All Residential,1418,526691.18,Sacramento,38.4493,-121.3443
+1162,2021,Sacramento,Condo/Co-op,99.73,313181.82,Sacramento,38.4493,-121.3443
+1163,2021,Sacramento,Multi-Family (2-4 Unit),116.18,586194.36,Sacramento,38.4493,-121.3443
+1164,2021,Sacramento,Single Family Residential,1185.64,541022.73,Sacramento,38.4493,-121.3443
+1165,2021,Sacramento,Townhouse,16.45,372067.27,Sacramento,38.4493,-121.3443
+1166,2022,Sacramento,All Residential,1647,1023000,Sacramento,38.4493,-121.3443
+1167,2022,Sacramento,Condo/Co-op,104,639500,Sacramento,38.4493,-121.3443
+1168,2022,Sacramento,Multi-Family (2-4 Unit),124,1115000,Sacramento,38.4493,-121.3443
+1169,2022,Sacramento,Single Family Residential,1398,1055000,Sacramento,38.4493,-121.3443
+1170,2022,Sacramento,Townhouse,21,745000,Sacramento,38.4493,-121.3443
+1171,2012,San Benito,All Residential,125.64,309863.64,San Benito,36.6057,-121.075
+1172,2012,San Benito,Condo/Co-op,1.25,254500,San Benito,36.6057,-121.075
+1173,2012,San Benito,Multi-Family (2-4 Unit),2.38,306612.5,San Benito,36.6057,-121.075
+1174,2012,San Benito,Single Family Residential,117.18,318486.36,San Benito,36.6057,-121.075
+1175,2012,San Benito,Townhouse,4.91,207204.64,San Benito,36.6057,-121.075
+1176,2013,San Benito,All Residential,90.64,400454.55,San Benito,36.6057,-121.075
+1177,2013,San Benito,Condo/Co-op,0,310000,San Benito,36.6057,-121.075
+1178,2013,San Benito,Multi-Family (2-4 Unit),2,476000,San Benito,36.6057,-121.075
+1179,2013,San Benito,Single Family Residential,85.91,403595.45,San Benito,36.6057,-121.075
+1180,2013,San Benito,Townhouse,2.38,276156.25,San Benito,36.6057,-121.075
+1181,2014,San Benito,All Residential,130.82,451545.45,San Benito,36.6057,-121.075
+1182,2014,San Benito,Condo/Co-op,3.6,310850,San Benito,36.6057,-121.075
+1183,2014,San Benito,Multi-Family (2-4 Unit),6.67,727083.33,San Benito,36.6057,-121.075
+1184,2014,San Benito,Single Family Residential,116.73,457818.18,San Benito,36.6057,-121.075
+1185,2014,San Benito,Townhouse,5.2,315700,San Benito,36.6057,-121.075
+1186,2015,San Benito,All Residential,136.82,497863.64,San Benito,36.6057,-121.075
+1187,2015,San Benito,Condo/Co-op,2.33,349416.67,San Benito,36.6057,-121.075
+1188,2015,San Benito,Multi-Family (2-4 Unit),7.33,585750,San Benito,36.6057,-121.075
+1189,2015,San Benito,Single Family Residential,122.82,509312.27,San Benito,36.6057,-121.075
+1190,2015,San Benito,Townhouse,4.6,358806.8,San Benito,36.6057,-121.075
+1191,2016,San Benito,All Residential,188,533222.73,San Benito,36.6057,-121.075
+1192,2016,San Benito,Condo/Co-op,1,630850,San Benito,36.6057,-121.075
+1193,2016,San Benito,Multi-Family (2-4 Unit),7,694166.67,San Benito,36.6057,-121.075
+1194,2016,San Benito,Single Family Residential,172.91,542545.45,San Benito,36.6057,-121.075
+1195,2016,San Benito,Townhouse,8.91,403972.73,San Benito,36.6057,-121.075
+1196,2017,San Benito,All Residential,171.36,585250,San Benito,36.6057,-121.075
+1197,2017,San Benito,Condo/Co-op,2,428500,San Benito,36.6057,-121.075
+1198,2017,San Benito,Multi-Family (2-4 Unit),4.71,937735.71,San Benito,36.6057,-121.075
+1199,2017,San Benito,Single Family Residential,155.09,596087.09,San Benito,36.6057,-121.075
+1200,2017,San Benito,Townhouse,10.8,374905,San Benito,36.6057,-121.075
+1201,2018,San Benito,All Residential,157,616307.5,San Benito,36.6057,-121.075
+1202,2018,San Benito,Condo/Co-op,0,845000,San Benito,36.6057,-121.075
+1203,2018,San Benito,Multi-Family (2-4 Unit),4,709000,San Benito,36.6057,-121.075
+1204,2018,San Benito,Single Family Residential,140.36,628284.14,San Benito,36.6057,-121.075
+1205,2018,San Benito,Townhouse,11.91,445393.18,San Benito,36.6057,-121.075
+1206,2019,San Benito,All Residential,180.36,637059,San Benito,36.6057,-121.075
+1207,2019,San Benito,Condo/Co-op,2,789578,San Benito,36.6057,-121.075
+1208,2019,San Benito,Multi-Family (2-4 Unit),3,1203500,San Benito,36.6057,-121.075
+1209,2019,San Benito,Single Family Residential,163.09,646600.32,San Benito,36.6057,-121.075
+1210,2019,San Benito,Townhouse,13.73,420340.91,San Benito,36.6057,-121.075
+1211,2020,San Benito,All Residential,140.64,678877.27,San Benito,36.6057,-121.075
+1212,2020,San Benito,Condo/Co-op,0,420000,San Benito,36.6057,-121.075
+1213,2020,San Benito,Multi-Family (2-4 Unit),3,869583.33,San Benito,36.6057,-121.075
+1214,2020,San Benito,Single Family Residential,132.82,689965.23,San Benito,36.6057,-121.075
+1215,2020,San Benito,Townhouse,4.4,470100,San Benito,36.6057,-121.075
+1216,2021,San Benito,All Residential,109.82,822809.09,San Benito,36.6057,-121.075
+1217,2021,San Benito,Condo/Co-op,0.33,542333.33,San Benito,36.6057,-121.075
+1218,2021,San Benito,Multi-Family (2-4 Unit),0.8,1031900,San Benito,36.6057,-121.075
+1219,2021,San Benito,Single Family Residential,104.73,835997,San Benito,36.6057,-121.075
+1220,2021,San Benito,Townhouse,3.6,540250,San Benito,36.6057,-121.075
+1221,2022,San Benito,All Residential,121,1662500,San Benito,36.6057,-121.075
+1222,2022,San Benito,Condo/Co-op,0,543000,San Benito,36.6057,-121.075
+1223,2022,San Benito,Multi-Family (2-4 Unit),4,2217500,San Benito,36.6057,-121.075
+1224,2022,San Benito,Single Family Residential,114,1687500,San Benito,36.6057,-121.075
+1225,2022,San Benito,Townhouse,3,1065000,San Benito,36.6057,-121.075
+1226,2012,San Bernardino,All Residential,5193.2,175325,San Bernardino,34.8414,-116.1784
+1227,2012,San Bernardino,Condo/Co-op,246.1,144819.95,San Bernardino,34.8414,-116.1784
+1228,2012,San Bernardino,Multi-Family (2-4 Unit),159.4,184025,San Bernardino,34.8414,-116.1784
+1229,2012,San Bernardino,Single Family Residential,4737.5,176656.35,San Bernardino,34.8414,-116.1784
+1230,2012,San Bernardino,Townhouse,50.2,224195,San Bernardino,34.8414,-116.1784
+1231,2013,San Bernardino,All Residential,4039.09,234172.73,San Bernardino,34.8414,-116.1784
+1232,2013,San Bernardino,Condo/Co-op,170,197818.18,San Bernardino,34.8414,-116.1784
+1233,2013,San Bernardino,Multi-Family (2-4 Unit),203.73,231772.73,San Bernardino,34.8414,-116.1784
+1234,2013,San Bernardino,Single Family Residential,3633.36,236840.91,San Bernardino,34.8414,-116.1784
+1235,2013,San Bernardino,Townhouse,32,264340.91,San Bernardino,34.8414,-116.1784
+1236,2014,San Bernardino,All Residential,6212.18,275493.18,San Bernardino,34.8414,-116.1784
+1237,2014,San Bernardino,Condo/Co-op,293,240050,San Bernardino,34.8414,-116.1784
+1238,2014,San Bernardino,Multi-Family (2-4 Unit),264,257595.45,San Bernardino,34.8414,-116.1784
+1239,2014,San Bernardino,Single Family Residential,5586.91,279068.18,San Bernardino,34.8414,-116.1784
+1240,2014,San Bernardino,Townhouse,68.27,296886.36,San Bernardino,34.8414,-116.1784
+1241,2015,San Bernardino,All Residential,7073.36,297840.91,San Bernardino,34.8414,-116.1784
+1242,2015,San Bernardino,Condo/Co-op,305.73,266318.18,San Bernardino,34.8414,-116.1784
+1243,2015,San Bernardino,Multi-Family (2-4 Unit),338.18,304431.82,San Bernardino,34.8414,-116.1784
+1244,2015,San Bernardino,Single Family Residential,6353.73,300407.45,San Bernardino,34.8414,-116.1784
+1245,2015,San Bernardino,Townhouse,75.73,320545.45,San Bernardino,34.8414,-116.1784
+1246,2016,San Bernardino,All Residential,7319.18,317822.73,San Bernardino,34.8414,-116.1784
+1247,2016,San Bernardino,Condo/Co-op,327.18,286032,San Bernardino,34.8414,-116.1784
+1248,2016,San Bernardino,Multi-Family (2-4 Unit),298.91,308236.36,San Bernardino,34.8414,-116.1784
+1249,2016,San Bernardino,Single Family Residential,6634.73,321177.27,San Bernardino,34.8414,-116.1784
+1250,2016,San Bernardino,Townhouse,58.36,321500,San Bernardino,34.8414,-116.1784
+1251,2017,San Bernardino,All Residential,6972.09,343045.45,San Bernardino,34.8414,-116.1784
+1252,2017,San Bernardino,Condo/Co-op,330.91,317090.91,San Bernardino,34.8414,-116.1784
+1253,2017,San Bernardino,Multi-Family (2-4 Unit),245.55,357772.73,San Bernardino,34.8414,-116.1784
+1254,2017,San Bernardino,Single Family Residential,6318.09,344568.18,San Bernardino,34.8414,-116.1784
+1255,2017,San Bernardino,Townhouse,77.55,358659.09,San Bernardino,34.8414,-116.1784
+1256,2018,San Bernardino,All Residential,7432,364545.45,San Bernardino,34.8414,-116.1784
+1257,2018,San Bernardino,Condo/Co-op,358.64,345431.82,San Bernardino,34.8414,-116.1784
+1258,2018,San Bernardino,Multi-Family (2-4 Unit),218.91,387289.36,San Bernardino,34.8414,-116.1784
+1259,2018,San Bernardino,Single Family Residential,6775.36,365909.09,San Bernardino,34.8414,-116.1784
+1260,2018,San Bernardino,Townhouse,79.09,377080.05,San Bernardino,34.8414,-116.1784
+1261,2019,San Bernardino,All Residential,7437.45,382090.91,San Bernardino,34.8414,-116.1784
+1262,2019,San Bernardino,Condo/Co-op,411.82,355427.27,San Bernardino,34.8414,-116.1784
+1263,2019,San Bernardino,Multi-Family (2-4 Unit),191,377863.64,San Bernardino,34.8414,-116.1784
+1264,2019,San Bernardino,Single Family Residential,6740.27,385295.45,San Bernardino,34.8414,-116.1784
+1265,2019,San Bernardino,Townhouse,94.36,381909.09,San Bernardino,34.8414,-116.1784
+1266,2020,San Bernardino,All Residential,5580.91,409635.91,San Bernardino,34.8414,-116.1784
+1267,2020,San Bernardino,Condo/Co-op,308.36,387966.82,San Bernardino,34.8414,-116.1784
+1268,2020,San Bernardino,Multi-Family (2-4 Unit),156.27,456028.55,San Bernardino,34.8414,-116.1784
+1269,2020,San Bernardino,Single Family Residential,5038.82,411590.91,San Bernardino,34.8414,-116.1784
+1270,2020,San Bernardino,Townhouse,77.45,428741.45,San Bernardino,34.8414,-116.1784
+1271,2021,San Bernardino,All Residential,4323.91,491318.18,San Bernardino,34.8414,-116.1784
+1272,2021,San Bernardino,Condo/Co-op,193.09,437636.36,San Bernardino,34.8414,-116.1784
+1273,2021,San Bernardino,Multi-Family (2-4 Unit),153.18,517545.45,San Bernardino,34.8414,-116.1784
+1274,2021,San Bernardino,Single Family Residential,3917.18,497590.91,San Bernardino,34.8414,-116.1784
+1275,2021,San Bernardino,Townhouse,60.45,485204.55,San Bernardino,34.8414,-116.1784
+1276,2022,San Bernardino,All Residential,5776,960000,San Bernardino,34.8414,-116.1784
+1277,2022,San Bernardino,Condo/Co-op,243,916814,San Bernardino,34.8414,-116.1784
+1278,2022,San Bernardino,Multi-Family (2-4 Unit),146,1020000,San Bernardino,34.8414,-116.1784
+1279,2022,San Bernardino,Single Family Residential,5326,962000,San Bernardino,34.8414,-116.1784
+1280,2022,San Bernardino,Townhouse,61,1075500,San Bernardino,34.8414,-116.1784
+1281,2012,San Diego,All Residential,8098.09,366022.73,San Diego,33.0341,-116.7353
+1282,2012,San Diego,Condo/Co-op,1930.82,244999.55,San Diego,33.0341,-116.7353
+1283,2012,San Diego,Multi-Family (2-4 Unit),267.09,377409.09,San Diego,33.0341,-116.7353
+1284,2012,San Diego,Single Family Residential,5390.64,413659.09,San Diego,33.0341,-116.7353
+1285,2012,San Diego,Townhouse,509.55,267750,San Diego,33.0341,-116.7353
+1286,2013,San Diego,All Residential,7510.73,440068.18,San Diego,33.0341,-116.7353
+1287,2013,San Diego,Condo/Co-op,1847.82,318654.55,San Diego,33.0341,-116.7353
+1288,2013,San Diego,Multi-Family (2-4 Unit),311.73,509068.18,San Diego,33.0341,-116.7353
+1289,2013,San Diego,Single Family Residential,5003.82,492925.64,San Diego,33.0341,-116.7353
+1290,2013,San Diego,Townhouse,347.36,333495.45,San Diego,33.0341,-116.7353
+1291,2014,San Diego,All Residential,9260.64,477454.55,San Diego,33.0341,-116.7353
+1292,2014,San Diego,Condo/Co-op,2343,353613.64,San Diego,33.0341,-116.7353
+1293,2014,San Diego,Multi-Family (2-4 Unit),344,545863.64,San Diego,33.0341,-116.7353
+1294,2014,San Diego,Single Family Residential,6125.55,536886.36,San Diego,33.0341,-116.7353
+1295,2014,San Diego,Townhouse,448.09,377522.73,San Diego,33.0341,-116.7353
+1296,2015,San Diego,All Residential,8373.55,506519.64,San Diego,33.0341,-116.7353
+1297,2015,San Diego,Condo/Co-op,2087.18,376909.09,San Diego,33.0341,-116.7353
+1298,2015,San Diego,Multi-Family (2-4 Unit),296.09,611250,San Diego,33.0341,-116.7353
+1299,2015,San Diego,Single Family Residential,5597.27,569752.05,San Diego,33.0341,-116.7353
+1300,2015,San Diego,Townhouse,393,399859.09,San Diego,33.0341,-116.7353
+1301,2016,San Diego,All Residential,7632.91,540000,San Diego,33.0341,-116.7353
+1302,2016,San Diego,Condo/Co-op,1727.36,405813.64,San Diego,33.0341,-116.7353
+1303,2016,San Diego,Multi-Family (2-4 Unit),267.91,675386.36,San Diego,33.0341,-116.7353
+1304,2016,San Diego,Single Family Residential,5319.82,606063.64,San Diego,33.0341,-116.7353
+1305,2016,San Diego,Townhouse,317.82,419568.18,San Diego,33.0341,-116.7353
+1306,2017,San Diego,All Residential,6384.82,584271.82,San Diego,33.0341,-116.7353
+1307,2017,San Diego,Condo/Co-op,1456,429714.86,San Diego,33.0341,-116.7353
+1308,2017,San Diego,Multi-Family (2-4 Unit),227.55,735813.09,San Diego,33.0341,-116.7353
+1309,2017,San Diego,Single Family Residential,4422.73,652227.27,San Diego,33.0341,-116.7353
+1310,2017,San Diego,Townhouse,278.55,466000,San Diego,33.0341,-116.7353
+1311,2018,San Diego,All Residential,7827.82,618818.18,San Diego,33.0341,-116.7353
+1312,2018,San Diego,Condo/Co-op,1870.91,437931.82,San Diego,33.0341,-116.7353
+1313,2018,San Diego,Multi-Family (2-4 Unit),248.64,807971.59,San Diego,33.0341,-116.7353
+1314,2018,San Diego,Single Family Residential,5280,691762.5,San Diego,33.0341,-116.7353
+1315,2018,San Diego,Townhouse,428.27,529818.18,San Diego,33.0341,-116.7353
+1316,2019,San Diego,All Residential,7450.73,633090.91,San Diego,33.0341,-116.7353
+1317,2019,San Diego,Condo/Co-op,1912.09,447518.18,San Diego,33.0341,-116.7353
+1318,2019,San Diego,Multi-Family (2-4 Unit),247.73,830022.73,San Diego,33.0341,-116.7353
+1319,2019,San Diego,Single Family Residential,4825.73,703136.36,San Diego,33.0341,-116.7353
+1320,2019,San Diego,Townhouse,465.18,544008.64,San Diego,33.0341,-116.7353
+1321,2020,San Diego,All Residential,4950.27,686328.18,San Diego,33.0341,-116.7353
+1322,2020,San Diego,Condo/Co-op,1425.36,466772.73,San Diego,33.0341,-116.7353
+1323,2020,San Diego,Multi-Family (2-4 Unit),222.45,914409.09,San Diego,33.0341,-116.7353
+1324,2020,San Diego,Single Family Residential,2928.91,770272.73,San Diego,33.0341,-116.7353
+1325,2020,San Diego,Townhouse,373.55,581317.91,San Diego,33.0341,-116.7353
+1326,2021,San Diego,All Residential,3175.45,806181.82,San Diego,33.0341,-116.7353
+1327,2021,San Diego,Condo/Co-op,750.64,548954.55,San Diego,33.0341,-116.7353
+1328,2021,San Diego,Multi-Family (2-4 Unit),178.64,1087727.27,San Diego,33.0341,-116.7353
+1329,2021,San Diego,Single Family Residential,2030,908545.45,San Diego,33.0341,-116.7353
+1330,2021,San Diego,Townhouse,216.18,680272.73,San Diego,33.0341,-116.7353
+1331,2022,San Diego,All Residential,3363,1580000,San Diego,33.0341,-116.7353
+1332,2022,San Diego,Condo/Co-op,695,1142500,San Diego,33.0341,-116.7353
+1333,2022,San Diego,Multi-Family (2-4 Unit),163,2209500,San Diego,33.0341,-116.7353
+1334,2022,San Diego,Single Family Residential,2254,1781000,San Diego,33.0341,-116.7353
+1335,2022,San Diego,Townhouse,251,1315000,San Diego,33.0341,-116.7353
+1336,2012,San Francisco,All Residential,876.91,815318.18,San Francisco,37.7562,-122.443
+1337,2012,San Francisco,Condo/Co-op,402.36,766022.73,San Francisco,37.7562,-122.443
+1338,2012,San Francisco,Multi-Family (2-4 Unit),100.91,1119250,San Francisco,37.7562,-122.443
+1339,2012,San Francisco,Single Family Residential,346.73,822863.64,San Francisco,37.7562,-122.443
+1340,2012,San Francisco,Townhouse,26.91,911400,San Francisco,37.7562,-122.443
+1341,2013,San Francisco,All Residential,660,953159.09,San Francisco,37.7562,-122.443
+1342,2013,San Francisco,Condo/Co-op,303.18,887477.27,San Francisco,37.7562,-122.443
+1343,2013,San Francisco,Multi-Family (2-4 Unit),72.91,1385777.27,San Francisco,37.7562,-122.443
+1344,2013,San Francisco,Single Family Residential,267.73,996590.91,San Francisco,37.7562,-122.443
+1345,2013,San Francisco,Townhouse,16.18,1097081.82,San Francisco,37.7562,-122.443
+1346,2014,San Francisco,All Residential,580.55,1118045.45,San Francisco,37.7562,-122.443
+1347,2014,San Francisco,Condo/Co-op,269.36,1027469.64,San Francisco,37.7562,-122.443
+1348,2014,San Francisco,Multi-Family (2-4 Unit),68.27,1659954.55,San Francisco,37.7562,-122.443
+1349,2014,San Francisco,Single Family Residential,228.55,1156659.09,San Francisco,37.7562,-122.443
+1350,2014,San Francisco,Townhouse,14.36,1278541.36,San Francisco,37.7562,-122.443
+1351,2015,San Francisco,All Residential,558.45,1290272.73,San Francisco,37.7562,-122.443
+1352,2015,San Francisco,Condo/Co-op,257.55,1160874.27,San Francisco,37.7562,-122.443
+1353,2015,San Francisco,Multi-Family (2-4 Unit),68.09,1806727.27,San Francisco,37.7562,-122.443
+1354,2015,San Francisco,Single Family Residential,215.82,1337363.64,San Francisco,37.7562,-122.443
+1355,2015,San Francisco,Townhouse,17,1356024,San Francisco,37.7562,-122.443
+1356,2016,San Francisco,All Residential,826.64,1331772.73,San Francisco,37.7562,-122.443
+1357,2016,San Francisco,Condo/Co-op,434.09,1185136.36,San Francisco,37.7562,-122.443
+1358,2016,San Francisco,Multi-Family (2-4 Unit),85.36,1984772.73,San Francisco,37.7562,-122.443
+1359,2016,San Francisco,Single Family Residential,285.82,1436372.73,San Francisco,37.7562,-122.443
+1360,2016,San Francisco,Townhouse,21.36,1359173.45,San Francisco,37.7562,-122.443
+1361,2017,San Francisco,All Residential,760.45,1396909.09,San Francisco,37.7562,-122.443
+1362,2017,San Francisco,Condo/Co-op,427.82,1222250,San Francisco,37.7562,-122.443
+1363,2017,San Francisco,Multi-Family (2-4 Unit),86.73,2039150,San Francisco,37.7562,-122.443
+1364,2017,San Francisco,Single Family Residential,222.45,1531168.18,San Francisco,37.7562,-122.443
+1365,2017,San Francisco,Townhouse,23.45,1553750,San Francisco,37.7562,-122.443
+1366,2018,San Francisco,All Residential,808.91,1502522.73,San Francisco,37.7562,-122.443
+1367,2018,San Francisco,Condo/Co-op,435.73,1279389.55,San Francisco,37.7562,-122.443
+1368,2018,San Francisco,Multi-Family (2-4 Unit),101.55,2108718.18,San Francisco,37.7562,-122.443
+1369,2018,San Francisco,Single Family Residential,251.45,1702045.45,San Francisco,37.7562,-122.443
+1370,2018,San Francisco,Townhouse,20.18,1466097.18,San Francisco,37.7562,-122.443
+1371,2019,San Francisco,All Residential,861.09,1525250,San Francisco,37.7562,-122.443
+1372,2019,San Francisco,Condo/Co-op,476,1326500,San Francisco,37.7562,-122.443
+1373,2019,San Francisco,Multi-Family (2-4 Unit),104.45,2203704.55,San Francisco,37.7562,-122.443
+1374,2019,San Francisco,Single Family Residential,257.45,1713318.18,San Francisco,37.7562,-122.443
+1375,2019,San Francisco,Townhouse,23.18,1448000,San Francisco,37.7562,-122.443
+1376,2020,San Francisco,All Residential,1428.55,1556045.45,San Francisco,37.7562,-122.443
+1377,2020,San Francisco,Condo/Co-op,911.73,1305769.32,San Francisco,37.7562,-122.443
+1378,2020,San Francisco,Multi-Family (2-4 Unit),133.09,2097590.91,San Francisco,37.7562,-122.443
+1379,2020,San Francisco,Single Family Residential,355.82,1783545.45,San Francisco,37.7562,-122.443
+1380,2020,San Francisco,Townhouse,27.91,1634113.64,San Francisco,37.7562,-122.443
+1381,2021,San Francisco,All Residential,1243.45,1578500,San Francisco,37.7562,-122.443
+1382,2021,San Francisco,Condo/Co-op,799.36,1305573.73,San Francisco,37.7562,-122.443
+1383,2021,San Francisco,Multi-Family (2-4 Unit),148.73,2172727.27,San Francisco,37.7562,-122.443
+1384,2021,San Francisco,Single Family Residential,285.73,1918636.36,San Francisco,37.7562,-122.443
+1385,2021,San Francisco,Townhouse,9.64,1461681.82,San Francisco,37.7562,-122.443
+1386,2022,San Francisco,All Residential,1624,2815000,San Francisco,37.7562,-122.443
+1387,2022,San Francisco,Condo/Co-op,1080,2227500,San Francisco,37.7562,-122.443
+1388,2022,San Francisco,Multi-Family (2-4 Unit),195,3750000,San Francisco,37.7562,-122.443
+1389,2022,San Francisco,Single Family Residential,333,3430000,San Francisco,37.7562,-122.443
+1390,2022,San Francisco,Townhouse,16,2277500,San Francisco,37.7562,-122.443
+1391,2012,San Joaquin,All Residential,2156.64,178315.91,San Joaquin,37.9348,-121.2714
+1392,2012,San Joaquin,Condo/Co-op,85.82,71420.41,San Joaquin,37.9348,-121.2714
+1393,2012,San Joaquin,Multi-Family (2-4 Unit),94.82,125595.41,San Joaquin,37.9348,-121.2714
+1394,2012,San Joaquin,Single Family Residential,1972.64,184522.73,San Joaquin,37.9348,-121.2714
+1395,2012,San Joaquin,Townhouse,3.44,102605.56,San Joaquin,37.9348,-121.2714
+1396,2013,San Joaquin,All Residential,1365,223850,San Joaquin,37.9348,-121.2714
+1397,2013,San Joaquin,Condo/Co-op,54.82,81290.91,San Joaquin,37.9348,-121.2714
+1398,2013,San Joaquin,Multi-Family (2-4 Unit),81.18,166977.27,San Joaquin,37.9348,-121.2714
+1399,2013,San Joaquin,Single Family Residential,1227.64,233986.36,San Joaquin,37.9348,-121.2714
+1400,2013,San Joaquin,Townhouse,1,110000.08,San Joaquin,37.9348,-121.2714
+1401,2014,San Joaquin,All Residential,1740.82,266781.82,San Joaquin,37.9348,-121.2714
+1402,2014,San Joaquin,Condo/Co-op,71.36,116340.91,San Joaquin,37.9348,-121.2714
+1403,2014,San Joaquin,Multi-Family (2-4 Unit),91.09,199204.55,San Joaquin,37.9348,-121.2714
+1404,2014,San Joaquin,Single Family Residential,1574.55,276675,San Joaquin,37.9348,-121.2714
+1405,2014,San Joaquin,Townhouse,3,202300,San Joaquin,37.9348,-121.2714
+1406,2015,San Joaquin,All Residential,1720.82,300318.18,San Joaquin,37.9348,-121.2714
+1407,2015,San Joaquin,Condo/Co-op,71.55,125869.27,San Joaquin,37.9348,-121.2714
+1408,2015,San Joaquin,Multi-Family (2-4 Unit),106.27,217800,San Joaquin,37.9348,-121.2714
+1409,2015,San Joaquin,Single Family Residential,1538.73,309318.18,San Joaquin,37.9348,-121.2714
+1410,2015,San Joaquin,Townhouse,4.29,204900,San Joaquin,37.9348,-121.2714
+1411,2016,San Joaquin,All Residential,1513,332045.45,San Joaquin,37.9348,-121.2714
+1412,2016,San Joaquin,Condo/Co-op,61.18,147241.55,San Joaquin,37.9348,-121.2714
+1413,2016,San Joaquin,Multi-Family (2-4 Unit),78.73,238954.55,San Joaquin,37.9348,-121.2714
+1414,2016,San Joaquin,Single Family Residential,1370.82,341772.73,San Joaquin,37.9348,-121.2714
+1415,2016,San Joaquin,Townhouse,1.5,205308.33,San Joaquin,37.9348,-121.2714
+1416,2017,San Joaquin,All Residential,1315.36,360181.82,San Joaquin,37.9348,-121.2714
+1417,2017,San Joaquin,Condo/Co-op,42.27,176363.64,San Joaquin,37.9348,-121.2714
+1418,2017,San Joaquin,Multi-Family (2-4 Unit),75.91,289863.64,San Joaquin,37.9348,-121.2714
+1419,2017,San Joaquin,Single Family Residential,1193.64,371013.73,San Joaquin,37.9348,-121.2714
+1420,2017,San Joaquin,Townhouse,3.6,164350,San Joaquin,37.9348,-121.2714
+1421,2018,San Joaquin,All Residential,1450.45,392442.91,San Joaquin,37.9348,-121.2714
+1422,2018,San Joaquin,Condo/Co-op,63.82,203340.91,San Joaquin,37.9348,-121.2714
+1423,2018,San Joaquin,Multi-Family (2-4 Unit),84.91,351409.09,San Joaquin,37.9348,-121.2714
+1424,2018,San Joaquin,Single Family Residential,1298.64,403068.18,San Joaquin,37.9348,-121.2714
+1425,2018,San Joaquin,Townhouse,3.09,189409.09,San Joaquin,37.9348,-121.2714
+1426,2019,San Joaquin,All Residential,1584.09,407704.55,San Joaquin,37.9348,-121.2714
+1427,2019,San Joaquin,Condo/Co-op,76.73,205318.18,San Joaquin,37.9348,-121.2714
+1428,2019,San Joaquin,Multi-Family (2-4 Unit),52.55,361136.36,San Joaquin,37.9348,-121.2714
+1429,2019,San Joaquin,Single Family Residential,1449.73,415620.59,San Joaquin,37.9348,-121.2714
+1430,2019,San Joaquin,Townhouse,5.22,248666.67,San Joaquin,37.9348,-121.2714
+1431,2020,San Joaquin,All Residential,923.73,447204.55,San Joaquin,37.9348,-121.2714
+1432,2020,San Joaquin,Condo/Co-op,51.36,243704.55,San Joaquin,37.9348,-121.2714
+1433,2020,San Joaquin,Multi-Family (2-4 Unit),56.55,399436.36,San Joaquin,37.9348,-121.2714
+1434,2020,San Joaquin,Single Family Residential,813.91,455995.45,San Joaquin,37.9348,-121.2714
+1435,2020,San Joaquin,Townhouse,1.89,325666.67,San Joaquin,37.9348,-121.2714
+1436,2021,San Joaquin,All Residential,744.36,533431.82,San Joaquin,37.9348,-121.2714
+1437,2021,San Joaquin,Condo/Co-op,38.82,257431.82,San Joaquin,37.9348,-121.2714
+1438,2021,San Joaquin,Multi-Family (2-4 Unit),71.55,496500,San Joaquin,37.9348,-121.2714
+1439,2021,San Joaquin,Single Family Residential,632.45,546831.14,San Joaquin,37.9348,-121.2714
+1440,2021,San Joaquin,Townhouse,1.62,438875,San Joaquin,37.9348,-121.2714
+1441,2022,San Joaquin,All Residential,897,1030000,San Joaquin,37.9348,-121.2714
+1442,2022,San Joaquin,Condo/Co-op,37,522000,San Joaquin,37.9348,-121.2714
+1443,2022,San Joaquin,Multi-Family (2-4 Unit),88,1020000,San Joaquin,37.9348,-121.2714
+1444,2022,San Joaquin,Single Family Residential,770,1048250,San Joaquin,37.9348,-121.2714
+1445,2022,San Joaquin,Townhouse,1,341500,San Joaquin,37.9348,-121.2714
+1446,2012,San Luis Obispo,All Residential,1139.45,402721.64,San Luis Obispo,35.3871,-120.4045
+1447,2012,San Luis Obispo,Condo/Co-op,82.55,280812.73,San Luis Obispo,35.3871,-120.4045
+1448,2012,San Luis Obispo,Multi-Family (2-4 Unit),25.36,447077.05,San Luis Obispo,35.3871,-120.4045
+1449,2012,San Luis Obispo,Single Family Residential,1031.55,412113.64,San Luis Obispo,35.3871,-120.4045
+1450,2013,San Luis Obispo,All Residential,907.73,460577.27,San Luis Obispo,35.3871,-120.4045
+1451,2013,San Luis Obispo,Condo/Co-op,67.36,312788.23,San Luis Obispo,35.3871,-120.4045
+1452,2013,San Luis Obispo,Multi-Family (2-4 Unit),23.45,657790.91,San Luis Obispo,35.3871,-120.4045
+1453,2013,San Luis Obispo,Single Family Residential,816.91,473181.82,San Luis Obispo,35.3871,-120.4045
+1454,2014,San Luis Obispo,All Residential,1092.18,492013.64,San Luis Obispo,35.3871,-120.4045
+1455,2014,San Luis Obispo,Condo/Co-op,60.09,356926.23,San Luis Obispo,35.3871,-120.4045
+1456,2014,San Luis Obispo,Multi-Family (2-4 Unit),32.18,624340.91,San Luis Obispo,35.3871,-120.4045
+1457,2014,San Luis Obispo,Single Family Residential,999.82,505068.18,San Luis Obispo,35.3871,-120.4045
+1458,2014,San Luis Obispo,Townhouse,0,750000,San Luis Obispo,35.3871,-120.4045
+1459,2015,San Luis Obispo,All Residential,1112.09,537222.05,San Luis Obispo,35.3871,-120.4045
+1460,2015,San Luis Obispo,Condo/Co-op,91.18,395295.45,San Luis Obispo,35.3871,-120.4045
+1461,2015,San Luis Obispo,Multi-Family (2-4 Unit),28.27,656454.55,San Luis Obispo,35.3871,-120.4045
+1462,2015,San Luis Obispo,Single Family Residential,992.64,549233.32,San Luis Obispo,35.3871,-120.4045
+1463,2016,San Luis Obispo,All Residential,1125,565866.05,San Luis Obispo,35.3871,-120.4045
+1464,2016,San Luis Obispo,Condo/Co-op,114.64,442652.86,San Luis Obispo,35.3871,-120.4045
+1465,2016,San Luis Obispo,Multi-Family (2-4 Unit),30,793650,San Luis Obispo,35.3871,-120.4045
+1466,2016,San Luis Obispo,Single Family Residential,979.36,577145.45,San Luis Obispo,35.3871,-120.4045
+1467,2016,San Luis Obispo,Townhouse,0,520000,San Luis Obispo,35.3871,-120.4045
+1468,2017,San Luis Obispo,All Residential,993.64,606613.64,San Luis Obispo,35.3871,-120.4045
+1469,2017,San Luis Obispo,Condo/Co-op,92.18,436509.09,San Luis Obispo,35.3871,-120.4045
+1470,2017,San Luis Obispo,Multi-Family (2-4 Unit),29.09,754181.82,San Luis Obispo,35.3871,-120.4045
+1471,2017,San Luis Obispo,Single Family Residential,863.18,622204.55,San Luis Obispo,35.3871,-120.4045
+1472,2017,San Luis Obispo,Townhouse,10.57,455678.57,San Luis Obispo,35.3871,-120.4045
+1473,2018,San Luis Obispo,All Residential,1111.55,647909.09,San Luis Obispo,35.3871,-120.4045
+1474,2018,San Luis Obispo,Condo/Co-op,86.18,451519.27,San Luis Obispo,35.3871,-120.4045
+1475,2018,San Luis Obispo,Multi-Family (2-4 Unit),18.27,772213.64,San Luis Obispo,35.3871,-120.4045
+1476,2018,San Luis Obispo,Single Family Residential,991.45,667606.36,San Luis Obispo,35.3871,-120.4045
+1477,2018,San Luis Obispo,Townhouse,15.64,495636.36,San Luis Obispo,35.3871,-120.4045
+1478,2019,San Luis Obispo,All Residential,1134.55,659181.36,San Luis Obispo,35.3871,-120.4045
+1479,2019,San Luis Obispo,Condo/Co-op,92.64,468449.91,San Luis Obispo,35.3871,-120.4045
+1480,2019,San Luis Obispo,Multi-Family (2-4 Unit),30.45,841295.45,San Luis Obispo,35.3871,-120.4045
+1481,2019,San Luis Obispo,Single Family Residential,993.55,680454.55,San Luis Obispo,35.3871,-120.4045
+1482,2019,San Luis Obispo,Townhouse,18.1,521525,San Luis Obispo,35.3871,-120.4045
+1483,2020,San Luis Obispo,All Residential,854,695000,San Luis Obispo,35.3871,-120.4045
+1484,2020,San Luis Obispo,Condo/Co-op,68.36,485818.18,San Luis Obispo,35.3871,-120.4045
+1485,2020,San Luis Obispo,Multi-Family (2-4 Unit),16.8,811800,San Luis Obispo,35.3871,-120.4045
+1486,2020,San Luis Obispo,Single Family Residential,754.82,714227.27,San Luis Obispo,35.3871,-120.4045
+1487,2020,San Luis Obispo,Townhouse,14,565447.73,San Luis Obispo,35.3871,-120.4045
+1488,2021,San Luis Obispo,All Residential,469.73,805545.45,San Luis Obispo,35.3871,-120.4045
+1489,2021,San Luis Obispo,Condo/Co-op,33,533636.36,San Luis Obispo,35.3871,-120.4045
+1490,2021,San Luis Obispo,Multi-Family (2-4 Unit),16.91,880000,San Luis Obispo,35.3871,-120.4045
+1491,2021,San Luis Obispo,Single Family Residential,411.45,835590.91,San Luis Obispo,35.3871,-120.4045
+1492,2021,San Luis Obispo,Townhouse,8.36,567863.64,San Luis Obispo,35.3871,-120.4045
+1493,2022,San Luis Obispo,All Residential,535,1633000,San Luis Obispo,35.3871,-120.4045
+1494,2022,San Luis Obispo,Condo/Co-op,37,1013250,San Luis Obispo,35.3871,-120.4045
+1495,2022,San Luis Obispo,Multi-Family (2-4 Unit),15,1782500,San Luis Obispo,35.3871,-120.4045
+1496,2022,San Luis Obispo,Single Family Residential,466,1675000,San Luis Obispo,35.3871,-120.4045
+1497,2022,San Luis Obispo,Townhouse,17,1557000,San Luis Obispo,35.3871,-120.4045
+1498,2012,San Mateo,All Residential,1033,683545.45,San Mateo,37.4229,-122.329
+1499,2012,San Mateo,Condo/Co-op,165.55,384559.36,San Mateo,37.4229,-122.329
+1500,2012,San Mateo,Multi-Family (2-4 Unit),49.91,768348.91,San Mateo,37.4229,-122.329
+1501,2012,San Mateo,Single Family Residential,776.82,785500,San Mateo,37.4229,-122.329
+1502,2012,San Mateo,Townhouse,40.73,620272.73,San Mateo,37.4229,-122.329
+1503,2013,San Mateo,All Residential,781.45,840627.27,San Mateo,37.4229,-122.329
+1504,2013,San Mateo,Condo/Co-op,112.55,508363.64,San Mateo,37.4229,-122.329
+1505,2013,San Mateo,Multi-Family (2-4 Unit),36.82,918527.73,San Mateo,37.4229,-122.329
+1506,2013,San Mateo,Single Family Residential,599.82,976636.36,San Mateo,37.4229,-122.329
+1507,2013,San Mateo,Townhouse,32.27,782000,San Mateo,37.4229,-122.329
+1508,2014,San Mateo,All Residential,730.36,942840.45,San Mateo,37.4229,-122.329
+1509,2014,San Mateo,Condo/Co-op,108.18,594045.45,San Mateo,37.4229,-122.329
+1510,2014,San Mateo,Multi-Family (2-4 Unit),31.45,1124045.45,San Mateo,37.4229,-122.329
+1511,2014,San Mateo,Single Family Residential,559.09,1132795.45,San Mateo,37.4229,-122.329
+1512,2014,San Mateo,Townhouse,31.64,876314.09,San Mateo,37.4229,-122.329
+1513,2015,San Mateo,All Residential,620.27,1096636.36,San Mateo,37.4229,-122.329
+1514,2015,San Mateo,Condo/Co-op,86.36,680186.36,San Mateo,37.4229,-122.329
+1515,2015,San Mateo,Multi-Family (2-4 Unit),27.45,1310800,San Mateo,37.4229,-122.329
+1516,2015,San Mateo,Single Family Residential,475.64,1318350,San Mateo,37.4229,-122.329
+1517,2015,San Mateo,Townhouse,30.82,1079781.27,San Mateo,37.4229,-122.329
+1518,2016,San Mateo,All Residential,742,1183477.27,San Mateo,37.4229,-122.329
+1519,2016,San Mateo,Condo/Co-op,122.09,736140.91,San Mateo,37.4229,-122.329
+1520,2016,San Mateo,Multi-Family (2-4 Unit),26.55,1366045.45,San Mateo,37.4229,-122.329
+1521,2016,San Mateo,Single Family Residential,561.91,1373318.18,San Mateo,37.4229,-122.329
+1522,2016,San Mateo,Townhouse,31.45,1151272.73,San Mateo,37.4229,-122.329
+1523,2017,San Mateo,All Residential,575.91,1339950.45,San Mateo,37.4229,-122.329
+1524,2017,San Mateo,Condo/Co-op,95,798272.73,San Mateo,37.4229,-122.329
+1525,2017,San Mateo,Multi-Family (2-4 Unit),23.36,1576153.64,San Mateo,37.4229,-122.329
+1526,2017,San Mateo,Single Family Residential,427.91,1532500,San Mateo,37.4229,-122.329
+1527,2017,San Mateo,Townhouse,29.64,1317068.18,San Mateo,37.4229,-122.329
+1528,2018,San Mateo,All Residential,654.64,1519068.18,San Mateo,37.4229,-122.329
+1529,2018,San Mateo,Condo/Co-op,95.09,920272.73,San Mateo,37.4229,-122.329
+1530,2018,San Mateo,Multi-Family (2-4 Unit),24.27,1745181.82,San Mateo,37.4229,-122.329
+1531,2018,San Mateo,Single Family Residential,511,1706327.27,San Mateo,37.4229,-122.329
+1532,2018,San Mateo,Townhouse,24.27,1445736.36,San Mateo,37.4229,-122.329
+1533,2019,San Mateo,All Residential,781.55,1481681.82,San Mateo,37.4229,-122.329
+1534,2019,San Mateo,Condo/Co-op,136,912090.91,San Mateo,37.4229,-122.329
+1535,2019,San Mateo,Multi-Family (2-4 Unit),23.27,1782965.91,San Mateo,37.4229,-122.329
+1536,2019,San Mateo,Single Family Residential,584.73,1692727.27,San Mateo,37.4229,-122.329
+1537,2019,San Mateo,Townhouse,37.55,1404704.55,San Mateo,37.4229,-122.329
+1538,2020,San Mateo,All Residential,854,1576136.36,San Mateo,37.4229,-122.329
+1539,2020,San Mateo,Condo/Co-op,185.55,905413.64,San Mateo,37.4229,-122.329
+1540,2020,San Mateo,Multi-Family (2-4 Unit),34,1711090.91,San Mateo,37.4229,-122.329
+1541,2020,San Mateo,Single Family Residential,583.55,1816613.64,San Mateo,37.4229,-122.329
+1542,2020,San Mateo,Townhouse,50.91,1373445.45,San Mateo,37.4229,-122.329
+1543,2021,San Mateo,All Residential,693.91,1706477.27,San Mateo,37.4229,-122.329
+1544,2021,San Mateo,Condo/Co-op,179.18,899136.36,San Mateo,37.4229,-122.329
+1545,2021,San Mateo,Multi-Family (2-4 Unit),39.27,1747408.18,San Mateo,37.4229,-122.329
+1546,2021,San Mateo,Single Family Residential,431.45,2035045.45,San Mateo,37.4229,-122.329
+1547,2021,San Mateo,Townhouse,44,1489980.36,San Mateo,37.4229,-122.329
+1548,2022,San Mateo,All Residential,677,3131000,San Mateo,37.4229,-122.329
+1549,2022,San Mateo,Condo/Co-op,192,1745000,San Mateo,37.4229,-122.329
+1550,2022,San Mateo,Multi-Family (2-4 Unit),30,3930505.5,San Mateo,37.4229,-122.329
+1551,2022,San Mateo,Single Family Residential,425,3863000,San Mateo,37.4229,-122.329
+1552,2022,San Mateo,Townhouse,30,2832500,San Mateo,37.4229,-122.329
+1553,2012,Santa Barbara,All Residential,1481.45,374602.27,Santa Barbara,34.6729,-120.0165
+1554,2012,Santa Barbara,Condo/Co-op,183.91,300977.27,Santa Barbara,34.6729,-120.0165
+1555,2012,Santa Barbara,Multi-Family (2-4 Unit),37.64,661272.73,Santa Barbara,34.6729,-120.0165
+1556,2012,Santa Barbara,Single Family Residential,1203.55,383659.09,Santa Barbara,34.6729,-120.0165
+1557,2012,Santa Barbara,Townhouse,56.36,463563.18,Santa Barbara,34.6729,-120.0165
+1558,2013,Santa Barbara,All Residential,1026.73,505045.45,Santa Barbara,34.6729,-120.0165
+1559,2013,Santa Barbara,Condo/Co-op,126.64,420272.73,Santa Barbara,34.6729,-120.0165
+1560,2013,Santa Barbara,Multi-Family (2-4 Unit),36.36,713000,Santa Barbara,34.6729,-120.0165
+1561,2013,Santa Barbara,Single Family Residential,833.64,506511.36,Santa Barbara,34.6729,-120.0165
+1562,2013,Santa Barbara,Townhouse,30.09,577204.55,Santa Barbara,34.6729,-120.0165
+1563,2014,Santa Barbara,All Residential,1084.82,551454.55,Santa Barbara,34.6729,-120.0165
+1564,2014,Santa Barbara,Condo/Co-op,138.36,538352.05,Santa Barbara,34.6729,-120.0165
+1565,2014,Santa Barbara,Multi-Family (2-4 Unit),36.45,911136.36,Santa Barbara,34.6729,-120.0165
+1566,2014,Santa Barbara,Single Family Residential,870.18,536754.09,Santa Barbara,34.6729,-120.0165
+1567,2014,Santa Barbara,Townhouse,39.82,601659.09,Santa Barbara,34.6729,-120.0165
+1568,2015,Santa Barbara,All Residential,1224.82,567175.27,Santa Barbara,34.6729,-120.0165
+1569,2015,Santa Barbara,Condo/Co-op,129.27,588645.45,Santa Barbara,34.6729,-120.0165
+1570,2015,Santa Barbara,Multi-Family (2-4 Unit),42.09,860113.64,Santa Barbara,34.6729,-120.0165
+1571,2015,Santa Barbara,Single Family Residential,1018.64,530401.32,Santa Barbara,34.6729,-120.0165
+1572,2015,Santa Barbara,Townhouse,34.82,657931.82,Santa Barbara,34.6729,-120.0165
+1573,2016,Santa Barbara,All Residential,1298.91,581613.64,Santa Barbara,34.6729,-120.0165
+1574,2016,Santa Barbara,Condo/Co-op,148.91,556589.5,Santa Barbara,34.6729,-120.0165
+1575,2016,Santa Barbara,Multi-Family (2-4 Unit),37.18,945954.55,Santa Barbara,34.6729,-120.0165
+1576,2016,Santa Barbara,Single Family Residential,1074,563000,Santa Barbara,34.6729,-120.0165
+1577,2016,Santa Barbara,Townhouse,38.82,711386.36,Santa Barbara,34.6729,-120.0165
+1578,2017,Santa Barbara,All Residential,1111.36,625943.18,Santa Barbara,34.6729,-120.0165
+1579,2017,Santa Barbara,Condo/Co-op,132.64,568000,Santa Barbara,34.6729,-120.0165
+1580,2017,Santa Barbara,Multi-Family (2-4 Unit),36.09,1126750,Santa Barbara,34.6729,-120.0165
+1581,2017,Santa Barbara,Single Family Residential,903.09,623595.45,Santa Barbara,34.6729,-120.0165
+1582,2017,Santa Barbara,Townhouse,39.55,714909.09,Santa Barbara,34.6729,-120.0165
+1583,2018,Santa Barbara,All Residential,1209.18,617300,Santa Barbara,34.6729,-120.0165
+1584,2018,Santa Barbara,Condo/Co-op,158.82,606895.45,Santa Barbara,34.6729,-120.0165
+1585,2018,Santa Barbara,Multi-Family (2-4 Unit),37.09,755647.73,Santa Barbara,34.6729,-120.0165
+1586,2018,Santa Barbara,Single Family Residential,950.18,604598.64,Santa Barbara,34.6729,-120.0165
+1587,2018,Santa Barbara,Townhouse,63.09,730472.27,Santa Barbara,34.6729,-120.0165
+1588,2019,Santa Barbara,All Residential,1149.27,656613.64,Santa Barbara,34.6729,-120.0165
+1589,2019,Santa Barbara,Condo/Co-op,151.91,587809.09,Santa Barbara,34.6729,-120.0165
+1590,2019,Santa Barbara,Multi-Family (2-4 Unit),37.27,1109840.91,Santa Barbara,34.6729,-120.0165
+1591,2019,Santa Barbara,Single Family Residential,913.55,658772.73,Santa Barbara,34.6729,-120.0165
+1592,2019,Santa Barbara,Townhouse,46.55,803434.64,Santa Barbara,34.6729,-120.0165
+1593,2020,Santa Barbara,All Residential,814.45,776681.82,Santa Barbara,34.6729,-120.0165
+1594,2020,Santa Barbara,Condo/Co-op,99.45,652500,Santa Barbara,34.6729,-120.0165
+1595,2020,Santa Barbara,Multi-Family (2-4 Unit),26.73,1069886.36,Santa Barbara,34.6729,-120.0165
+1596,2020,Santa Barbara,Single Family Residential,649,810863.64,Santa Barbara,34.6729,-120.0165
+1597,2020,Santa Barbara,Townhouse,39.27,834377.36,Santa Barbara,34.6729,-120.0165
+1598,2021,Santa Barbara,All Residential,490,905977.27,Santa Barbara,34.6729,-120.0165
+1599,2021,Santa Barbara,Condo/Co-op,56.18,750613.64,Santa Barbara,34.6729,-120.0165
+1600,2021,Santa Barbara,Multi-Family (2-4 Unit),19.09,1377090.91,Santa Barbara,34.6729,-120.0165
+1601,2021,Santa Barbara,Single Family Residential,393.36,967500,Santa Barbara,34.6729,-120.0165
+1602,2021,Santa Barbara,Townhouse,21.36,972022.73,Santa Barbara,34.6729,-120.0165
+1603,2022,Santa Barbara,All Residential,622,1625000,Santa Barbara,34.6729,-120.0165
+1604,2022,Santa Barbara,Condo/Co-op,59,1355000,Santa Barbara,34.6729,-120.0165
+1605,2022,Santa Barbara,Multi-Family (2-4 Unit),24,2548750,Santa Barbara,34.6729,-120.0165
+1606,2022,Santa Barbara,Single Family Residential,517,1648000,Santa Barbara,34.6729,-120.0165
+1607,2022,Santa Barbara,Townhouse,22,1875500,Santa Barbara,34.6729,-120.0165
+1608,2012,Santa Clara,All Residential,2070.64,602689.45,Santa Clara,37.2318,-121.6951
+1609,2012,Santa Clara,Condo/Co-op,278.73,326045.45,Santa Clara,37.2318,-121.6951
+1610,2012,Santa Clara,Multi-Family (2-4 Unit),76,738013.64,Santa Clara,37.2318,-121.6951
+1611,2012,Santa Clara,Single Family Residential,1537.09,684886.36,Santa Clara,37.2318,-121.6951
+1612,2012,Santa Clara,Townhouse,178.82,512186,Santa Clara,37.2318,-121.6951
+1613,2013,Santa Clara,All Residential,1775.64,737913.64,Santa Clara,37.2318,-121.6951
+1614,2013,Santa Clara,Condo/Co-op,269.36,442772.73,Santa Clara,37.2318,-121.6951
+1615,2013,Santa Clara,Multi-Family (2-4 Unit),80.64,864918.18,Santa Clara,37.2318,-121.6951
+1616,2013,Santa Clara,Single Family Residential,1257.64,838636.36,Santa Clara,37.2318,-121.6951
+1617,2013,Santa Clara,Townhouse,168,636801.77,Santa Clara,37.2318,-121.6951
+1618,2014,Santa Clara,All Residential,1820.91,814454.55,Santa Clara,37.2318,-121.6951
+1619,2014,Santa Clara,Condo/Co-op,249.45,496636.36,Santa Clara,37.2318,-121.6951
+1620,2014,Santa Clara,Multi-Family (2-4 Unit),72.36,981090.91,Santa Clara,37.2318,-121.6951
+1621,2014,Santa Clara,Single Family Residential,1337.82,927250,Santa Clara,37.2318,-121.6951
+1622,2014,Santa Clara,Townhouse,161.27,693494.77,Santa Clara,37.2318,-121.6951
+1623,2015,Santa Clara,All Residential,1791.82,912363.64,Santa Clara,37.2318,-121.6951
+1624,2015,Santa Clara,Condo/Co-op,218.36,579500,Santa Clara,37.2318,-121.6951
+1625,2015,Santa Clara,Multi-Family (2-4 Unit),62.36,1076272.73,Santa Clara,37.2318,-121.6951
+1626,2015,Santa Clara,Single Family Residential,1366.45,1025739.45,Santa Clara,37.2318,-121.6951
+1627,2015,Santa Clara,Townhouse,144.64,778980,Santa Clara,37.2318,-121.6951
+1628,2016,Santa Clara,All Residential,2122.73,971886.36,Santa Clara,37.2318,-121.6951
+1629,2016,Santa Clara,Condo/Co-op,329.73,630818.18,Santa Clara,37.2318,-121.6951
+1630,2016,Santa Clara,Multi-Family (2-4 Unit),69.09,1255681.82,Santa Clara,37.2318,-121.6951
+1631,2016,Santa Clara,Single Family Residential,1539.27,1103068.18,Santa Clara,37.2318,-121.6951
+1632,2016,Santa Clara,Townhouse,184.64,857977.27,Santa Clara,37.2318,-121.6951
+1633,2017,Santa Clara,All Residential,1355.64,1104909.09,Santa Clara,37.2318,-121.6951
+1634,2017,Santa Clara,Condo/Co-op,190.55,692750,Santa Clara,37.2318,-121.6951
+1635,2017,Santa Clara,Multi-Family (2-4 Unit),54.82,1408545.45,Santa Clara,37.2318,-121.6951
+1636,2017,Santa Clara,Single Family Residential,1005.91,1267272.73,Santa Clara,37.2318,-121.6951
+1637,2017,Santa Clara,Townhouse,104.36,981185.91,Santa Clara,37.2318,-121.6951
+1638,2018,Santa Clara,All Residential,1763.55,1296727.27,Santa Clara,37.2318,-121.6951
+1639,2018,Santa Clara,Condo/Co-op,280.27,828118.18,Santa Clara,37.2318,-121.6951
+1640,2018,Santa Clara,Multi-Family (2-4 Unit),65.45,1598068.18,Santa Clara,37.2318,-121.6951
+1641,2018,Santa Clara,Single Family Residential,1250.73,1436613.64,Santa Clara,37.2318,-121.6951
+1642,2018,Santa Clara,Townhouse,167.09,1185795.45,Santa Clara,37.2318,-121.6951
+1643,2019,Santa Clara,All Residential,2317.18,1227090.91,Santa Clara,37.2318,-121.6951
+1644,2019,Santa Clara,Condo/Co-op,461.18,783590.91,Santa Clara,37.2318,-121.6951
+1645,2019,Santa Clara,Multi-Family (2-4 Unit),65.45,1581908.64,Santa Clara,37.2318,-121.6951
+1646,2019,Santa Clara,Single Family Residential,1520.09,1364227.27,Santa Clara,37.2318,-121.6951
+1647,2019,Santa Clara,Townhouse,270.45,1048740.82,Santa Clara,37.2318,-121.6951
+1648,2020,Santa Clara,All Residential,1886.91,1318386.36,Santa Clara,37.2318,-121.6951
+1649,2020,Santa Clara,Condo/Co-op,466.27,764615.68,Santa Clara,37.2318,-121.6951
+1650,2020,Santa Clara,Multi-Family (2-4 Unit),73.09,1645795.45,Santa Clara,37.2318,-121.6951
+1651,2020,Santa Clara,Single Family Residential,1139.18,1490340.82,Santa Clara,37.2318,-121.6951
+1652,2020,Santa Clara,Townhouse,208.36,1069272.73,Santa Clara,37.2318,-121.6951
+1653,2021,Santa Clara,All Residential,1437,1488545.45,Santa Clara,37.2318,-121.6951
+1654,2021,Santa Clara,Condo/Co-op,381.27,801022.73,Santa Clara,37.2318,-121.6951
+1655,2021,Santa Clara,Multi-Family (2-4 Unit),67.91,1732340.91,Santa Clara,37.2318,-121.6951
+1656,2021,Santa Clara,Single Family Residential,819.45,1742318.18,Santa Clara,37.2318,-121.6951
+1657,2021,Santa Clara,Townhouse,168.36,1229840.91,Santa Clara,37.2318,-121.6951
+1658,2022,Santa Clara,All Residential,1274,2880000,Santa Clara,37.2318,-121.6951
+1659,2022,Santa Clara,Condo/Co-op,260,1535500,Santa Clara,37.2318,-121.6951
+1660,2022,Santa Clara,Multi-Family (2-4 Unit),76,3284000,Santa Clara,37.2318,-121.6951
+1661,2022,Santa Clara,Single Family Residential,800,3478000,Santa Clara,37.2318,-121.6951
+1662,2022,Santa Clara,Townhouse,138,2453500,Santa Clara,37.2318,-121.6951
+1663,2012,Santa Cruz,All Residential,687.27,500568.18,Santa Cruz,37.0562,-122.0018
+1664,2012,Santa Cruz,Condo/Co-op,88.36,313450,Santa Cruz,37.0562,-122.0018
+1665,2012,Santa Cruz,Multi-Family (2-4 Unit),22.82,593250,Santa Cruz,37.0562,-122.0018
+1666,2012,Santa Cruz,Single Family Residential,528,550670.45,Santa Cruz,37.0562,-122.0018
+1667,2012,Santa Cruz,Townhouse,48.09,351613.64,Santa Cruz,37.0562,-122.0018
+1668,2013,Santa Cruz,All Residential,565.45,600636.36,Santa Cruz,37.0562,-122.0018
+1669,2013,Santa Cruz,Condo/Co-op,84.55,381031.82,Santa Cruz,37.0562,-122.0018
+1670,2013,Santa Cruz,Multi-Family (2-4 Unit),21.18,744045.45,Santa Cruz,37.0562,-122.0018
+1671,2013,Santa Cruz,Single Family Residential,432.18,650127.27,Santa Cruz,37.0562,-122.0018
+1672,2013,Santa Cruz,Townhouse,27.55,446533.41,Santa Cruz,37.0562,-122.0018
+1673,2014,Santa Cruz,All Residential,553,669568.18,Santa Cruz,37.0562,-122.0018
+1674,2014,Santa Cruz,Condo/Co-op,66.73,428139.68,Santa Cruz,37.0562,-122.0018
+1675,2014,Santa Cruz,Multi-Family (2-4 Unit),22,860136.36,Santa Cruz,37.0562,-122.0018
+1676,2014,Santa Cruz,Single Family Residential,433.64,728018.18,Santa Cruz,37.0562,-122.0018
+1677,2014,Santa Cruz,Townhouse,30.64,506136.36,Santa Cruz,37.0562,-122.0018
+1678,2015,Santa Cruz,All Residential,605.55,730361.36,Santa Cruz,37.0562,-122.0018
+1679,2015,Santa Cruz,Condo/Co-op,73.91,467000,Santa Cruz,37.0562,-122.0018
+1680,2015,Santa Cruz,Multi-Family (2-4 Unit),21.09,959459.09,Santa Cruz,37.0562,-122.0018
+1681,2015,Santa Cruz,Single Family Residential,482.64,783545.45,Santa Cruz,37.0562,-122.0018
+1682,2015,Santa Cruz,Townhouse,27.91,582118.18,Santa Cruz,37.0562,-122.0018
+1683,2016,Santa Cruz,All Residential,609.55,784093,Santa Cruz,37.0562,-122.0018
+1684,2016,Santa Cruz,Condo/Co-op,73.45,522694.5,Santa Cruz,37.0562,-122.0018
+1685,2016,Santa Cruz,Multi-Family (2-4 Unit),17.09,941613.64,Santa Cruz,37.0562,-122.0018
+1686,2016,Santa Cruz,Single Family Residential,480.27,858550,Santa Cruz,37.0562,-122.0018
+1687,2016,Santa Cruz,Townhouse,38.73,631322.32,Santa Cruz,37.0562,-122.0018
+1688,2017,Santa Cruz,All Residential,568.82,837081.82,Santa Cruz,37.0562,-122.0018
+1689,2017,Santa Cruz,Condo/Co-op,66.55,557345,Santa Cruz,37.0562,-122.0018
+1690,2017,Santa Cruz,Multi-Family (2-4 Unit),20.6,1036480.5,Santa Cruz,37.0562,-122.0018
+1691,2017,Santa Cruz,Single Family Residential,450.36,910909.09,Santa Cruz,37.0562,-122.0018
+1692,2017,Santa Cruz,Townhouse,31.18,667136.36,Santa Cruz,37.0562,-122.0018
+1693,2018,Santa Cruz,All Residential,614.45,883818.18,Santa Cruz,37.0562,-122.0018
+1694,2018,Santa Cruz,Condo/Co-op,74.64,591936.36,Santa Cruz,37.0562,-122.0018
+1695,2018,Santa Cruz,Multi-Family (2-4 Unit),22.5,1180005,Santa Cruz,37.0562,-122.0018
+1696,2018,Santa Cruz,Single Family Residential,471.64,954068.18,Santa Cruz,37.0562,-122.0018
+1697,2018,Santa Cruz,Townhouse,46.45,744863.64,Santa Cruz,37.0562,-122.0018
+1698,2019,Santa Cruz,All Residential,649.45,892840.91,Santa Cruz,37.0562,-122.0018
+1699,2019,Santa Cruz,Condo/Co-op,75.36,601727.27,Santa Cruz,37.0562,-122.0018
+1700,2019,Santa Cruz,Multi-Family (2-4 Unit),20,1182727.27,Santa Cruz,37.0562,-122.0018
+1701,2019,Santa Cruz,Single Family Residential,511.64,961613.64,Santa Cruz,37.0562,-122.0018
+1702,2019,Santa Cruz,Townhouse,42.45,730136.36,Santa Cruz,37.0562,-122.0018
+1703,2020,Santa Cruz,All Residential,490.55,970569.23,Santa Cruz,37.0562,-122.0018
+1704,2020,Santa Cruz,Condo/Co-op,70.82,631136.36,Santa Cruz,37.0562,-122.0018
+1705,2020,Santa Cruz,Multi-Family (2-4 Unit),14.8,1276576,Santa Cruz,37.0562,-122.0018
+1706,2020,Santa Cruz,Single Family Residential,358.27,1061636.36,Santa Cruz,37.0562,-122.0018
+1707,2020,Santa Cruz,Townhouse,46.55,830931.82,Santa Cruz,37.0562,-122.0018
+1708,2021,Santa Cruz,All Residential,337.73,1138295.45,Santa Cruz,37.0562,-122.0018
+1709,2021,Santa Cruz,Condo/Co-op,37.73,700090.91,Santa Cruz,37.0562,-122.0018
+1710,2021,Santa Cruz,Multi-Family (2-4 Unit),10.64,1620875,Santa Cruz,37.0562,-122.0018
+1711,2021,Santa Cruz,Single Family Residential,270,1296159.09,Santa Cruz,37.0562,-122.0018
+1712,2021,Santa Cruz,Townhouse,19.36,878159.09,Santa Cruz,37.0562,-122.0018
+1713,2022,Santa Cruz,All Residential,321,2395000,Santa Cruz,37.0562,-122.0018
+1714,2022,Santa Cruz,Condo/Co-op,29,1570000,Santa Cruz,37.0562,-122.0018
+1715,2022,Santa Cruz,Multi-Family (2-4 Unit),8,1320000,Santa Cruz,37.0562,-122.0018
+1716,2022,Santa Cruz,Single Family Residential,250,2595000,Santa Cruz,37.0562,-122.0018
+1717,2022,Santa Cruz,Townhouse,28,1912500,Santa Cruz,37.0562,-122.0018
+1718,2012,Solano,All Residential,877.09,210112.05,Solano,38.27,-121.9329
+1719,2012,Solano,Condo/Co-op,80.36,91412.59,Solano,38.27,-121.9329
+1720,2012,Solano,Multi-Family (2-4 Unit),32.09,210374.14,Solano,38.27,-121.9329
+1721,2012,Solano,Single Family Residential,763.55,218886.36,Solano,38.27,-121.9329
+1722,2012,Solano,Townhouse,1,73000,Solano,38.27,-121.9329
+1723,2013,Solano,All Residential,601.82,282338.68,Solano,38.27,-121.9329
+1724,2013,Solano,Condo/Co-op,51.91,130127.27,Solano,38.27,-121.9329
+1725,2013,Solano,Multi-Family (2-4 Unit),39.36,282625,Solano,38.27,-121.9329
+1726,2013,Solano,Single Family Residential,510.36,292636.36,Solano,38.27,-121.9329
+1727,2013,Solano,Townhouse,0,233100,Solano,38.27,-121.9329
+1728,2014,Solano,All Residential,871.18,332368.18,Solano,38.27,-121.9329
+1729,2014,Solano,Condo/Co-op,79.64,176809.09,Solano,38.27,-121.9329
+1730,2014,Solano,Multi-Family (2-4 Unit),44.64,321972.73,Solano,38.27,-121.9329
+1731,2014,Solano,Single Family Residential,746.82,341252.27,Solano,38.27,-121.9329
+1732,2014,Solano,Townhouse,0,70000,Solano,38.27,-121.9329
+1733,2015,Solano,All Residential,1086.82,369118.18,Solano,38.27,-121.9329
+1734,2015,Solano,Condo/Co-op,72.09,221268.18,Solano,38.27,-121.9329
+1735,2015,Solano,Multi-Family (2-4 Unit),52,381440.91,Solano,38.27,-121.9329
+1736,2015,Solano,Single Family Residential,962.73,376681.82,Solano,38.27,-121.9329
+1737,2015,Solano,Townhouse,0,346500,Solano,38.27,-121.9329
+1738,2016,Solano,All Residential,1012.82,408772.73,Solano,38.27,-121.9329
+1739,2016,Solano,Condo/Co-op,58.45,230818.18,Solano,38.27,-121.9329
+1740,2016,Solano,Multi-Family (2-4 Unit),51.36,466000,Solano,38.27,-121.9329
+1741,2016,Solano,Single Family Residential,903,417840.91,Solano,38.27,-121.9329
+1742,2017,Solano,All Residential,846.82,437636.36,Solano,38.27,-121.9329
+1743,2017,Solano,Condo/Co-op,61.45,265863.64,Solano,38.27,-121.9329
+1744,2017,Solano,Multi-Family (2-4 Unit),33.36,493909.09,Solano,38.27,-121.9329
+1745,2017,Solano,Single Family Residential,752,444436.36,Solano,38.27,-121.9329
+1746,2017,Solano,Townhouse,0,402000,Solano,38.27,-121.9329
+1747,2018,Solano,All Residential,948.18,473277.27,Solano,38.27,-121.9329
+1748,2018,Solano,Condo/Co-op,59.82,309277.27,Solano,38.27,-121.9329
+1749,2018,Solano,Multi-Family (2-4 Unit),40.73,621000,Solano,38.27,-121.9329
+1750,2018,Solano,Single Family Residential,847.55,481431.82,Solano,38.27,-121.9329
+1751,2018,Solano,Townhouse,0,210000,Solano,38.27,-121.9329
+1752,2019,Solano,All Residential,998.73,478886.36,Solano,38.27,-121.9329
+1753,2019,Solano,Condo/Co-op,75.09,308250,Solano,38.27,-121.9329
+1754,2019,Solano,Multi-Family (2-4 Unit),45.45,532318.18,Solano,38.27,-121.9329
+1755,2019,Solano,Single Family Residential,878.18,486036.36,Solano,38.27,-121.9329
+1756,2019,Solano,Townhouse,0,255000,Solano,38.27,-121.9329
+1757,2020,Solano,All Residential,690.91,523068.18,Solano,38.27,-121.9329
+1758,2020,Solano,Condo/Co-op,68.45,330113.64,Solano,38.27,-121.9329
+1759,2020,Solano,Multi-Family (2-4 Unit),40.18,698386.36,Solano,38.27,-121.9329
+1760,2020,Solano,Single Family Residential,581.91,531750,Solano,38.27,-121.9329
+1761,2020,Solano,Townhouse,0,325000,Solano,38.27,-121.9329
+1762,2021,Solano,All Residential,657.82,597318.18,Solano,38.27,-121.9329
+1763,2021,Solano,Condo/Co-op,42.27,374409.09,Solano,38.27,-121.9329
+1764,2021,Solano,Multi-Family (2-4 Unit),36.45,722772.27,Solano,38.27,-121.9329
+1765,2021,Solano,Single Family Residential,572.09,610090.91,Solano,38.27,-121.9329
+1766,2021,Solano,Townhouse,7.6,513150,Solano,38.27,-121.9329
+1767,2022,Solano,All Residential,783,1150000,Solano,38.27,-121.9329
+1768,2022,Solano,Condo/Co-op,61,664750,Solano,38.27,-121.9329
+1769,2022,Solano,Multi-Family (2-4 Unit),41,1152500,Solano,38.27,-121.9329
+1770,2022,Solano,Single Family Residential,667,1184000,Solano,38.27,-121.9329
+1771,2022,Solano,Townhouse,14,1130000,Solano,38.27,-121.9329
+1772,2012,Sonoma,All Residential,1165,358613.64,Sonoma,38.5283,-122.8874
+1773,2012,Sonoma,Condo/Co-op,98.55,171563.64,Sonoma,38.5283,-122.8874
+1774,2012,Sonoma,Multi-Family (2-4 Unit),167,463995.45,Sonoma,38.5283,-122.8874
+1775,2012,Sonoma,Single Family Residential,899.09,375181.82,Sonoma,38.5283,-122.8874
+1776,2012,Sonoma,Townhouse,0,169000,Sonoma,38.5283,-122.8874
+1777,2013,Sonoma,All Residential,907.45,443363.64,Sonoma,38.5283,-122.8874
+1778,2013,Sonoma,Condo/Co-op,68.45,244840.91,Sonoma,38.5283,-122.8874
+1779,2013,Sonoma,Multi-Family (2-4 Unit),123.45,559236.36,Sonoma,38.5283,-122.8874
+1780,2013,Sonoma,Single Family Residential,715.55,461009.09,Sonoma,38.5283,-122.8874
+1781,2014,Sonoma,All Residential,909.45,496363.64,Sonoma,38.5283,-122.8874
+1782,2014,Sonoma,Condo/Co-op,70.27,288381.82,Sonoma,38.5283,-122.8874
+1783,2014,Sonoma,Multi-Family (2-4 Unit),109.09,701022.73,Sonoma,38.5283,-122.8874
+1784,2014,Sonoma,Single Family Residential,730.09,515996.59,Sonoma,38.5283,-122.8874
+1785,2015,Sonoma,All Residential,1151.09,545399.45,Sonoma,38.5283,-122.8874
+1786,2015,Sonoma,Condo/Co-op,99.45,321690.91,Sonoma,38.5283,-122.8874
+1787,2015,Sonoma,Multi-Family (2-4 Unit),148.64,775204.55,Sonoma,38.5283,-122.8874
+1788,2015,Sonoma,Single Family Residential,902.73,565159.09,Sonoma,38.5283,-122.8874
+1789,2016,Sonoma,All Residential,1206.36,596302.27,Sonoma,38.5283,-122.8874
+1790,2016,Sonoma,Condo/Co-op,120.45,357818.18,Sonoma,38.5283,-122.8874
+1791,2016,Sonoma,Multi-Family (2-4 Unit),159.91,813909.09,Sonoma,38.5283,-122.8874
+1792,2016,Sonoma,Single Family Residential,925.27,619795.45,Sonoma,38.5283,-122.8874
+1793,2017,Sonoma,All Residential,1089.64,650819.41,Sonoma,38.5283,-122.8874
+1794,2017,Sonoma,Condo/Co-op,88.18,399954.55,Sonoma,38.5283,-122.8874
+1795,2017,Sonoma,Multi-Family (2-4 Unit),144.18,899431.82,Sonoma,38.5283,-122.8874
+1796,2017,Sonoma,Single Family Residential,857,672955.32,Sonoma,38.5283,-122.8874
+1797,2017,Sonoma,Townhouse,0,575250,Sonoma,38.5283,-122.8874
+1798,2018,Sonoma,All Residential,1274.82,697307.82,Sonoma,38.5283,-122.8874
+1799,2018,Sonoma,Condo/Co-op,115,428454.55,Sonoma,38.5283,-122.8874
+1800,2018,Sonoma,Multi-Family (2-4 Unit),153.91,979454.55,Sonoma,38.5283,-122.8874
+1801,2018,Sonoma,Single Family Residential,1005.91,710836.23,Sonoma,38.5283,-122.8874
+1802,2019,Sonoma,All Residential,1427,681363.64,Sonoma,38.5283,-122.8874
+1803,2019,Sonoma,Condo/Co-op,146,400068.18,Sonoma,38.5283,-122.8874
+1804,2019,Sonoma,Multi-Family (2-4 Unit),162.82,970863.64,Sonoma,38.5283,-122.8874
+1805,2019,Sonoma,Single Family Residential,1117.91,697314.55,Sonoma,38.5283,-122.8874
+1806,2019,Sonoma,Townhouse,0,1590000,Sonoma,38.5283,-122.8874
+1807,2020,Sonoma,All Residential,1286.09,726090.91,Sonoma,38.5283,-122.8874
+1808,2020,Sonoma,Condo/Co-op,143.36,422136.36,Sonoma,38.5283,-122.8874
+1809,2020,Sonoma,Multi-Family (2-4 Unit),156.91,1018795.45,Sonoma,38.5283,-122.8874
+1810,2020,Sonoma,Single Family Residential,984.91,738954.55,Sonoma,38.5283,-122.8874
+1811,2020,Sonoma,Townhouse,2,490000,Sonoma,38.5283,-122.8874
+1812,2021,Sonoma,All Residential,1166.36,798084.32,Sonoma,38.5283,-122.8874
+1813,2021,Sonoma,Condo/Co-op,94.91,450627.27,Sonoma,38.5283,-122.8874
+1814,2021,Sonoma,Multi-Family (2-4 Unit),84.64,1070931.82,Sonoma,38.5283,-122.8874
+1815,2021,Sonoma,Single Family Residential,963,824112.64,Sonoma,38.5283,-122.8874
+1816,2021,Sonoma,Townhouse,25.7,543550,Sonoma,38.5283,-122.8874
+1817,2022,Sonoma,All Residential,1066,1569000,Sonoma,38.5283,-122.8874
+1818,2022,Sonoma,Condo/Co-op,71,889500,Sonoma,38.5283,-122.8874
+1819,2022,Sonoma,Multi-Family (2-4 Unit),68,2107500,Sonoma,38.5283,-122.8874
+1820,2022,Sonoma,Single Family Residential,899,1603000,Sonoma,38.5283,-122.8874
+1821,2022,Sonoma,Townhouse,28,888000,Sonoma,38.5283,-122.8874
+1822,2013,Stanislaus,All Residential,944.7,201895,Stanislaus,37.5591,-120.9977
+1823,2013,Stanislaus,Condo/Co-op,27.1,107565,Stanislaus,37.5591,-120.9977
+1824,2013,Stanislaus,Multi-Family (2-4 Unit),36.2,187147.5,Stanislaus,37.5591,-120.9977
+1825,2013,Stanislaus,Single Family Residential,880.9,206375,Stanislaus,37.5591,-120.9977
+1826,2013,Stanislaus,Townhouse,0.33,155583.33,Stanislaus,37.5591,-120.9977
+1827,2014,Stanislaus,All Residential,1248.27,237522.73,Stanislaus,37.5591,-120.9977
+1828,2014,Stanislaus,Condo/Co-op,32.82,128750,Stanislaus,37.5591,-120.9977
+1829,2014,Stanislaus,Multi-Family (2-4 Unit),53.18,224363.64,Stanislaus,37.5591,-120.9977
+1830,2014,Stanislaus,Single Family Residential,1159.18,241704.55,Stanislaus,37.5591,-120.9977
+1831,2014,Stanislaus,Townhouse,3.14,162492.86,Stanislaus,37.5591,-120.9977
+1832,2015,Stanislaus,All Residential,1318.36,264386.36,Stanislaus,37.5591,-120.9977
+1833,2015,Stanislaus,Condo/Co-op,33.64,144051.73,Stanislaus,37.5591,-120.9977
+1834,2015,Stanislaus,Multi-Family (2-4 Unit),56.45,235195.45,Stanislaus,37.5591,-120.9977
+1835,2015,Stanislaus,Single Family Residential,1227.45,267886.36,Stanislaus,37.5591,-120.9977
+1836,2015,Stanislaus,Townhouse,1.14,268642.86,Stanislaus,37.5591,-120.9977
+1837,2016,Stanislaus,All Residential,1197.27,287136.36,Stanislaus,37.5591,-120.9977
+1838,2016,Stanislaus,Condo/Co-op,38.27,169545.45,Stanislaus,37.5591,-120.9977
+1839,2016,Stanislaus,Multi-Family (2-4 Unit),53.18,266500,Stanislaus,37.5591,-120.9977
+1840,2016,Stanislaus,Single Family Residential,1104.91,291368.18,Stanislaus,37.5591,-120.9977
+1841,2016,Stanislaus,Townhouse,1.33,196666.67,Stanislaus,37.5591,-120.9977
+1842,2017,Stanislaus,All Residential,1033.36,310054.55,Stanislaus,37.5591,-120.9977
+1843,2017,Stanislaus,Condo/Co-op,35.36,187080.91,Stanislaus,37.5591,-120.9977
+1844,2017,Stanislaus,Multi-Family (2-4 Unit),43.45,299264.45,Stanislaus,37.5591,-120.9977
+1845,2017,Stanislaus,Single Family Residential,952.91,315613.64,Stanislaus,37.5591,-120.9977
+1846,2017,Stanislaus,Townhouse,1.5,268725,Stanislaus,37.5591,-120.9977
+1847,2018,Stanislaus,All Residential,1101.27,335750,Stanislaus,37.5591,-120.9977
+1848,2018,Stanislaus,Condo/Co-op,36.64,216340.91,Stanislaus,37.5591,-120.9977
+1849,2018,Stanislaus,Multi-Family (2-4 Unit),39,314840.91,Stanislaus,37.5591,-120.9977
+1850,2018,Stanislaus,Single Family Residential,1023.18,340431.82,Stanislaus,37.5591,-120.9977
+1851,2018,Stanislaus,Townhouse,2.83,262541.67,Stanislaus,37.5591,-120.9977
+1852,2019,Stanislaus,All Residential,1004.55,352500,Stanislaus,37.5591,-120.9977
+1853,2019,Stanislaus,Condo/Co-op,35,224954.55,Stanislaus,37.5591,-120.9977
+1854,2019,Stanislaus,Multi-Family (2-4 Unit),36.82,354590.91,Stanislaus,37.5591,-120.9977
+1855,2019,Stanislaus,Single Family Residential,929,356909.09,Stanislaus,37.5591,-120.9977
+1856,2019,Stanislaus,Townhouse,3.7,226225,Stanislaus,37.5591,-120.9977
+1857,2020,Stanislaus,All Residential,602.64,388096.27,Stanislaus,37.5591,-120.9977
+1858,2020,Stanislaus,Condo/Co-op,26.36,232818.18,Stanislaus,37.5591,-120.9977
+1859,2020,Stanislaus,Multi-Family (2-4 Unit),27.73,391772.73,Stanislaus,37.5591,-120.9977
+1860,2020,Stanislaus,Single Family Residential,547.73,392477.27,Stanislaus,37.5591,-120.9977
+1861,2020,Stanislaus,Townhouse,0.86,288246.43,Stanislaus,37.5591,-120.9977
+1862,2021,Stanislaus,All Residential,471,457943.18,Stanislaus,37.5591,-120.9977
+1863,2021,Stanislaus,Condo/Co-op,13.64,271500,Stanislaus,37.5591,-120.9977
+1864,2021,Stanislaus,Multi-Family (2-4 Unit),38.55,498454.55,Stanislaus,37.5591,-120.9977
+1865,2021,Stanislaus,Single Family Residential,417.55,462613.64,Stanislaus,37.5591,-120.9977
+1866,2021,Stanislaus,Townhouse,1.22,363611.11,Stanislaus,37.5591,-120.9977
+1867,2022,Stanislaus,All Residential,611,899000,Stanislaus,37.5591,-120.9977
+1868,2022,Stanislaus,Condo/Co-op,7,560000,Stanislaus,37.5591,-120.9977
+1869,2022,Stanislaus,Multi-Family (2-4 Unit),62,1019000,Stanislaus,37.5591,-120.9977
+1870,2022,Stanislaus,Single Family Residential,542,910000,Stanislaus,37.5591,-120.9977
+1871,2022,Stanislaus,Townhouse,0,275000,Stanislaus,37.5591,-120.9977
+1872,2012,Sutter,All Residential,2.18,170272.73,Sutter,39.0346,-121.6948
+1873,2012,Sutter,Single Family Residential,2.18,170272.73,Sutter,39.0346,-121.6948
+1874,2013,Sutter,All Residential,2.27,210545.45,Sutter,39.0346,-121.6948
+1875,2013,Sutter,Single Family Residential,2.27,210545.45,Sutter,39.0346,-121.6948
+1876,2014,Sutter,All Residential,2.18,233159.09,Sutter,39.0346,-121.6948
+1877,2014,Sutter,Condo/Co-op,0,115000,Sutter,39.0346,-121.6948
+1878,2014,Sutter,Single Family Residential,2.18,233977.27,Sutter,39.0346,-121.6948
+1879,2015,Sutter,All Residential,1.18,247590.91,Sutter,39.0346,-121.6948
+1880,2015,Sutter,Condo/Co-op,0,180000,Sutter,39.0346,-121.6948
+1881,2015,Sutter,Single Family Residential,1.18,247613.64,Sutter,39.0346,-121.6948
+1882,2016,Sutter,All Residential,2.18,286363.64,Sutter,39.0346,-121.6948
+1883,2016,Sutter,Condo/Co-op,0,115000,Sutter,39.0346,-121.6948
+1884,2016,Sutter,Multi-Family (2-4 Unit),0,595000,Sutter,39.0346,-121.6948
+1885,2016,Sutter,Single Family Residential,2.18,287681.82,Sutter,39.0346,-121.6948
+1886,2017,Sutter,All Residential,1.73,297554.55,Sutter,39.0346,-121.6948
+1887,2017,Sutter,Condo/Co-op,0,75500,Sutter,39.0346,-121.6948
+1888,2017,Sutter,Multi-Family (2-4 Unit),0,318000,Sutter,39.0346,-121.6948
+1889,2017,Sutter,Single Family Residential,1.27,297918.18,Sutter,39.0346,-121.6948
+1890,2018,Sutter,All Residential,1.18,326631.82,Sutter,39.0346,-121.6948
+1891,2018,Sutter,Condo/Co-op,0,234750,Sutter,39.0346,-121.6948
+1892,2018,Sutter,Multi-Family (2-4 Unit),0,1100000,Sutter,39.0346,-121.6948
+1893,2018,Sutter,Single Family Residential,1.18,326813.64,Sutter,39.0346,-121.6948
+1894,2019,Sutter,All Residential,1.64,337090.91,Sutter,39.0346,-121.6948
+1895,2019,Sutter,Condo/Co-op,0,191333.33,Sutter,39.0346,-121.6948
+1896,2019,Sutter,Multi-Family (2-4 Unit),0,245000,Sutter,39.0346,-121.6948
+1897,2019,Sutter,Single Family Residential,1.64,338568.18,Sutter,39.0346,-121.6948
+1898,2020,Sutter,All Residential,0.78,394833.33,Sutter,39.0346,-121.6948
+1899,2020,Sutter,Condo/Co-op,0,401500,Sutter,39.0346,-121.6948
+1900,2020,Sutter,Multi-Family (2-4 Unit),0,451666.67,Sutter,39.0346,-121.6948
+1901,2020,Sutter,Single Family Residential,0.78,399000,Sutter,39.0346,-121.6948
+1902,2021,Sutter,All Residential,61.27,442272.73,Sutter,39.0346,-121.6948
+1903,2021,Sutter,Condo/Co-op,0.38,200750,Sutter,39.0346,-121.6948
+1904,2021,Sutter,Multi-Family (2-4 Unit),6.78,405638.89,Sutter,39.0346,-121.6948
+1905,2021,Sutter,Single Family Residential,55.18,451409.09,Sutter,39.0346,-121.6948
+1906,2021,Sutter,Townhouse,0,244000,Sutter,39.0346,-121.6948
+1907,2022,Sutter,All Residential,118,836750,Sutter,39.0346,-121.6948
+1908,2022,Sutter,Condo/Co-op,3,413000,Sutter,39.0346,-121.6948
+1909,2022,Sutter,Multi-Family (2-4 Unit),11,825000,Sutter,39.0346,-121.6948
+1910,2022,Sutter,Single Family Residential,102,840000,Sutter,39.0346,-121.6948
+1911,2012,Ventura,All Residential,1835.45,396440.91,Ventura,34.4565,-119.0836
+1912,2012,Ventura,Condo/Co-op,245.64,225581.82,Ventura,34.4565,-119.0836
+1913,2012,Ventura,Multi-Family (2-4 Unit),30.36,449831.82,Ventura,34.4565,-119.0836
+1914,2012,Ventura,Single Family Residential,1413.82,447000,Ventura,34.4565,-119.0836
+1915,2012,Ventura,Townhouse,145.64,311486.36,Ventura,34.4565,-119.0836
+1916,2013,Ventura,All Residential,1361.36,483872.73,Ventura,34.4565,-119.0836
+1917,2013,Ventura,Condo/Co-op,168.27,291360.77,Ventura,34.4565,-119.0836
+1918,2013,Ventura,Multi-Family (2-4 Unit),24.55,495181.82,Ventura,34.4565,-119.0836
+1919,2013,Ventura,Single Family Residential,1070.09,537000,Ventura,34.4565,-119.0836
+1920,2013,Ventura,Townhouse,98.45,370614.86,Ventura,34.4565,-119.0836
+1921,2014,Ventura,All Residential,1917.73,521207.36,Ventura,34.4565,-119.0836
+1922,2014,Ventura,Condo/Co-op,260,323772.73,Ventura,34.4565,-119.0836
+1923,2014,Ventura,Multi-Family (2-4 Unit),39.36,659568.18,Ventura,34.4565,-119.0836
+1924,2014,Ventura,Single Family Residential,1467.36,582045.45,Ventura,34.4565,-119.0836
+1925,2014,Ventura,Townhouse,151,413977.27,Ventura,34.4565,-119.0836
+1926,2015,Ventura,All Residential,1915.09,556276.45,Ventura,34.4565,-119.0836
+1927,2015,Ventura,Condo/Co-op,231.64,351681.82,Ventura,34.4565,-119.0836
+1928,2015,Ventura,Multi-Family (2-4 Unit),52,612434.09,Ventura,34.4565,-119.0836
+1929,2015,Ventura,Single Family Residential,1487.55,622386.36,Ventura,34.4565,-119.0836
+1930,2015,Ventura,Townhouse,143.91,439454.55,Ventura,34.4565,-119.0836
+1931,2016,Ventura,All Residential,1949.18,583931.82,Ventura,34.4565,-119.0836
+1932,2016,Ventura,Condo/Co-op,254.73,375095.45,Ventura,34.4565,-119.0836
+1933,2016,Ventura,Multi-Family (2-4 Unit),51.45,693154.55,Ventura,34.4565,-119.0836
+1934,2016,Ventura,Single Family Residential,1517.55,651063.18,Ventura,34.4565,-119.0836
+1935,2016,Ventura,Townhouse,125.45,464026.82,Ventura,34.4565,-119.0836
+1936,2017,Ventura,All Residential,1656,621545.45,Ventura,34.4565,-119.0836
+1937,2017,Ventura,Condo/Co-op,209.45,410159.09,Ventura,34.4565,-119.0836
+1938,2017,Ventura,Multi-Family (2-4 Unit),39.36,691704.55,Ventura,34.4565,-119.0836
+1939,2017,Ventura,Single Family Residential,1289.91,684227.27,Ventura,34.4565,-119.0836
+1940,2017,Ventura,Townhouse,117.27,495318.18,Ventura,34.4565,-119.0836
+1941,2018,Ventura,All Residential,1882.36,651681.82,Ventura,34.4565,-119.0836
+1942,2018,Ventura,Condo/Co-op,267.91,432800,Ventura,34.4565,-119.0836
+1943,2018,Ventura,Multi-Family (2-4 Unit),38.45,756418.18,Ventura,34.4565,-119.0836
+1944,2018,Ventura,Single Family Residential,1439.09,712590.91,Ventura,34.4565,-119.0836
+1945,2018,Ventura,Townhouse,136.91,528563.64,Ventura,34.4565,-119.0836
+1946,2019,Ventura,All Residential,2354,654931.82,Ventura,34.4565,-119.0836
+1947,2019,Ventura,Condo/Co-op,366.36,441068.18,Ventura,34.4565,-119.0836
+1948,2019,Ventura,Multi-Family (2-4 Unit),46.64,810227.27,Ventura,34.4565,-119.0836
+1949,2019,Ventura,Single Family Residential,1746.09,710090.91,Ventura,34.4565,-119.0836
+1950,2019,Ventura,Townhouse,194.91,542302.09,Ventura,34.4565,-119.0836
+1951,2020,Ventura,All Residential,1777.27,712090.91,Ventura,34.4565,-119.0836
+1952,2020,Ventura,Condo/Co-op,288.18,469000,Ventura,34.4565,-119.0836
+1953,2020,Ventura,Multi-Family (2-4 Unit),34.27,879840.91,Ventura,34.4565,-119.0836
+1954,2020,Ventura,Single Family Residential,1306.91,780045.45,Ventura,34.4565,-119.0836
+1955,2020,Ventura,Townhouse,147.91,564636.36,Ventura,34.4565,-119.0836
+1956,2021,Ventura,All Residential,1267.18,830381.82,Ventura,34.4565,-119.0836
+1957,2021,Ventura,Condo/Co-op,167.82,525863.64,Ventura,34.4565,-119.0836
+1958,2021,Ventura,Multi-Family (2-4 Unit),29,881863.64,Ventura,34.4565,-119.0836
+1959,2021,Ventura,Single Family Residential,969.64,900318.18,Ventura,34.4565,-119.0836
+1960,2021,Ventura,Townhouse,100.73,649000,Ventura,34.4565,-119.0836
+1961,2022,Ventura,All Residential,1566,1611500,Ventura,34.4565,-119.0836
+1962,2022,Ventura,Condo/Co-op,254,1039000,Ventura,34.4565,-119.0836
+1963,2022,Ventura,Multi-Family (2-4 Unit),22,2042500,Ventura,34.4565,-119.0836
+1964,2022,Ventura,Single Family Residential,1143,1760000,Ventura,34.4565,-119.0836
+1965,2022,Ventura,Townhouse,147,1292500,Ventura,34.4565,-119.0836
+1966,2012,Yolo,All Residential,497.91,251050.68,Yolo,38.6866,-121.9016
+1967,2012,Yolo,Condo/Co-op,33.09,151559.09,Yolo,38.6866,-121.9016
+1968,2012,Yolo,Multi-Family (2-4 Unit),18.73,257415.27,Yolo,38.6866,-121.9016
+1969,2012,Yolo,Single Family Residential,444.82,259136.36,Yolo,38.6866,-121.9016
+1970,2012,Yolo,Townhouse,1,405000,Yolo,38.6866,-121.9016
+1971,2013,Yolo,All Residential,315.18,314331.82,Yolo,38.6866,-121.9016
+1972,2013,Yolo,Condo/Co-op,20.55,203604.55,Yolo,38.6866,-121.9016
+1973,2013,Yolo,Multi-Family (2-4 Unit),9.82,401495.45,Yolo,38.6866,-121.9016
+1974,2013,Yolo,Single Family Residential,284.36,322113.64,Yolo,38.6866,-121.9016
+1975,2013,Yolo,Townhouse,0.75,267375,Yolo,38.6866,-121.9016
+1976,2014,Yolo,All Residential,365.55,358181.36,Yolo,38.6866,-121.9016
+1977,2014,Yolo,Condo/Co-op,23.36,230104.55,Yolo,38.6866,-121.9016
+1978,2014,Yolo,Multi-Family (2-4 Unit),10.55,427909.09,Yolo,38.6866,-121.9016
+1979,2014,Yolo,Single Family Residential,329.73,369221.73,Yolo,38.6866,-121.9016
+1980,2014,Yolo,Townhouse,1.67,337000,Yolo,38.6866,-121.9016
+1981,2015,Yolo,All Residential,349.36,394436.36,Yolo,38.6866,-121.9016
+1982,2015,Yolo,Condo/Co-op,22,252500,Yolo,38.6866,-121.9016
+1983,2015,Yolo,Multi-Family (2-4 Unit),16.78,564833.33,Yolo,38.6866,-121.9016
+1984,2015,Yolo,Single Family Residential,309.27,403883.86,Yolo,38.6866,-121.9016
+1985,2015,Yolo,Townhouse,2,312375,Yolo,38.6866,-121.9016
+1986,2016,Yolo,All Residential,335.82,416772.73,Yolo,38.6866,-121.9016
+1987,2016,Yolo,Condo/Co-op,18.36,285250,Yolo,38.6866,-121.9016
+1988,2016,Yolo,Multi-Family (2-4 Unit),15.6,511273.85,Yolo,38.6866,-121.9016
+1989,2016,Yolo,Single Family Residential,301.82,425918.18,Yolo,38.6866,-121.9016
+1990,2016,Yolo,Townhouse,0.75,331750,Yolo,38.6866,-121.9016
+1991,2017,Yolo,All Residential,289.18,446818.18,Yolo,38.6866,-121.9016
+1992,2017,Yolo,Condo/Co-op,11,326000,Yolo,38.6866,-121.9016
+1993,2017,Yolo,Multi-Family (2-4 Unit),11.91,595645.45,Yolo,38.6866,-121.9016
+1994,2017,Yolo,Single Family Residential,265.64,455068.18,Yolo,38.6866,-121.9016
+1995,2017,Yolo,Townhouse,1.33,450333.33,Yolo,38.6866,-121.9016
+1996,2018,Yolo,All Residential,327.91,472636.36,Yolo,38.6866,-121.9016
+1997,2018,Yolo,Condo/Co-op,23,364568.18,Yolo,38.6866,-121.9016
+1998,2018,Yolo,Multi-Family (2-4 Unit),11.09,686622.73,Yolo,38.6866,-121.9016
+1999,2018,Yolo,Single Family Residential,293.36,480409.09,Yolo,38.6866,-121.9016
+2000,2018,Yolo,Townhouse,0.67,458333.33,Yolo,38.6866,-121.9016
+2001,2019,Yolo,All Residential,357.45,488377.95,Yolo,38.6866,-121.9016
+2002,2019,Yolo,Condo/Co-op,28.73,399009.09,Yolo,38.6866,-121.9016
+2003,2019,Yolo,Multi-Family (2-4 Unit),8.09,509222.68,Yolo,38.6866,-121.9016
+2004,2019,Yolo,Single Family Residential,320.09,495838.41,Yolo,38.6866,-121.9016
+2005,2019,Yolo,Townhouse,0,577500,Yolo,38.6866,-121.9016
+2006,2020,Yolo,All Residential,275.36,521272.73,Yolo,38.6866,-121.9016
+2007,2020,Yolo,Condo/Co-op,26.18,398693.82,Yolo,38.6866,-121.9016
+2008,2020,Yolo,Multi-Family (2-4 Unit),9.2,525500,Yolo,38.6866,-121.9016
+2009,2020,Yolo,Single Family Residential,238.73,528654.09,Yolo,38.6866,-121.9016
+2010,2020,Yolo,Townhouse,1.33,349666.67,Yolo,38.6866,-121.9016
+2011,2021,Yolo,All Residential,176.09,598745.45,Yolo,38.6866,-121.9016
+2012,2021,Yolo,Condo/Co-op,16.27,438017.27,Yolo,38.6866,-121.9016
+2013,2021,Yolo,Multi-Family (2-4 Unit),9.91,760045.45,Yolo,38.6866,-121.9016
+2014,2021,Yolo,Single Family Residential,147.73,608409.09,Yolo,38.6866,-121.9016
+2015,2021,Yolo,Townhouse,2.1,606958.7,Yolo,38.6866,-121.9016
+2016,2022,Yolo,All Residential,194,1145000,Yolo,38.6866,-121.9016
+2017,2022,Yolo,Condo/Co-op,15,911500,Yolo,38.6866,-121.9016
+2018,2022,Yolo,Multi-Family (2-4 Unit),11,937000,Yolo,38.6866,-121.9016
+2019,2022,Yolo,Single Family Residential,166,1178000,Yolo,38.6866,-121.9016
+2020,2022,Yolo,Townhouse,2,790000,Yolo,38.6866,-121.9016
+2021,2012,Yuba,All Residential,3,172754.55,Yuba,39.269,-121.3513
+2022,2012,Yuba,Condo/Co-op,0,28000,Yuba,39.269,-121.3513
+2023,2012,Yuba,Multi-Family (2-4 Unit),0,575000,Yuba,39.269,-121.3513
+2024,2012,Yuba,Single Family Residential,3,173254.55,Yuba,39.269,-121.3513
+2025,2013,Yuba,All Residential,3.91,220140.91,Yuba,39.269,-121.3513
+2026,2013,Yuba,Multi-Family (2-4 Unit),0,685000,Yuba,39.269,-121.3513
+2027,2013,Yuba,Single Family Residential,3.91,220027.27,Yuba,39.269,-121.3513
+2028,2014,Yuba,All Residential,5,241390.91,Yuba,39.269,-121.3513
+2029,2014,Yuba,Multi-Family (2-4 Unit),0,402500,Yuba,39.269,-121.3513
+2030,2014,Yuba,Single Family Residential,5,240850,Yuba,39.269,-121.3513
+2031,2015,Yuba,All Residential,4.18,255772.73,Yuba,39.269,-121.3513
+2032,2015,Yuba,Multi-Family (2-4 Unit),0,290000,Yuba,39.269,-121.3513
+2033,2015,Yuba,Single Family Residential,4.18,255909.09,Yuba,39.269,-121.3513
+2034,2016,Yuba,All Residential,2.36,276613.64,Yuba,39.269,-121.3513
+2035,2016,Yuba,Multi-Family (2-4 Unit),0,382333.33,Yuba,39.269,-121.3513
+2036,2016,Yuba,Single Family Residential,2.36,277159.09,Yuba,39.269,-121.3513
+2037,2017,Yuba,All Residential,1.55,296295.45,Yuba,39.269,-121.3513
+2038,2017,Yuba,Condo/Co-op,0,111000,Yuba,39.269,-121.3513
+2039,2017,Yuba,Multi-Family (2-4 Unit),0,252666.67,Yuba,39.269,-121.3513
+2040,2017,Yuba,Single Family Residential,1.55,297022.73,Yuba,39.269,-121.3513
+2041,2018,Yuba,All Residential,1.91,301459.09,Yuba,39.269,-121.3513
+2042,2018,Yuba,Condo/Co-op,0,140000,Yuba,39.269,-121.3513
+2043,2018,Yuba,Multi-Family (2-4 Unit),0,545000,Yuba,39.269,-121.3513
+2044,2018,Yuba,Single Family Residential,1.91,301413.64,Yuba,39.269,-121.3513
+2045,2019,Yuba,All Residential,16.36,343309.09,Yuba,39.269,-121.3513
+2046,2019,Yuba,Condo/Co-op,0,260000,Yuba,39.269,-121.3513
+2047,2019,Yuba,Multi-Family (2-4 Unit),0.17,359041.67,Yuba,39.269,-121.3513
+2048,2019,Yuba,Single Family Residential,16.18,344209.09,Yuba,39.269,-121.3513
+2049,2020,Yuba,All Residential,9.91,363195.45,Yuba,39.269,-121.3513
+2050,2020,Yuba,Condo/Co-op,0,143000,Yuba,39.269,-121.3513
+2051,2020,Yuba,Multi-Family (2-4 Unit),0,426250,Yuba,39.269,-121.3513
+2052,2020,Yuba,Single Family Residential,9.91,364840.91,Yuba,39.269,-121.3513
+2053,2021,Yuba,All Residential,85.45,434859.09,Yuba,39.269,-121.3513
+2054,2021,Yuba,Condo/Co-op,1,167625,Yuba,39.269,-121.3513
+2055,2021,Yuba,Multi-Family (2-4 Unit),8.2,416240,Yuba,39.269,-121.3513
+2056,2021,Yuba,Single Family Residential,77.36,438396.95,Yuba,39.269,-121.3513
+2057,2021,Yuba,Townhouse,0,149000,Yuba,39.269,-121.3513
+2058,2022,Yuba,All Residential,166,851500,Yuba,39.269,-121.3513
+2059,2022,Yuba,Condo/Co-op,0,162000,Yuba,39.269,-121.3513
+2060,2022,Yuba,Multi-Family (2-4 Unit),14,1028750,Yuba,39.269,-121.3513
+2061,2022,Yuba,Single Family Residential,151,851500,Yuba,39.269,-121.3513
