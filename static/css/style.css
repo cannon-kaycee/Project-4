@@ -1,56 +1,82 @@
-.navbar {
-  background-color: goldenrod;
+.navbar{
+  background-color:rgb(236, 155, 49);
 }
 
-body {
-  background-color: whitesmoke;
+body{
+  background-color:#101820FF;
+  font-family: 'quicksand', sans-serif;
+  
 }
 
-.navbar-brand {
-  color: black;
+.navbar-brand{
+  color:black;
 }
 
 h1{
   margin: 50px;
   text-align: center;
+  font-size: 90px;
+  font-weight: 350;
+  color: whitesmoke;
 }
 
-.dropdown-item {
-  position: relative;
-  background-color: #F9F9F9;
-  min-width: 100px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-  float: auto;
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-  margin-right: 100px;
+h3{
+text-align: center;
+color:whitesmoke
 }
 
-h2 {
-  text-align: center;
+.names{
+color:whitesmoke;
+margin-left: 50px;
+font-size: 20px
 }
 
-.col {
+.col-3{
+border: 1px solid whitesmoke;
+padding-top:20px;
+padding-left:0
+}
+.col-7{
+border: 1px solid whitesmoke;
+margin-left:10px;
+padding-top:20px
+}
+.dropdown-item{
+position: relative;
+background-color: #F9F9F9;
+min-width: 100px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+float: auto;
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+margin-right:100px;
+}
+
+h2{
+  text-align:center;
+}
+
+.col{
   display: grid;
   place-items: center;
-  margin-top: 25px;
+  margin-top:25px;
   margin-bottom: 25px;
 }
 
 html {
   height: 100%;
 }
-
 body {
   min-height: 100%;
 }
 
-p {
-  margin-left: 52px;
+p{
+  margin-right: 60px;
+  color:whitesmoke
 }
 
 body {
@@ -79,11 +105,12 @@ html {
 }
 
 .legend .all-residential {
-  color: #FF69B4;
+  color: #FF69B4
+  ;
 }
 
 .legend .townhouse {
-  color: #8b0000;
+  color: #8b0000 ;
 }
 
 .legend .condo-coop {
@@ -95,28 +122,25 @@ html {
 }
 
 .legend .single-family {
-  color: #039c4b;
+  color: #039c4b ;
 }
 
 .popupCustom .leaflet-popup-content-wrapper {
-  background: #2c3e50;
-  color: #fff;
-  font-size: 18px;
-  line-height: 24px;
+  background:#2c3e50;
+  color:#fff;
+  font-size:18px;
+  line-height:24px;
   font-family: Helvetica, serif;
-}
-
+  }
 .popupCustom .leaflet-popup-content-wrapper a {
-  color: rgba(255, 255, 255, 0.5);
-}
-
+  color:rgba(255,255,255,0.5);
+  }
 .popupCustom .leaflet-popup-tip-container {
-  width: 30px;
-  height: 15px;
-}
-
+  width:30px;
+  height:15px;
+  }
 .popupCustom .leaflet-popup-tip {
-  border-left: 15px solid transparent;
-  border-right: 15px solid transparent;
-  border-top: 15px solid #2c3e50;
-}
+  border-left:15px solid transparent;
+  border-right:15px solid transparent;
+  border-top:15px solid #2c3e50;
+  }

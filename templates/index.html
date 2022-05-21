@@ -20,6 +20,10 @@
 
   <!-- AniCollection.css library -->
 
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
+
   <head>
     <link rel="stylesheet" href="http://anijs.github.io/lib/anicollection/anicollection.css">
   </head>
@@ -29,25 +33,25 @@
   <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
 </head>
 
-    <body>
-<!-- Start of navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="http://127.0.0.1:5000/">Home</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+<body>
+  <!-- Start of navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="http://127.0.0.1:5000/"> <img width="50px" height="50px" src="https://www.freepnglogos.com/uploads/logo-home-png/house-silhouette-home-buildings-houses-home-silhouette-15.png" alt=Home> </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="topnav-right">
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="http://127.0.0.1:5000/" id="navbarDropdown" role="button"
-                  data-bs-toggle="dropdown" aria-expanded="false">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="topnav-right">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="http://127.0.0.1:5000/" id="navbarDropdown" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
                 Visualizations
               </a>
-              <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">                
+              <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
                 <li><a class="dropdown-item" href="http://127.0.0.1:5000/history">Past 10 Years</a></li>
                 <li><a class="dropdown-item" href="http://127.0.0.1:5000/covid">COVID Data</a></li>
                 <li><a class="dropdown-item" href="http://127.0.0.1:5000/map">Leaflet Map</a></li>
@@ -57,30 +61,54 @@
             <li class="nav-item">
               <a class="nav-link" href="http://127.0.0.1:5000/CaHousing">Data</a>
             </li>
-              </ul>
+          </ul>
         </div>
       </div>
-    </nav>
+  </nav>
   <!-- end of navbar -->
 
-    <!-- start of main page and sidebar -->
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-8">
-                <h1>Housing Data</h1>
-                <img src="https://siewlinyap.github.io/assets/img/portfolio/House_sale_trend_icon.png" height=400 width=600 alt="Housing Data">
-                <br>
-                <p>Team Members: Tracy Poon, Gregory Fujitani, Fred Oh, Samuel Ferreira, Kaycee Cannon </p>
-                <br>
-                <p>The purpose of this project is to analyze California housing data over the last 10 years. We will examine the trends for
-                  the past three years in order to provide an in depth analysis that specifically demonstrates 
-                  the impact in the housing market during the years of COVID. We employed a machine learning model to 
-                  predict future trends for the coming years. Hostiing the flask app. 
-                </p>
-                  <br>
-                </div>
-          
-              
-    </body>
+  <!-- start of main page and sidebar -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <h1>California Housing Trends</h1>
+        <img src="https://ca-times.brightspotcdn.com/dims4/default/e71340b/2147483647/strip/true/crop/3000x2000+0+0/resize/1024x683!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2f%2F1e%2Ffd540a7e43db92852097f94e5eb5%2Fla-fi-mortgage-rates-housing-market-944974.jpg" height=400 width=800
+          alt="Housing Data">
+        <br>
+        <!-- <p>Team Members: Tracy Poon, Gregory Fujitani, Fred Oh, Samuel Ferreira, Kaycee Cannon </p> -->
+        <br>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+    <div class="col-1"></div>
+    <div class="col-3">
+      <h3>Team Members:</h3>
+      <ul class="names">
+        <li>Tracy Poon</li>
+        <li>Gregory Fujitani</li>
+        <li>Fred Oh</li>
+        <li>Samuel Ferreira</li>
+        <li>Kaycee Cannon</li>
+      </ul>
+    </div>
+  <div class="col-7">
+    <h3>Mission Statement</h3>
+    <br>
+    <p>The purpose of this project is to analyze California housing data over the last 10 years. We will examine the
+      trends for
+      the past three years in order to provide an in depth analysis that specifically demonstrates
+      the impact in the housing market during the years of COVID. We employed a machine learning model to
+      predict future trends for the coming years. Hosting the flask app.
+    </p>
+  </div>
+</div>
+    <br>
+
+
+
+</body>
 
 </html>
