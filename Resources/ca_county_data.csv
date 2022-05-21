@@ -1,0 +1,2063 @@
+Index,Year,County,Property_type,mean_inventory,Median_sales_price,Listing_price,Amount_sold_over
+0,2012,Alameda County,All Residential,2092.5,385533.33,413908.33,-13375.0
+1,2012,Alameda County,Condo/Co-op,333.91,247647.73,451536.36,237602.27
+2,2012,Alameda County,Multi-Family (2-4 Unit),176.18,347172.73,451536.36,595229.55
+3,2012,Alameda County,Single Family Residential,1632.0,479090.91,451536.36,1070229.55
+4,2012,Alameda County,Townhouse,140.64,356954.55,422000.0,1429447.73
+5,2013,Alameda County,All Residential,1772.64,550090.91,569520.45,7388.64
+6,2013,Alameda County,Condo/Co-op,233.36,369113.64,569520.45,381956.82
+7,2013,Alameda County,Multi-Family (2-4 Unit),231.55,497181.82,569520.45,890229.55
+8,2013,Alameda County,Single Family Residential,1204.18,619313.64,569520.45,1497906.82
+9,2013,Alameda County,Townhouse,103.55,463966.36,532020.45,1967645.91
+10,2014,Alameda County,All Residential,1929.82,628795.45,655363.64,3886.36
+11,2014,Alameda County,Condo/Co-op,264.91,431386.36,655363.64,449363.64
+12,2014,Alameda County,Multi-Family (2-4 Unit),250.64,609772.73,655363.64,1064500.0
+13,2014,Alameda County,Single Family Residential,1290.0,702468.18,655363.64,1753422.73
+14,2014,Alameda County,Townhouse,124.27,541890.91,610000.0,2304313.64
+15,2015,Alameda County,All Residential,1652.09,695500.0,730380.73,119.27
+16,2015,Alameda County,Condo/Co-op,191.64,481977.27,730380.73,493369.27
+17,2015,Alameda County,Multi-Family (2-4 Unit),206.18,664804.55,730380.73,1168264.73
+18,2015,Alameda County,Single Family Residential,1161.55,777181.82,730380.73,1929173.82
+19,2015,Alameda County,Townhouse,92.73,592432.73,678108.0,2533788.36
+20,2016,Alameda County,All Residential,1647.18,752929.55,797467.27,-3628.64
+21,2016,Alameda County,Condo/Co-op,207.36,542727.27,797467.27,551825.91
+22,2016,Alameda County,Multi-Family (2-4 Unit),177.0,767409.09,797467.27,1328325.91
+23,2016,Alameda County,Single Family Residential,1160.18,831761.55,797467.27,2155996.55
+24,2016,Alameda County,Townhouse,102.64,660681.82,739376.36,2816132.91
+25,2017,Alameda County,All Residential,1352.55,828759.09,863522.73,9781.82
+26,2017,Alameda County,Condo/Co-op,181.91,593545.45,863522.73,626281.82
+27,2017,Alameda County,Multi-Family (2-4 Unit),155.73,871140.91,863522.73,1498104.55
+28,2017,Alameda County,Single Family Residential,941.64,918618.18,863522.73,2397177.27
+29,2017,Alameda County,Townhouse,73.27,712554.09,800886.36,3123731.36
+30,2018,Alameda County,All Residential,1593.27,904454.55,930984.73,24469.82
+31,2018,Alameda County,Condo/Co-op,226.73,666522.73,930984.73,709583.45
+32,2018,Alameda County,Multi-Family (2-4 Unit),184.45,939873.64,930984.73,1654684.36
+33,2018,Alameda County,Single Family Residential,1077.36,1000053.0,930984.73,2644919.18
+34,2018,Alameda County,Townhouse,104.73,796795.45,864712.0,3442987.36
+35,2019,Alameda County,All Residential,1811.09,903340.91,953076.73,173.27
+36,2019,Alameda County,Condo/Co-op,305.36,634818.18,953076.73,653264.18
+37,2019,Alameda County,Multi-Family (2-4 Unit),153.64,1005722.73,953076.73,1665805.09
+38,2019,Alameda County,Single Family Residential,1172.82,988590.91,953076.73,2642123.27
+39,2019,Alameda County,Townhouse,179.27,778023.41,880440.36,3430055.77
+40,2020,Alameda County,All Residential,1419.0,962045.45,1010799.0,3428.27
+41,2020,Alameda County,Condo/Co-op,353.73,670181.82,1010799.0,692291.91
+42,2020,Alameda County,Multi-Family (2-4 Unit),143.64,1070454.55,1010799.0,1771428.27
+43,2020,Alameda County,Single Family Residential,818.45,1074568.18,1010799.0,2830882.82
+44,2020,Alameda County,Townhouse,103.18,807772.73,933617.18,3651405.55
+45,2021,Alameda County,All Residential,1256.36,1132022.73,1093354.0,91396.0
+46,2021,Alameda County,Condo/Co-op,325.09,702318.18,1093354.0,826214.18
+47,2021,Alameda County,Multi-Family (2-4 Unit),165.64,1159250.0,1093354.0,1996600.55
+48,2021,Alameda County,Single Family Residential,693.09,1331863.64,1093354.0,3300827.82
+49,2021,Alameda County,Townhouse,72.55,928568.18,1014354.0,4239668.73
+50,2022,Alameda County,All Residential,1599.0,2112500.0,2790010.0,-37510.0
+51,2022,Alameda County,Condo/Co-op,443.0,1270000.0,2790010.0,1652490.0
+52,2022,Alameda County,Multi-Family (2-4 Unit),232.0,2285000.0,2790010.0,4090490.0
+53,2022,Alameda County,Single Family Residential,840.0,2538000.0,2790010.0,6339240.0
+54,2022,Alameda County,Townhouse,84.0,1828750.0,1890010.0,8144240.0
+55,2012,Alpine County,All Residential,9.75,314750.0,343250.0,27000.0
+56,2012,Alpine County,Single Family Residential,9.75,314750.0,252250.0,377250.0
+57,2013,Alpine County,All Residential,8.88,295437.5,275056.25,47568.75
+58,2013,Alpine County,Single Family Residential,8.88,295437.5,275056.25,315818.75
+59,2014,Alpine County,All Residential,10.14,501785.71,310642.86,248285.71
+60,2014,Alpine County,Condo/Co-op,0.0,400000.0,337000.0,3905500.0
+61,2014,Alpine County,Single Family Residential,10.0,494285.71,310642.86,742571.43
+62,2015,Alpine County,All Residential,21.0,482936.43,495278.57,9086.43
+63,2015,Alpine County,Multi-Family (2-4 Unit),0.0,150000.0,365000.0,3498155.0
+64,2015,Alpine County,Single Family Residential,20.86,654365.0,495278.57,663451.43
+65,2016,Alpine County,All Residential,11.38,437212.5,318562.5,187400.0
+66,2016,Alpine County,Single Family Residential,11.38,437212.5,318562.5,555862.5
+67,2017,Alpine County,All Residential,10.6,416160.0,2130980.0,-1547320.0
+68,2017,Alpine County,Single Family Residential,10.6,416160.0,1531980.0,-699660.0
+69,2018,Alpine County,All Residential,11.0,509671.43,328985.71,270542.86
+70,2018,Alpine County,Single Family Residential,9.86,509671.43,301128.57,718214.29
+71,2019,Alpine County,All Residential,13.83,445750.0,358583.33,138416.67
+72,2019,Alpine County,Condo/Co-op,1.0,307500.0,0.0,3212000.0
+73,2019,Alpine County,Single Family Residential,12.0,445958.33,358583.33,584375.0
+74,2020,Alpine County,All Residential,10.88,482368.75,489224.19,25644.56
+75,2020,Alpine County,Multi-Family (2-4 Unit),0.0,260000.0,205400.0,4178550.0
+76,2020,Alpine County,Single Family Residential,5.86,514135.71,479128.5,623428.64
+77,2021,Alpine County,All Residential,19.9,598500.0,457815.0,203685.0
+78,2021,Alpine County,Condo/Co-op,12.83,361275.0,460375.0,1026733.33
+79,2021,Alpine County,Single Family Residential,9.0,655777.78,417388.89,1144238.89
+80,2022,Alpine County,All Residential,32.0,494000.0,1159000.0,-425000.0
+81,2022,Alpine County,Condo/Co-op,20.0,274000.0,794000.0,1211500.0
+82,2022,Alpine County,Single Family Residential,5.0,1237500.0,0.0,2005500.0
+83,2012,Amador County,All Residential,225.45,176127.27,217054.55,-5472.73
+84,2012,Amador County,Condo/Co-op,2.0,1092500.0,355400.0,2792750.0
+85,2012,Amador County,Single Family Residential,221.09,176472.73,217054.55,242386.36
+86,2012,Amador County,Townhouse,2.0,173250.0,0.0,5144350.0
+87,2013,Amador County,All Residential,110.0,215763.64,256922.68,-22522.68
+88,2013,Amador County,Multi-Family (2-4 Unit),1.67,308833.33,243116.5,916266.83
+89,2013,Amador County,Single Family Residential,107.91,215835.64,260109.05,262853.86
+90,2013,Amador County,Townhouse,1.0,233500.0,250000.0,5657592.0
+91,2014,Amador County,All Residential,133.27,234487.23,288218.18,-43276.41
+92,2014,Amador County,Condo/Co-op,0.75,149850.0,121875.0,735339.88
+93,2014,Amador County,Multi-Family (2-4 Unit),0.6,221680.0,104200.0,795143.8
+94,2014,Amador County,Single Family Residential,131.73,234528.14,288218.18,357869.91
+95,2014,Amador County,Townhouse,0.0,240000.0,0.0,7106969.0
+96,2015,Amador County,All Residential,128.09,266830.05,362618.14,-80333.55
+97,2015,Amador County,Condo/Co-op,2.75,157312.5,92250.0,828845.12
+98,2015,Amador County,Multi-Family (2-4 Unit),1.33,325033.33,285400.0,1300760.17
+99,2015,Amador County,Single Family Residential,124.55,267675.5,329072.68,351282.86
+100,2016,Amador County,All Residential,141.91,286536.36,374152.27,-63706.82
+101,2016,Amador County,Condo/Co-op,2.0,303575.0,172500.0,1844525.0
+102,2016,Amador County,Multi-Family (2-4 Unit),2.0,395923.79,257250.0,707109.5
+103,2016,Amador County,Single Family Residential,139.0,287050.0,374152.27,527944.68
+104,2016,Amador County,Townhouse,0.0,235000.0,0.0,9923066.5
+105,2017,Amador County,All Residential,170.91,328231.82,378950.0,25645.45
+106,2017,Amador County,Condo/Co-op,2.0,388750.0,174983.33,855108.33
+107,2017,Amador County,Multi-Family (2-4 Unit),0.67,392666.67,346466.67,2119566.67
+108,2017,Amador County,Single Family Residential,168.73,327854.55,378950.0,596272.73
+109,2018,Amador County,All Residential,241.82,352804.55,407009.09,-36477.27
+110,2018,Amador County,Condo/Co-op,4.5,310750.0,334725.0,2048950.0
+111,2018,Amador County,Multi-Family (2-4 Unit),3.5,510000.0,180450.0,2743950.0
+112,2018,Amador County,Single Family Residential,236.55,354695.45,374331.82,494668.18
+113,2018,Amador County,Townhouse,0.0,370000.0,0.0,9794000.0
+114,2019,Amador County,All Residential,303.09,354350.0,387297.73,-11129.55
+115,2019,Amador County,Condo/Co-op,1.0,588250.0,0.0,2912175.0
+116,2019,Amador County,Multi-Family (2-4 Unit),6.0,1125000.0,336750.0,6186700.0
+117,2019,Amador County,Single Family Residential,297.73,355213.64,387297.73,547856.82
+118,2019,Amador County,Townhouse,1.0,370000.0,0.0,10476700.0
+119,2020,Amador County,All Residential,216.73,377818.18,415797.73,-22070.45
+120,2020,Amador County,Condo/Co-op,0.83,436166.67,191641.67,974275.0
+121,2020,Amador County,Multi-Family (2-4 Unit),5.0,547250.0,367500.0,3737500.0
+122,2020,Amador County,Single Family Residential,210.64,377727.27,415797.73,708975.0
+123,2020,Amador County,Townhouse,0.0,350000.0,0.0,12372500.0
+124,2021,Amador County,All Residential,118.27,458525.41,513431.77,-29542.73
+125,2021,Amador County,Condo/Co-op,3.2,413200.0,425600.0,1042355.9
+126,2021,Amador County,Multi-Family (2-4 Unit),7.9,614245.5,510149.95,852823.5
+127,2021,Amador County,Single Family Residential,108.09,457979.95,472977.23,1189751.32
+128,2022,Amador County,All Residential,139.0,843000.0,1443000.0,-280000.0
+129,2022,Amador County,Condo/Co-op,3.0,374900.0,971000.0,784627.0
+130,2022,Amador County,Multi-Family (2-4 Unit),4.0,537727.0,472000.0,1692877.0
+131,2022,Amador County,Single Family Residential,126.0,846750.0,971000.0,1631377.0
+132,2012,Butte County,All Residential,572.27,191422.64,225250.0,-21372.82
+133,2012,Butte County,Condo/Co-op,24.18,114763.64,225250.0,92754.45
+134,2012,Butte County,Multi-Family (2-4 Unit),22.64,193405.36,225250.0,288887.09
+135,2012,Butte County,Single Family Residential,524.73,195331.82,224990.91,477409.82
+136,2012,Butte County,Townhouse,0.4,165350.0,152960.0,1541221.6
+137,2013,Butte County,All Residential,493.64,231159.09,259086.36,-18927.27
+138,2013,Butte County,Condo/Co-op,18.91,136727.27,259086.36,128345.45
+139,2013,Butte County,Multi-Family (2-4 Unit),15.91,236011.32,259086.36,361402.23
+140,2013,Butte County,Single Family Residential,457.91,236664.55,241822.73,620830.41
+141,2013,Butte County,Townhouse,0.75,197375.0,58050.0,2450871.12
+142,2014,Butte County,All Residential,583.0,243318.18,281090.91,-27931.82
+143,2014,Butte County,Condo/Co-op,15.0,141113.64,281090.91,131068.18
+144,2014,Butte County,Multi-Family (2-4 Unit),24.82,280290.91,281090.91,403177.27
+145,2014,Butte County,Single Family Residential,542.36,247186.36,282461.36,641129.55
+146,2014,Butte County,Townhouse,2.5,221550.0,117500.0,5119550.0
+147,2015,Butte County,All Residential,615.55,263886.36,304147.27,-30715.45
+148,2015,Butte County,Condo/Co-op,20.64,158500.0,304147.27,142511.82
+149,2015,Butte County,Multi-Family (2-4 Unit),35.8,271650.0,309062.0,449563.0
+150,2015,Butte County,Single Family Residential,558.64,265477.27,307320.0,639770.91
+151,2015,Butte County,Townhouse,0.5,270000.0,134950.0,5276550.0
+152,2016,Butte County,All Residential,688.36,285376.05,321650.0,-23842.14
+153,2016,Butte County,Condo/Co-op,21.18,156181.82,321650.0,143998.77
+154,2016,Butte County,Multi-Family (2-4 Unit),24.09,312709.09,321650.0,454935.14
+155,2016,Butte County,Single Family Residential,641.91,289542.73,321650.0,740614.23
+156,2016,Butte County,Townhouse,1.0,205500.0,206975.0,2869001.62
+157,2017,Butte County,All Residential,596.18,306688.82,338363.64,-16947.55
+158,2017,Butte County,Condo/Co-op,18.64,186477.27,338363.64,187666.09
+159,2017,Butte County,Multi-Family (2-4 Unit),20.73,371852.27,338363.64,549836.55
+160,2017,Butte County,Single Family Residential,553.82,310209.09,339190.91,849945.64
+161,2017,Butte County,Townhouse,3.12,274406.25,322118.75,1568225.25
+162,2018,Butte County,All Residential,687.82,325560.86,366059.09,-23952.77
+163,2018,Butte County,Condo/Co-op,18.0,179636.36,366059.09,194910.86
+164,2018,Butte County,Multi-Family (2-4 Unit),25.09,374000.0,366059.09,539429.95
+165,2018,Butte County,Single Family Residential,643.27,330124.91,366059.09,869535.77
+166,2018,Butte County,Townhouse,1.8,243230.0,181640.0,2722098.7
+167,2019,Butte County,All Residential,646.27,370913.32,407770.45,-19084.41
+168,2019,Butte County,Condo/Co-op,15.18,229245.45,407770.45,221933.77
+169,2019,Butte County,Multi-Family (2-4 Unit),30.64,419636.36,407770.45,643842.86
+170,2019,Butte County,Single Family Residential,597.18,375795.45,409679.55,1006365.59
+171,2019,Butte County,Townhouse,3.25,276500.0,350637.5,1844799.56
+172,2020,Butte County,All Residential,435.27,394100.55,438659.09,-31967.64
+173,2020,Butte County,Condo/Co-op,9.91,210977.27,438659.09,199964.18
+174,2020,Butte County,Multi-Family (2-4 Unit),26.45,411863.64,438659.09,609373.27
+175,2020,Butte County,Single Family Residential,397.55,399829.64,407750.0,1029930.18
+176,2020,Butte County,Townhouse,1.6,331250.0,147600.0,3300546.4
+177,2021,Butte County,All Residential,362.0,440977.27,480331.82,-22081.82
+178,2021,Butte County,Condo/Co-op,8.55,253136.36,480331.82,245600.0
+179,2021,Butte County,Multi-Family (2-4 Unit),15.82,394136.36,480331.82,641281.82
+180,2021,Butte County,Single Family Residential,336.55,450181.82,484834.09,1073143.18
+181,2021,Butte County,Townhouse,0.75,365812.5,309475.0,4287025.0
+182,2022,Butte County,All Residential,510.0,847500.0,1286350.0,-181850.0
+183,2022,Butte County,Condo/Co-op,9.0,433000.0,1286350.0,301650.0
+184,2022,Butte County,Multi-Family (2-4 Unit),30.0,597500.0,1286350.0,1031650.0
+185,2022,Butte County,Single Family Residential,470.0,865000.0,866675.0,2121325.0
+186,2022,Butte County,Townhouse,0.0,245000.0,0.0,2988000.0
+187,2012,Calaveras County,All Residential,18.18,200016.5,313909.09,-113165.32
+188,2012,Calaveras County,Multi-Family (2-4 Unit),0.0,8000.0,288500.0,2054681.5
+189,2012,Calaveras County,Single Family Residential,18.0,199698.32,313909.09,105805.73
+190,2012,Calaveras County,Townhouse,0.0,212000.0,0.0,4616863.0
+191,2013,Calaveras County,All Residential,23.09,283459.41,363744.36,-69921.32
+192,2013,Calaveras County,Condo/Co-op,1.0,114000.0,229000.0,3336553.5
+193,2013,Calaveras County,Single Family Residential,21.91,286186.68,363744.36,216265.36
+194,2014,Calaveras County,All Residential,13.57,299142.86,528754.0,-188325.43
+195,2014,Calaveras County,Condo/Co-op,1.0,374989.0,929944.0,1664045.0
+196,2014,Calaveras County,Single Family Residential,12.57,305785.71,528754.0,129744.43
+197,2015,Calaveras County,All Residential,15.22,429933.83,438213.89,16442.17
+198,2015,Calaveras County,Single Family Residential,13.78,429933.83,413880.56,445987.11
+199,2016,Calaveras County,All Residential,13.6,452745.4,404485.0,72260.4
+200,2016,Calaveras County,Condo/Co-op,0.0,240000.0,330750.0,4646704.0
+201,2016,Calaveras County,Single Family Residential,12.6,459750.4,404485.0,532010.8
+202,2017,Calaveras County,All Residential,15.2,395650.0,523080.0,-88930.0
+203,2017,Calaveras County,Single Family Residential,15.2,395650.0,460090.0,331210.0
+204,2018,Calaveras County,All Residential,23.09,509777.27,584445.45,2604.55
+205,2018,Calaveras County,Multi-Family (2-4 Unit),0.0,850000.0,1798000.0,4886550.0
+206,2018,Calaveras County,Single Family Residential,22.64,504777.27,502718.18,589109.09
+207,2019,Calaveras County,All Residential,22.55,383431.82,503572.64,-106620.91
+208,2019,Calaveras County,Condo/Co-op,0.0,334719.0,534000.0,4328469.0
+209,2019,Calaveras County,Single Family Residential,22.0,390250.0,503572.64,319538.18
+210,2019,Calaveras County,Townhouse,0.0,209000.0,0.0,9054219.0
+211,2020,Calaveras County,All Residential,152.82,388022.73,433500.0,-29113.64
+212,2020,Calaveras County,Condo/Co-op,2.6,285200.0,309880.0,944970.0
+213,2020,Calaveras County,Multi-Family (2-4 Unit),4.0,725000.0,452475.0,3277150.0
+214,2020,Calaveras County,Single Family Residential,147.82,389295.45,468040.91,593004.55
+215,2020,Calaveras County,Townhouse,1.0,570000.0,379950.0,11616550.0
+216,2021,Calaveras County,All Residential,108.45,487568.18,504750.0,6636.36
+217,2021,Calaveras County,Condo/Co-op,1.6,365550.0,372000.0,1131200.0
+218,2021,Calaveras County,Multi-Family (2-4 Unit),6.14,649071.43,446857.14,1285607.14
+219,2021,Calaveras County,Single Family Residential,99.27,490954.55,548295.45,1028068.18
+220,2021,Calaveras County,Townhouse,1.5,389750.0,464125.0,8493125.0
+221,2022,Calaveras County,All Residential,169.0,936999.5,1372400.0,-80400.5
+222,2022,Calaveras County,Multi-Family (2-4 Unit),5.0,355000.0,922900.0,828599.5
+223,2022,Calaveras County,Single Family Residential,159.0,940500.0,922900.0,1309599.5
+224,2012,Colusa County,All Residential,4.91,175000.0,180427.27,5481.82
+225,2012,Colusa County,Multi-Family (2-4 Unit),0.0,120000.0,195000.0,2027000.0
+226,2012,Colusa County,Single Family Residential,4.82,176931.82,180427.27,182413.64
+227,2013,Colusa County,All Residential,3.91,200024.55,276818.18,-66111.82
+228,2013,Colusa County,Single Family Residential,2.91,200024.55,276818.18,123230.91
+229,2014,Colusa County,All Residential,0.91,241007.91,37809.09,217062.45
+230,2014,Colusa County,Multi-Family (2-4 Unit),0.0,152500.0,212900.0,2794820.5
+231,2014,Colusa County,Single Family Residential,0.91,241130.64,37809.09,458193.09
+232,2015,Colusa County,All Residential,2.18,239207.55,117672.73,141443.91
+233,2015,Colusa County,Multi-Family (2-4 Unit),0.0,442000.0,0.0,1860141.5
+234,2015,Colusa County,Single Family Residential,2.18,234298.45,117672.73,436196.91
+235,2016,Colusa County,All Residential,11.27,348100.0,1886656.82,-1510375.0
+236,2016,Colusa County,Multi-Family (2-4 Unit),1.67,400000.0,0.0,1764700.0
+237,2016,Colusa County,Single Family Residential,9.73,338100.0,204838.64,590452.27
+238,2017,Colusa County,All Residential,4.82,318227.27,321218.09,65191.0
+239,2017,Colusa County,Multi-Family (2-4 Unit),0.0,750000.0,359500.0,4154500.0
+240,2017,Colusa County,Single Family Residential,4.82,318227.27,321218.09,383418.27
+241,2018,Colusa County,All Residential,1.64,322422.73,47772.73,296013.64
+242,2018,Colusa County,Multi-Family (2-4 Unit),0.0,485000.0,0.0,1755516.67
+243,2018,Colusa County,Single Family Residential,1.64,323240.91,47772.73,730163.64
+244,2019,Colusa County,All Residential,0.91,337863.64,38627.27,323781.82
+245,2019,Colusa County,Condo/Co-op,0.0,270000.0,0.0,4321500.0
+246,2019,Colusa County,Multi-Family (2-4 Unit),0.0,435833.33,0.0,1836333.33
+247,2019,Colusa County,Single Family Residential,0.91,336318.18,38627.27,778963.64
+248,2020,Colusa County,All Residential,0.55,364904.55,159227.27,231677.27
+249,2020,Colusa County,Multi-Family (2-4 Unit),0.0,546000.0,0.0,4859950.0
+250,2020,Colusa County,Single Family Residential,0.55,364909.09,159227.27,620222.73
+251,2021,Colusa County,All Residential,13.27,398704.55,349713.64,173990.91
+252,2021,Colusa County,Multi-Family (2-4 Unit),4.0,651178.57,336635.71,996078.57
+253,2021,Colusa County,Single Family Residential,9.91,403500.0,349713.64,896195.45
+254,2021,Colusa County,Townhouse,0.0,322500.0,0.0,13705000.0
+255,2022,Colusa County,All Residential,29.0,812500.0,997800.0,114700.0
+256,2022,Colusa County,Multi-Family (2-4 Unit),5.0,1114000.0,997800.0,1413700.0
+257,2022,Colusa County,Single Family Residential,23.0,815000.0,683850.0,2057650.0
+258,2012,Contra Costa County,All Residential,2097.64,332454.55,354375.73,-9012.09
+259,2012,Contra Costa County,Condo/Co-op,215.45,186109.09,354375.73,182142.45
+260,2012,Contra Costa County,Multi-Family (2-4 Unit),45.73,248490.91,354375.73,436315.18
+261,2012,Contra Costa County,Single Family Residential,1723.91,358363.64,354375.73,796951.55
+262,2012,Contra Costa County,Townhouse,112.55,345081.82,331193.91,1139306.09
+263,2013,Contra Costa County,All Residential,1683.0,448364.77,478995.18,-11994.05
+264,2013,Contra Costa County,Condo/Co-op,171.09,260272.73,478995.18,255460.5
+265,2013,Contra Costa County,Multi-Family (2-4 Unit),57.73,379272.73,478995.18,639824.14
+266,2013,Contra Costa County,Single Family Residential,1363.36,487431.82,478995.18,1128165.05
+267,2013,Contra Costa County,Townhouse,90.82,478422.73,448995.18,1604769.59
+268,2014,Contra Costa County,All Residential,2080.73,493466.82,531972.68,-14596.77
+269,2014,Contra Costa County,Condo/Co-op,246.0,335782.95,531972.68,330913.45
+270,2014,Contra Costa County,Multi-Family (2-4 Unit),72.0,465437.95,531972.68,799987.77
+271,2014,Contra Costa County,Single Family Residential,1645.36,532272.73,531972.68,1336260.5
+272,2014,Contra Costa County,Townhouse,117.36,512977.27,494245.41,1845692.32
+273,2015,Contra Costa County,All Residential,1930.91,533891.82,583014.41,-21849.86
+274,2015,Contra Costa County,Condo/Co-op,194.55,369318.18,583014.41,355604.68
+275,2015,Contra Costa County,Multi-Family (2-4 Unit),63.82,502250.0,583014.41,862172.86
+276,2015,Contra Costa County,Single Family Residential,1583.55,567090.91,583014.41,1432718.32
+277,2015,Contra Costa County,Townhouse,89.0,558954.55,542206.41,1989299.05
+278,2016,Contra Costa County,All Residential,1857.18,573649.86,629221.64,-23367.23
+279,2016,Contra Costa County,Condo/Co-op,220.64,396795.45,629221.64,388269.14
+280,2016,Contra Costa County,Multi-Family (2-4 Unit),51.64,559000.0,629221.64,944314.59
+281,2016,Contra Costa County,Single Family Residential,1498.09,608151.36,629221.64,1551102.32
+282,2016,Contra Costa County,Townhouse,86.82,608954.55,583858.0,2162693.23
+283,2017,Contra Costa County,All Residential,1564.55,624160.27,681475.59,-27769.86
+284,2017,Contra Costa County,Condo/Co-op,184.27,434386.36,681475.59,411389.23
+285,2017,Contra Costa County,Multi-Family (2-4 Unit),32.09,568886.36,681475.59,995502.86
+286,2017,Contra Costa County,Single Family Residential,1280.91,664490.91,681475.59,1656811.95
+287,2017,Contra Costa County,Townhouse,67.27,644704.55,630657.41,2305971.05
+288,2018,Contra Costa County,All Residential,1797.0,669727.27,721854.55,-16400.0
+289,2018,Contra Costa County,Condo/Co-op,206.55,473727.27,721854.55,467509.09
+290,2018,Contra Costa County,Multi-Family (2-4 Unit),37.82,751735.18,721854.55,1224244.27
+291,2018,Contra Costa County,Single Family Residential,1461.27,706055.27,721854.55,1926208.64
+292,2018,Contra Costa County,Townhouse,91.36,680500.0,668672.73,2613072.27
+293,2019,Contra Costa County,All Residential,2001.64,678090.91,736404.0,-22858.55
+294,2019,Contra Costa County,Condo/Co-op,283.45,470090.91,736404.0,468596.0
+295,2019,Contra Costa County,Multi-Family (2-4 Unit),37.0,735181.82,736404.0,1201050.55
+296,2019,Contra Costa County,Single Family Residential,1560.0,718568.18,736404.0,1916800.55
+297,2019,Contra Costa County,Townhouse,121.18,652772.73,681949.45,2572755.09
+298,2020,Contra Costa County,All Residential,1411.36,742272.73,806783.45,-27783.45
+299,2020,Contra Costa County,Condo/Co-op,273.73,468227.27,806783.45,460125.64
+300,2020,Contra Costa County,Multi-Family (2-4 Unit),32.27,783090.91,806783.45,1243262.0
+301,2020,Contra Costa County,Single Family Residential,1020.73,795340.91,806783.45,2027602.91
+302,2020,Contra Costa County,Townhouse,84.64,703719.0,749601.64,2743049.18
+303,2021,Contra Costa County,All Residential,1028.27,878977.27,905695.45,11531.82
+304,2021,Contra Costa County,Condo/Co-op,195.36,522750.0,905695.45,561031.82
+305,2021,Contra Costa County,Multi-Family (2-4 Unit),34.45,883318.18,905695.45,1448304.55
+306,2021,Contra Costa County,Single Family Residential,735.18,963045.45,905695.45,2402850.0
+307,2021,Contra Costa County,Townhouse,63.27,774818.18,839795.45,3183113.64
+308,2022,Contra Costa County,All Residential,1219.0,1566000.0,2389444.0,-363444.0
+309,2022,Contra Costa County,Condo/Co-op,210.0,972500.0,2389444.0,843056.0
+310,2022,Contra Costa County,Multi-Family (2-4 Unit),45.0,1654000.0,2389444.0,2628056.0
+311,2022,Contra Costa County,Single Family Residential,883.0,1725000.0,2389444.0,4213056.0
+312,2022,Contra Costa County,Townhouse,81.0,1482500.0,1594444.0,5805556.0
+313,2012,El Dorado County,All Residential,1155.18,287786.36,349942.55,-38963.0
+314,2012,El Dorado County,Condo/Co-op,51.64,156192.18,349942.55,110717.82
+315,2012,El Dorado County,Multi-Family (2-4 Unit),27.91,208409.09,349942.55,324263.27
+316,2012,El Dorado County,Single Family Residential,1073.64,295363.64,349942.55,609626.91
+317,2012,El Dorado County,Townhouse,1.89,150177.78,166309.33,1142231.11
+318,2013,El Dorado County,All Residential,1023.27,362304.55,420436.27,-44404.45
+319,2013,El Dorado County,Condo/Co-op,47.27,227760.91,420436.27,189174.64
+320,2013,El Dorado County,Multi-Family (2-4 Unit),28.82,256027.27,420436.27,451111.0
+321,2013,El Dorado County,Single Family Residential,943.45,371681.82,423890.82,807520.09
+322,2013,El Dorado County,Townhouse,4.0,193800.0,291400.0,2581504.0
+323,2014,El Dorado County,All Residential,1200.91,393750.0,460181.82,-50977.27
+324,2014,El Dorado County,Condo/Co-op,57.64,244318.18,460181.82,196204.55
+325,2014,El Dorado County,Multi-Family (2-4 Unit),20.9,323800.0,432400.0,626775.0
+326,2014,El Dorado County,Single Family Residential,1120.82,404468.18,424818.18,931354.55
+327,2014,El Dorado County,Townhouse,0.8,209000.0,153400.0,2996780.0
+328,2015,El Dorado County,All Residential,1214.55,425868.18,497418.18,-53277.27
+329,2015,El Dorado County,Condo/Co-op,63.64,242336.36,497418.18,209877.27
+330,2015,El Dorado County,Multi-Family (2-4 Unit),25.64,373250.0,497418.18,579036.36
+331,2015,El Dorado County,Single Family Residential,1121.18,438936.36,501509.09,999609.09
+332,2015,El Dorado County,Townhouse,4.0,303375.0,424737.5,3949712.5
+333,2016,El Dorado County,All Residential,1040.91,457022.73,524225.36,-38475.36
+334,2016,El Dorado County,Condo/Co-op,46.73,277272.73,524225.36,243979.18
+335,2016,El Dorado County,Multi-Family (2-4 Unit),29.09,409545.45,524225.36,656433.73
+336,2016,El Dorado County,Single Family Residential,962.64,470504.55,524225.36,1111620.09
+337,2016,El Dorado County,Townhouse,2.33,287041.67,151158.33,3095516.67
+338,2017,El Dorado County,All Residential,972.55,493090.91,565856.82,-47447.73
+339,2017,El Dorado County,Condo/Co-op,30.36,304463.64,565856.82,262606.82
+340,2017,El Dorado County,Multi-Family (2-4 Unit),22.6,404550.0,524792.5,798567.5
+341,2017,El Dorado County,Single Family Residential,918.55,503827.27,565856.82,1119206.82
+342,2017,El Dorado County,Townhouse,1.71,286750.0,420357.14,2489350.0
+343,2018,El Dorado County,All Residential,1020.45,530795.45,595713.64,-41281.82
+344,2018,El Dorado County,Condo/Co-op,35.64,329406.82,595713.64,298579.55
+345,2018,El Dorado County,Multi-Family (2-4 Unit),21.73,499261.36,595713.64,806959.09
+346,2018,El Dorado County,Single Family Residential,959.09,541531.82,596440.91,1328754.55
+347,2018,El Dorado County,Townhouse,4.14,369028.57,495271.43,2861035.71
+348,2019,El Dorado County,All Residential,1225.27,538772.73,608174.36,-40833.45
+349,2019,El Dorado County,Condo/Co-op,30.55,348409.09,608174.36,309780.18
+350,2019,El Dorado County,Multi-Family (2-4 Unit),25.73,450113.64,608174.36,771393.82
+351,2019,El Dorado County,Single Family Residential,1154.09,548409.09,609628.91,1313757.45
+352,2019,El Dorado County,Townhouse,15.5,426750.0,559191.8,1941833.2
+353,2020,El Dorado County,All Residential,768.27,569204.55,667894.36,-72780.73
+354,2020,El Dorado County,Condo/Co-op,24.91,349545.45,667894.36,296764.73
+355,2020,El Dorado County,Multi-Family (2-4 Unit),23.64,560681.82,667894.36,852401.09
+356,2020,El Dorado County,Single Family Residential,710.73,581818.18,667894.36,1420946.55
+357,2020,El Dorado County,Townhouse,8.78,525388.89,637265.33,2407429.11
+358,2021,El Dorado County,All Residential,474.18,698045.45,751609.0,-29245.36
+359,2021,El Dorado County,Condo/Co-op,8.55,379181.82,751609.0,374572.82
+360,2021,El Dorado County,Multi-Family (2-4 Unit),32.91,702431.82,751609.0,1082231.91
+361,2021,El Dorado County,Single Family Residential,426.91,709281.82,751609.0,1789604.64
+362,2021,El Dorado County,Townhouse,5.82,514340.91,698063.55,2305218.27
+363,2022,El Dorado County,All Residential,564.0,1301000.0,2148800.0,-472800.0
+364,2022,El Dorado County,Condo/Co-op,6.0,805000.0,2148800.0,532200.0
+365,2022,El Dorado County,Multi-Family (2-4 Unit),35.0,1250000.0,2148800.0,1837200.0
+366,2022,El Dorado County,Single Family Residential,517.0,1359000.0,2148800.0,2991200.0
+367,2022,El Dorado County,Townhouse,6.0,965000.0,1448900.0,4231100.0
+368,2012,Fresno County,All Residential,1762.73,161908.64,181090.91,-13818.64
+369,2012,Fresno County,Condo/Co-op,68.82,69813.64,181090.91,59358.64
+370,2012,Fresno County,Multi-Family (2-4 Unit),37.82,149922.73,181090.91,212781.36
+371,2012,Fresno County,Single Family Residential,1656.09,165204.55,167818.18,393122.27
+372,2012,Fresno County,Townhouse,0.0,155000.0,0.0,6170345.0
+373,2013,Fresno County,All Residential,1497.73,194613.64,218230.86,-12935.41
+374,2013,Fresno County,Condo/Co-op,69.45,100338.0,218230.86,89657.05
+375,2013,Fresno County,Multi-Family (2-4 Unit),43.0,155845.36,218230.86,246725.23
+376,2013,Fresno County,Single Family Residential,1385.27,199250.0,203685.41,446361.59
+377,2014,Fresno County,All Residential,2218.18,219563.64,247231.82,-19850.0
+378,2014,Fresno County,Condo/Co-op,97.82,100136.36,247231.82,87468.18
+379,2014,Fresno County,Multi-Family (2-4 Unit),72.73,186993.5,247231.82,276461.68
+380,2014,Fresno County,Single Family Residential,2047.64,224850.0,229050.0,502493.5
+381,2015,Fresno County,All Residential,2423.82,239431.82,263300.0,-12050.0
+382,2015,Fresno County,Condo/Co-op,121.73,119781.09,263300.0,112094.73
+383,2015,Fresno County,Multi-Family (2-4 Unit),80.55,202090.91,263300.0,317617.45
+384,2015,Fresno County,Single Family Residential,2221.55,244905.0,244302.27,561906.55
+385,2016,Fresno County,All Residential,2004.55,250795.45,278827.27,-21922.73
+386,2016,Fresno County,Condo/Co-op,75.36,126268.18,278827.27,113918.18
+387,2016,Fresno County,Multi-Family (2-4 Unit),64.45,209902.27,278827.27,328343.18
+388,2016,Fresno County,Single Family Residential,1864.55,256613.64,257927.27,599288.64
+389,2016,Fresno County,Townhouse,0.0,150000.0,0.0,9429375.0
+390,2017,Fresno County,All Residential,1756.36,269290.45,297464.18,-17446.45
+391,2017,Fresno County,Condo/Co-op,73.18,148363.64,297464.18,136167.18
+392,2017,Fresno County,Multi-Family (2-4 Unit),65.36,248681.77,297464.18,390416.32
+393,2017,Fresno County,Single Family Residential,1617.82,274658.27,276224.14,664770.0
+394,2018,Fresno County,All Residential,1850.09,288290.91,320031.82,-21286.36
+395,2018,Fresno County,Condo/Co-op,72.09,152522.73,320031.82,143236.36
+396,2018,Fresno County,Multi-Family (2-4 Unit),57.27,279068.18,320031.82,422577.27
+397,2018,Fresno County,Single Family Residential,1720.73,292585.45,295940.91,722526.36
+398,2018,Fresno County,Townhouse,0.0,335000.0,0.0,11472140.0
+399,2019,Fresno County,All Residential,1918.18,301616.55,334259.09,-18642.55
+400,2019,Fresno County,Condo/Co-op,88.64,174636.36,334259.09,163130.18
+401,2019,Fresno County,Multi-Family (2-4 Unit),54.55,302272.73,334259.09,468802.91
+402,2019,Fresno County,Single Family Residential,1775.0,306456.41,309259.09,775722.95
+403,2020,Fresno County,All Residential,1166.27,331659.09,366101.45,-20237.82
+404,2020,Fresno County,Condo/Co-op,62.82,193204.55,366101.45,186671.27
+405,2020,Fresno County,Multi-Family (2-4 Unit),50.09,334022.73,366101.45,519028.55
+406,2020,Fresno County,Single Family Residential,1053.36,336314.55,340192.36,855008.55
+407,2021,Fresno County,All Residential,828.82,390500.0,432477.18,-27431.73
+408,2021,Fresno County,Condo/Co-op,44.27,209181.82,432477.18,198568.27
+409,2021,Fresno County,Multi-Family (2-4 Unit),36.27,381727.27,432477.18,578295.55
+410,2021,Fresno County,Single Family Residential,747.82,398272.73,401749.91,1011750.09
+411,2021,Fresno County,Townhouse,1.0,717000.0,0.0,15893500.0
+412,2022,Fresno County,All Residential,1075.0,775500.0,1135000.0,-180000.0
+413,2022,Fresno County,Condo/Co-op,67.0,404500.0,1135000.0,332000.0
+414,2022,Fresno County,Multi-Family (2-4 Unit),48.0,632000.0,1135000.0,1078250.0
+415,2022,Fresno County,Single Family Residential,960.0,792250.0,760000.0,1844250.0
+416,2012,Glenn County,All Residential,62.45,152940.86,176913.64,-15995.5
+417,2012,Glenn County,Multi-Family (2-4 Unit),2.0,164783.33,163316.67,627249.83
+418,2012,Glenn County,Single Family Residential,60.82,156572.68,161550.0,192904.45
+419,2013,Glenn County,All Residential,49.55,150374.91,175336.36,-9052.36
+420,2013,Glenn County,Multi-Family (2-4 Unit),3.0,208500.0,211875.0,899187.0
+421,2013,Glenn County,Single Family Residential,48.27,150579.45,175336.36,163527.09
+422,2014,Glenn County,All Residential,61.73,170745.91,201736.36,-18945.0
+423,2014,Glenn County,Multi-Family (2-4 Unit),3.75,144025.0,178250.0,479076.25
+424,2014,Glenn County,Single Family Residential,57.91,169882.27,187827.27,205173.64
+425,2015,Glenn County,All Residential,61.18,210972.73,221214.5,4758.23
+426,2015,Glenn County,Condo/Co-op,0.0,165000.0,0.0,2772700.0
+427,2015,Glenn County,Multi-Family (2-4 Unit),7.0,445000.0,454500.0,2636450.0
+428,2015,Glenn County,Single Family Residential,57.64,210695.45,221214.5,255908.23
+429,2016,Glenn County,All Residential,68.09,221403.32,232427.27,5794.23
+430,2016,Glenn County,Multi-Family (2-4 Unit),2.8,218818.2,43000.0,694901.0
+431,2016,Glenn County,Single Family Residential,65.45,219612.41,232427.27,308051.27
+432,2017,Glenn County,All Residential,75.09,228090.91,270354.55,-26945.45
+433,2017,Glenn County,Multi-Family (2-4 Unit),3.5,261750.0,483125.0,1143625.0
+434,2017,Glenn County,Single Family Residential,72.0,230272.73,249763.64,261190.91
+435,2017,Glenn County,Townhouse,0.0,55000.0,0.0,5620500.0
+436,2018,Glenn County,All Residential,72.55,246741.82,280086.36,-21071.82
+437,2018,Glenn County,Multi-Family (2-4 Unit),2.0,493000.0,153000.0,1320886.67
+438,2018,Glenn County,Single Family Residential,69.55,246452.95,259222.73,391153.86
+439,2018,Glenn County,Townhouse,2.0,300625.0,119750.0,3632946.25
+440,2019,Glenn County,All Residential,82.91,285154.95,322818.18,-13117.77
+441,2019,Glenn County,Multi-Family (2-4 Unit),1.0,377000.0,138750.0,1919102.25
+442,2019,Glenn County,Single Family Residential,80.18,285609.5,322818.18,330309.91
+443,2019,Glenn County,Townhouse,1.5,293500.0,144950.0,3664754.5
+444,2020,Glenn County,All Residential,55.45,324160.59,319363.64,32887.86
+445,2020,Glenn County,Multi-Family (2-4 Unit),3.0,636000.0,561000.0,3955766.5
+446,2020,Glenn County,Single Family Residential,52.09,323274.23,319363.64,402889.36
+447,2020,Glenn County,Townhouse,3.0,526500.0,0.0,8284283.0
+448,2021,Glenn County,All Residential,41.0,351758.68,371090.91,18395.05
+449,2021,Glenn County,Multi-Family (2-4 Unit),6.0,752000.0,289000.0,4587395.5
+450,2021,Glenn County,Single Family Residential,38.18,352213.23,371090.91,425790.09
+451,2021,Glenn County,Townhouse,0.0,270000.0,0.0,8765691.0
+452,2022,Glenn County,All Residential,84.0,727500.0,780000.0,126500.0
+453,2022,Glenn County,Multi-Family (2-4 Unit),3.0,179000.0,408000.0,818500.0
+454,2022,Glenn County,Single Family Residential,77.0,730000.0,780000.0,856500.0
+455,2012,Kern County,All Residential,1726.64,138590.91,157984.09,-12506.82
+456,2012,Kern County,Condo/Co-op,44.36,78472.73,157984.09,66579.55
+457,2012,Kern County,Multi-Family (2-4 Unit),82.36,104727.27,157984.09,174306.82
+458,2012,Kern County,Single Family Residential,1598.45,141622.73,157984.09,309693.18
+459,2012,Kern County,Townhouse,1.29,67757.14,36042.86,759935.71
+460,2013,Kern County,All Residential,1418.82,179854.09,201786.36,-17273.18
+461,2013,Kern County,Condo/Co-op,48.64,98750.0,201786.36,86635.91
+462,2013,Kern County,Multi-Family (2-4 Unit),73.91,137286.36,201786.36,227285.91
+463,2013,Kern County,Single Family Residential,1294.64,184541.36,201786.36,403054.55
+464,2013,Kern County,Townhouse,2.0,111750.0,83125.0,1679812.5
+465,2014,Kern County,All Residential,1891.45,201409.09,225036.36,-16809.09
+466,2014,Kern County,Condo/Co-op,54.36,109136.36,225036.36,100963.64
+467,2014,Kern County,Multi-Family (2-4 Unit),118.82,162977.27,225036.36,264850.0
+468,2014,Kern County,Single Family Residential,1716.82,207136.36,225036.36,466759.09
+469,2014,Kern County,Townhouse,1.25,130750.0,143975.0,1858587.5
+470,2015,Kern County,All Residential,2635.82,216136.36,239006.82,-15915.91
+471,2015,Kern County,Condo/Co-op,75.91,115163.64,239006.82,105702.27
+472,2015,Kern County,Multi-Family (2-4 Unit),163.91,166068.18,239006.82,274952.27
+473,2015,Kern County,Single Family Residential,2393.73,221454.55,239865.91,490775.0
+474,2015,Kern County,Townhouse,2.33,150666.67,137616.67,1330891.67
+475,2016,Kern County,All Residential,2627.36,226825.0,249968.0,-14052.09
+476,2016,Kern County,Condo/Co-op,82.0,126404.55,249968.0,120261.55
+477,2016,Kern County,Multi-Family (2-4 Unit),189.91,185072.73,249968.0,306515.18
+478,2016,Kern County,Single Family Residential,2351.91,231090.0,249968.0,531242.45
+479,2016,Kern County,Townhouse,3.25,156250.0,104499.75,2167579.0
+480,2017,Kern County,All Residential,2295.91,237943.64,262977.27,-13101.82
+481,2017,Kern County,Condo/Co-op,71.82,137818.18,262977.27,129148.18
+482,2017,Kern County,Multi-Family (2-4 Unit),163.45,201122.73,262977.27,332680.0
+483,2017,Kern County,Single Family Residential,2054.18,242118.18,262977.27,567570.91
+484,2017,Kern County,Townhouse,7.33,153383.33,261666.67,1393221.67
+485,2018,Kern County,All Residential,2334.91,250750.0,274915.91,-13711.36
+486,2018,Kern County,Condo/Co-op,65.27,140159.09,274915.91,133447.73
+487,2018,Kern County,Multi-Family (2-4 Unit),136.55,227909.09,274915.91,364038.64
+488,2018,Kern County,Single Family Residential,2127.45,254831.73,274915.91,607506.73
+489,2018,Kern County,Townhouse,5.75,187193.75,202959.38,1185503.0
+490,2019,Kern County,All Residential,2144.45,264799.95,289986.36,-13822.77
+491,2019,Kern County,Condo/Co-op,49.64,143568.18,289986.36,139290.86
+492,2019,Kern County,Multi-Family (2-4 Unit),129.64,244790.91,289986.36,384486.32
+493,2019,Kern County,Single Family Residential,1961.55,269202.05,289986.36,642465.64
+494,2019,Kern County,Townhouse,3.67,181166.67,164141.67,1708020.33
+495,2020,Kern County,All Residential,1618.36,290270.45,318565.91,-15931.82
+496,2020,Kern County,Condo/Co-op,48.55,154340.91,318565.91,145590.91
+497,2020,Kern County,Multi-Family (2-4 Unit),126.64,252636.36,318565.91,400681.82
+498,2020,Kern County,Single Family Residential,1441.27,294362.73,319156.82,684726.36
+499,2020,Kern County,Townhouse,2.33,287000.0,369153.33,3553751.67
+500,2021,Kern County,All Residential,1239.0,340312.73,371650.0,-16337.27
+501,2021,Kern County,Condo/Co-op,39.82,187340.91,371650.0,175321.82
+502,2021,Kern County,Multi-Family (2-4 Unit),102.55,311840.91,371650.0,494662.73
+503,2021,Kern County,Single Family Residential,1094.27,347130.91,345286.36,858248.18
+504,2021,Kern County,Townhouse,2.17,249333.33,328316.67,2096496.67
+505,2022,Kern County,All Residential,1727.0,680000.0,1029900.0,-154900.0
+506,2022,Kern County,Condo/Co-op,39.0,380000.0,1029900.0,325100.0
+507,2022,Kern County,Multi-Family (2-4 Unit),130.0,553500.0,1029900.0,928500.0
+508,2022,Kern County,Single Family Residential,1558.0,697400.0,689900.0,1621000.0
+509,2012,Lake County,All Residential,406.91,130318.14,153516.82,-16562.32
+510,2012,Lake County,Condo/Co-op,1.0,158750.0,149500.0,1600249.5
+511,2012,Lake County,Multi-Family (2-4 Unit),19.25,151034.5,214393.75,362828.12
+512,2012,Lake County,Single Family Residential,387.45,131359.05,165244.09,172854.73
+513,2012,Lake County,Townhouse,2.5,139875.0,134487.5,1826056.0
+514,2013,Lake County,All Residential,346.55,155227.27,196550.0,-34959.09
+515,2013,Lake County,Condo/Co-op,1.83,113691.58,138633.33,276891.58
+516,2013,Lake County,Multi-Family (2-4 Unit),19.25,173224.88,183337.5,305406.06
+517,2013,Lake County,Single Family Residential,324.64,156318.18,197468.18,308618.05
+518,2013,Lake County,Townhouse,4.0,230000.0,349900.0,5375048.5
+519,2014,Lake County,All Residential,365.45,176086.36,226472.68,-37113.59
+520,2014,Lake County,Condo/Co-op,2.67,177166.67,185300.0,677516.67
+521,2014,Lake County,Multi-Family (2-4 Unit),13.0,161929.17,261049.92,334437.58
+522,2014,Lake County,Single Family Residential,349.36,177490.91,209209.05,290102.32
+523,2014,Lake County,Townhouse,1.0,235000.0,0.0,5627425.0
+524,2015,Lake County,All Residential,463.18,220800.0,252677.27,-21513.64
+525,2015,Lake County,Condo/Co-op,2.86,146642.86,196578.57,314821.43
+526,2015,Lake County,Multi-Family (2-4 Unit),16.5,538375.0,291043.75,698681.25
+527,2015,Lake County,Single Family Residential,442.82,223327.27,252677.27,691768.18
+528,2015,Lake County,Townhouse,2.0,170000.0,0.0,10388900.0
+529,2016,Lake County,All Residential,460.45,251204.55,262952.27,5070.45
+530,2016,Lake County,Condo/Co-op,0.0,550000.0,238875.0,3258875.0
+531,2016,Lake County,Multi-Family (2-4 Unit),16.22,290416.67,290261.11,393516.67
+532,2016,Lake County,Single Family Residential,441.64,251454.55,262952.27,543593.18
+533,2016,Lake County,Townhouse,2.0,394500.0,0.0,4741000.0
+534,2017,Lake County,All Residential,467.36,260227.27,310881.82,-28154.55
+535,2017,Lake County,Condo/Co-op,2.0,308750.0,259000.0,1601000.0
+536,2017,Lake County,Multi-Family (2-4 Unit),15.71,326178.57,337550.0,515842.86
+537,2017,Lake County,Single Family Residential,446.09,259918.18,310927.27,478831.82
+538,2017,Lake County,Townhouse,8.0,262000.0,261975.0,4311200.0
+539,2018,Lake County,All Residential,517.27,280254.55,313368.18,-10477.27
+540,2018,Lake County,Condo/Co-op,0.0,249000.0,0.0,3516800.0
+541,2018,Lake County,Multi-Family (2-4 Unit),12.25,287656.25,284112.5,452831.25
+542,2018,Lake County,Single Family Residential,500.18,281045.45,313368.18,499363.64
+543,2018,Lake County,Townhouse,3.0,250887.0,77750.0,2354274.5
+544,2019,Lake County,All Residential,536.0,280590.91,293263.59,5850.05
+545,2019,Lake County,Condo/Co-op,6.5,237187.5,125750.0,970562.5
+546,2019,Lake County,Multi-Family (2-4 Unit),8.71,388928.57,262192.86,738485.71
+547,2019,Lake County,Single Family Residential,517.64,282500.0,319536.32,597304.59
+548,2019,Lake County,Townhouse,4.33,252916.67,179908.33,1717216.67
+549,2020,Lake County,All Residential,397.36,316250.0,348818.18,-16659.09
+550,2020,Lake County,Condo/Co-op,5.0,175000.0,319900.0,3573850.0
+551,2020,Lake County,Multi-Family (2-4 Unit),10.75,333843.75,356387.5,465300.0
+552,2020,Lake County,Single Family Residential,378.64,316181.82,378363.64,526409.09
+553,2020,Lake County,Townhouse,4.2,313100.0,258580.0,2015020.0
+554,2021,Lake County,All Residential,359.55,359113.64,415754.55,-37095.45
+555,2021,Lake County,Condo/Co-op,3.5,349750.0,515750.0,1941625.0
+556,2021,Lake County,Multi-Family (2-4 Unit),9.89,388327.78,383733.33,554011.11
+557,2021,Lake County,Single Family Residential,344.27,362000.0,409618.18,713172.73
+558,2021,Lake County,Townhouse,4.0,299541.67,285366.67,2035291.67
+559,2022,Lake County,All Residential,587.0,690000.0,728900.0,116100.0
+560,2022,Lake County,Condo/Co-op,2.0,155000.0,329000.0,816000.0
+561,2022,Lake County,Multi-Family (2-4 Unit),25.0,690000.0,1057900.0,827000.0
+562,2022,Lake County,Single Family Residential,557.0,704400.0,728900.0,2020500.0
+563,2022,Lake County,Townhouse,1.0,827000.0,0.0,3066400.0
+564,2012,Los Angeles County,All Residential,19561.82,357545.45,420686.36,-42231.82
+565,2012,Los Angeles County,Condo/Co-op,3169.91,276636.36,420686.36,240768.18
+566,2012,Los Angeles County,Multi-Family (2-4 Unit),1773.55,372181.82,420686.36,613404.55
+567,2012,Los Angeles County,Single Family Residential,13786.0,373181.82,420686.36,984109.09
+568,2012,Los Angeles County,Townhouse,832.36,366250.0,390877.27,1354918.18
+569,2013,Los Angeles County,All Residential,12915.36,450293.41,516650.95,-41562.09
+570,2013,Los Angeles County,Condo/Co-op,2045.45,356727.27,516650.95,323097.0
+571,2013,Los Angeles County,Multi-Family (2-4 Unit),1342.36,458727.27,516650.95,781097.0
+572,2013,Los Angeles County,Single Family Residential,8966.0,472500.0,516650.95,1251597.0
+573,2013,Los Angeles County,Townhouse,561.55,435454.55,480378.23,1693324.27
+574,2014,Los Angeles County,All Residential,16625.0,503090.91,571659.09,-37659.09
+575,2014,Los Angeles County,Condo/Co-op,2714.36,405413.64,571659.09,379527.27
+576,2014,Los Angeles County,Multi-Family (2-4 Unit),1626.64,540681.82,571659.09,917436.36
+577,2014,Los Angeles County,Single Family Residential,11413.55,528136.36,571659.09,1441118.18
+578,2014,Los Angeles County,Townhouse,870.45,461068.18,529950.0,1908440.91
+579,2015,Los Angeles County,All Residential,17423.64,539227.27,611626.77,-38672.23
+580,2015,Los Angeles County,Condo/Co-op,2647.64,433204.55,611626.77,410805.05
+581,2015,Los Angeles County,Multi-Family (2-4 Unit),1985.09,601000.0,611626.77,1005441.41
+582,2015,Los Angeles County,Single Family Residential,11887.91,565363.64,611626.77,1566350.5
+583,2015,Los Angeles County,Townhouse,903.0,488908.18,566263.14,2061440.5
+584,2016,Los Angeles County,All Residential,18605.27,578772.73,650688.0,-36006.18
+585,2016,Los Angeles County,Condo/Co-op,2744.36,455713.18,650688.0,437888.82
+586,2016,Los Angeles County,Multi-Family (2-4 Unit),1951.45,666568.18,650688.0,1097638.82
+587,2016,Los Angeles County,Single Family Residential,12877.82,608636.36,650688.0,1699002.45
+588,2016,Los Angeles County,Townhouse,1031.64,508545.45,602515.27,2215720.64
+589,2017,Los Angeles County,All Residential,17625.36,624681.77,698024.95,-36797.73
+590,2017,Los Angeles County,Condo/Co-op,2446.64,485318.18,698024.95,471065.91
+591,2017,Los Angeles County,Multi-Family (2-4 Unit),1767.09,738750.0,698024.95,1202088.64
+592,2017,Los Angeles County,Single Family Residential,12423.64,655340.91,698024.95,1851247.73
+593,2017,Los Angeles County,Townhouse,988.0,560672.73,646661.32,2418102.27
+594,2018,Los Angeles County,All Residential,18796.55,668068.18,748176.77,-38744.95
+595,2018,Los Angeles County,Condo/Co-op,2624.91,524750.0,748176.77,508277.77
+596,2018,Los Angeles County,Multi-Family (2-4 Unit),1865.27,805272.73,748176.77,1303550.5
+597,2018,Los Angeles County,Single Family Residential,13250.82,695477.27,748176.77,1993118.68
+598,2018,Los Angeles County,Townhouse,1055.55,598454.55,692724.5,2599298.23
+599,2019,Los Angeles County,All Residential,19975.09,687090.0,777271.64,-46999.82
+600,2019,Los Angeles County,Condo/Co-op,3230.45,528204.55,777271.64,501659.27
+601,2019,Los Angeles County,Multi-Family (2-4 Unit),1867.27,841795.45,777271.64,1335386.55
+602,2019,Los Angeles County,Single Family Residential,13674.64,716477.27,777271.64,2046295.64
+603,2019,Los Angeles County,Townhouse,1202.73,610404.0,719104.0,2664867.27
+604,2020,Los Angeles County,All Residential,16430.91,744863.64,850854.55,-61900.0
+605,2020,Los Angeles County,Condo/Co-op,3294.73,552704.55,850854.55,520168.18
+606,2020,Los Angeles County,Multi-Family (2-4 Unit),1743.73,896136.36,850854.55,1402850.0
+607,2020,Los Angeles County,Single Family Residential,10342.18,795454.55,850854.55,2187322.0
+608,2020,Los Angeles County,Townhouse,1050.27,626972.0,788127.27,2828003.82
+609,2021,Los Angeles County,All Residential,13836.82,873045.45,932789.73,-14380.64
+610,2021,Los Angeles County,Condo/Co-op,2898.18,627818.18,932789.73,647846.64
+611,2021,Los Angeles County,Multi-Family (2-4 Unit),1729.18,1045590.91,932789.73,1684119.36
+612,2021,Los Angeles County,Single Family Residential,8381.09,942840.91,932789.73,2612414.82
+613,2021,Los Angeles County,Townhouse,828.36,750318.18,864567.55,3375046.09
+614,2022,Los Angeles County,All Residential,16219.0,1660000.0,2548000.0,-293000.0
+615,2022,Los Angeles County,Condo/Co-op,3177.0,1224000.0,2548000.0,1268500.0
+616,2022,Los Angeles County,Multi-Family (2-4 Unit),2230.0,1932500.0,2548000.0,3147500.0
+617,2022,Los Angeles County,Single Family Residential,9902.0,1774000.0,2548000.0,4737500.0
+618,2022,Los Angeles County,Townhouse,910.0,1422000.0,1699000.0,6313500.0
+619,2012,Madera County,All Residential,418.0,148054.32,173288.91,-17420.95
+620,2012,Madera County,Condo/Co-op,4.6,113580.0,83600.0,368099.5
+621,2012,Madera County,Multi-Family (2-4 Unit),6.0,101114.29,165557.14,265842.5
+622,2012,Madera County,Single Family Residential,407.73,148922.73,161107.09,251842.68
+623,2013,Madera County,All Residential,388.0,177077.27,210393.18,-26725.0
+624,2013,Madera County,Condo/Co-op,2.5,98906.25,201306.25,168206.25
+625,2013,Madera County,Multi-Family (2-4 Unit),4.14,164414.29,151967.86,423317.86
+626,2013,Madera County,Single Family Residential,381.55,177850.0,195852.27,335634.09
+627,2014,Madera County,All Residential,551.0,209786.36,252477.27,-29690.91
+628,2014,Madera County,Condo/Co-op,3.71,123285.71,215250.0,253057.14
+629,2014,Madera County,Multi-Family (2-4 Unit),11.78,159955.5,235533.33,296772.17
+630,2014,Madera County,Single Family Residential,534.91,211600.0,234113.64,417054.5
+631,2014,Madera County,Townhouse,1.0,225000.0,0.0,7162849.5
+632,2015,Madera County,All Residential,663.0,223954.55,255765.45,-12947.27
+633,2015,Madera County,Condo/Co-op,4.71,129535.71,188423.57,310183.57
+634,2015,Madera County,Multi-Family (2-4 Unit),10.71,281214.29,186845.71,607190.0
+635,2015,Madera County,Single Family Residential,648.09,224165.91,235998.64,484871.82
+636,2015,Madera County,Townhouse,0.0,259000.0,0.0,8063575.0
+637,2016,Madera County,All Residential,522.45,239250.91,282185.91,-25207.73
+638,2016,Madera County,Condo/Co-op,2.67,187533.33,239603.33,453056.67
+639,2016,Madera County,Multi-Family (2-4 Unit),5.4,205700.0,187309.0,810533.0
+640,2016,Madera County,Single Family Residential,513.64,239890.91,260640.45,427928.64
+641,2016,Madera County,Townhouse,0.0,378000.0,0.0,7802260.0
+642,2017,Madera County,All Residential,498.36,264510.0,281171.36,-6888.64
+643,2017,Madera County,Condo/Co-op,2.57,163107.14,217707.14,390630.0
+644,2017,Madera County,Multi-Family (2-4 Unit),9.62,265843.75,288141.88,511496.88
+645,2017,Madera County,Single Family Residential,486.55,265336.36,302966.82,546558.09
+646,2017,Madera County,Townhouse,1.0,247964.0,239750.0,9105024.0
+647,2018,Madera County,All Residential,567.73,285040.91,324272.73,-22140.91
+648,2018,Madera County,Condo/Co-op,1.83,150250.0,227208.33,453950.0
+649,2018,Madera County,Multi-Family (2-4 Unit),6.11,246555.56,331405.56,392588.89
+650,2018,Madera County,Single Family Residential,558.27,286452.27,299818.18,555356.82
+651,2019,Madera County,All Residential,561.45,303586.36,337245.45,-24113.64
+652,2019,Madera County,Condo/Co-op,0.75,182875.0,143487.5,916750.0
+653,2019,Madera County,Multi-Family (2-4 Unit),8.29,404571.43,253192.86,772010.71
+654,2019,Madera County,Single Family Residential,549.55,304134.09,314109.09,617565.91
+655,2020,Madera County,All Residential,388.55,341059.09,383068.18,-23827.27
+656,2020,Madera County,Condo/Co-op,5.0,243250.0,504950.0,1701625.0
+657,2020,Madera County,Multi-Family (2-4 Unit),2.62,283062.5,240731.25,613350.0
+658,2020,Madera County,Single Family Residential,383.0,342886.36,353068.18,596377.27
+659,2020,Madera County,Townhouse,0.0,169500.0,0.0,10443900.0
+660,2021,Madera County,All Residential,267.09,403415.91,458610.91,-41104.09
+661,2021,Madera County,Condo/Co-op,1.29,216285.71,376814.29,509196.43
+662,2021,Madera County,Multi-Family (2-4 Unit),2.89,398911.11,431218.89,665089.44
+663,2021,Madera County,Single Family Residential,263.09,406056.82,426565.45,846925.45
+664,2022,Madera County,All Residential,418.0,777750.0,1227000.0,-249750.0
+665,2022,Madera County,Condo/Co-op,3.0,424750.0,1224000.0,260000.0
+666,2022,Madera County,Multi-Family (2-4 Unit),8.0,281500.0,817000.0,1051500.0
+667,2022,Madera County,Single Family Residential,401.0,784500.0,817000.0,1451500.0
+668,2012,Marin County,All Residential,659.09,727113.64,868018.18,-112722.73
+669,2012,Marin County,Condo/Co-op,112.36,355868.18,868018.18,261872.73
+670,2012,Marin County,Multi-Family (2-4 Unit),65.09,999404.0,868018.18,1277549.45
+671,2012,Marin County,Single Family Residential,481.64,814904.86,804904.55,2183067.95
+672,2012,Marin County,Townhouse,0.0,997500.0,0.0,32867697.5
+673,2013,Marin County,All Residential,509.27,865045.45,966268.18,-73950.0
+674,2013,Marin County,Condo/Co-op,81.27,458196.27,966268.18,426609.91
+675,2013,Marin County,Multi-Family (2-4 Unit),58.27,1108936.36,966268.18,1534955.36
+676,2013,Marin County,Single Family Residential,369.73,968818.18,896359.09,2504637.18
+677,2014,Marin County,All Residential,474.18,957293.64,1034863.64,-38615.45
+678,2014,Marin County,Condo/Co-op,88.73,535409.09,1034863.64,564430.0
+679,2014,Marin County,Multi-Family (2-4 Unit),50.73,1445204.55,1034863.64,1982952.73
+680,2014,Marin County,Single Family Residential,334.73,1075491.73,958590.91,3054808.09
+681,2015,Marin County,All Residential,525.27,1006931.82,1079648.91,-28035.27
+682,2015,Marin County,Condo/Co-op,112.64,608259.09,1079648.91,617360.18
+683,2015,Marin County,Multi-Family (2-4 Unit),49.91,1397176.68,1079648.91,2022718.68
+684,2015,Marin County,Single Family Residential,362.73,1174459.09,1007012.55,3179814.14
+685,2016,Marin County,All Residential,573.55,1079544.36,1204990.91,-84082.91
+686,2016,Marin County,Condo/Co-op,122.09,628054.55,1204990.91,610471.64
+687,2016,Marin County,Multi-Family (2-4 Unit),41.91,1432931.82,1204990.91,2018903.45
+688,2016,Marin County,Single Family Residential,409.27,1250045.45,1110904.55,3326035.27
+689,2016,Marin County,Townhouse,0.0,1255000.0,0.0,49551338.0
+690,2017,Marin County,All Residential,520.73,1168454.55,1268272.59,-56113.5
+691,2017,Marin County,Condo/Co-op,91.55,649490.91,1268272.59,752627.41
+692,2017,Marin County,Multi-Family (2-4 Unit),48.55,1735477.27,1268272.59,2389286.5
+693,2017,Marin County,Single Family Residential,380.55,1340045.45,1183272.59,3757027.41
+694,2017,Marin County,Townhouse,0.0,515150.0,0.0,54343300.0
+695,2018,Marin County,All Residential,537.36,1268100.0,1333500.0,-14036.36
+696,2018,Marin County,Condo/Co-op,99.55,711568.18,1333500.0,821168.18
+697,2018,Marin County,Multi-Family (2-4 Unit),55.27,1776163.64,1333500.0,2528922.73
+698,2018,Marin County,Single Family Residential,382.36,1430454.55,1234500.0,4047240.91
+699,2018,Marin County,Townhouse,0.0,1050000.0,0.0,58099150.0
+700,2019,Marin County,All Residential,627.91,1257045.45,1392545.45,-79000.0
+701,2019,Marin County,Condo/Co-op,128.73,700704.55,1392545.45,674295.45
+702,2019,Marin County,Multi-Family (2-4 Unit),55.0,1919318.18,1392545.45,2579977.27
+703,2019,Marin County,Single Family Residential,443.64,1394386.36,1290272.73,3981181.82
+704,2020,Marin County,All Residential,525.64,1379886.36,1525136.36,-87977.27
+705,2020,Marin County,Condo/Co-op,130.82,749818.18,1525136.36,713659.09
+706,2020,Marin County,Multi-Family (2-4 Unit),51.27,1752227.27,1525136.36,2470431.82
+707,2020,Marin County,Single Family Residential,342.55,1526704.55,1420909.09,4210454.55
+708,2020,Marin County,Townhouse,0.0,2450000.0,0.0,61945000.0
+709,2021,Marin County,All Residential,408.27,1531727.27,1553181.82,37204.55
+710,2021,Marin County,Condo/Co-op,103.18,753545.45,1553181.82,875272.73
+711,2021,Marin County,Multi-Family (2-4 Unit),28.36,1619276.82,1553181.82,2474095.0
+712,2021,Marin County,Single Family Residential,260.45,1780500.0,1566363.64,4178231.36
+713,2021,Marin County,Townhouse,17.4,896475.6,1468500.0,5681530.1
+714,2022,Marin County,All Residential,390.0,2750000.0,3834000.0,-301670.0
+715,2022,Marin County,Condo/Co-op,136.0,1453830.0,3834000.0,1729830.0
+716,2022,Marin County,Multi-Family (2-4 Unit),21.0,2966350.0,3834000.0,4861180.0
+717,2022,Marin County,Single Family Residential,211.0,3251000.0,3834000.0,7387180.0
+718,2022,Marin County,Townhouse,22.0,1695000.0,2564500.0,9551680.0
+719,2013,Mariposa County,All Residential,0.0,155000.0,0.0,310000.0
+720,2013,Mariposa County,Single Family Residential,0.0,155000.0,0.0,310000.0
+721,2015,Mariposa County,All Residential,4.0,625000.0,1950000.0,-1250000.0
+722,2015,Mariposa County,Single Family Residential,4.0,625000.0,1950000.0,-700000.0
+723,2016,Mariposa County,All Residential,1.0,845000.0,0.0,1690000.0
+724,2016,Mariposa County,Single Family Residential,1.0,845000.0,0.0,1690000.0
+725,2018,Mariposa County,All Residential,2.0,630000.0,375000.0,585000.0
+726,2018,Mariposa County,Multi-Family (2-4 Unit),0.0,330000.0,0.0,1260000.0
+727,2018,Mariposa County,Single Family Residential,0.0,300000.0,0.0,1260000.0
+728,2019,Mariposa County,All Residential,4.5,692000.0,239500.0,632500.0
+729,2019,Mariposa County,Single Family Residential,4.5,692000.0,239500.0,1144500.0
+730,2020,Mariposa County,All Residential,15.67,608833.33,1225500.0,-493666.67
+731,2020,Mariposa County,Single Family Residential,15.67,608833.33,1045666.67,172000.0
+732,2021,Mariposa County,All Residential,77.78,470416.67,521044.33,-29294.33
+733,2021,Mariposa County,Condo/Co-op,0.67,408666.67,138333.33,1786916.67
+734,2021,Mariposa County,Multi-Family (2-4 Unit),4.0,777250.0,587949.5,3239175.5
+735,2021,Mariposa County,Single Family Residential,73.11,473750.0,474933.22,799289.0
+736,2021,Mariposa County,Townhouse,2.0,460000.0,0.0,11738000.0
+737,2022,Mariposa County,All Residential,130.0,809000.0,1359498.0,-200498.0
+738,2022,Mariposa County,Multi-Family (2-4 Unit),3.0,350000.0,909499.0,616001.0
+739,2022,Mariposa County,Single Family Residential,124.0,812750.0,909499.0,1062251.0
+740,2012,Merced County,All Residential,558.27,131650.0,150465.91,-13645.68
+741,2012,Merced County,Condo/Co-op,5.67,67210.83,155013.89,83658.06
+742,2012,Merced County,Multi-Family (2-4 Unit),20.45,119082.73,150465.91,165257.5
+743,2012,Merced County,Single Family Residential,532.36,132522.73,140020.45,307907.5
+744,2012,Merced County,Townhouse,0.0,106500.0,0.0,4927207.5
+745,2013,Merced County,All Residential,356.36,167636.36,191154.55,-13972.73
+746,2013,Merced County,Condo/Co-op,3.86,104551.43,130800.0,249322.86
+747,2013,Merced County,Multi-Family (2-4 Unit),18.27,142477.27,191154.55,197378.18
+748,2013,Merced County,Single Family Residential,334.45,168568.18,178336.36,366878.18
+749,2014,Merced County,All Residential,602.27,195309.09,227424.95,-27115.86
+750,2014,Merced County,Condo/Co-op,6.11,112750.0,216911.06,157494.5
+751,2014,Merced County,Multi-Family (2-4 Unit),46.82,170318.18,227424.95,245156.86
+752,2014,Merced County,Single Family Residential,548.36,197204.55,210161.32,459011.41
+753,2014,Merced County,Townhouse,2.0,304000.0,0.0,7509900.0
+754,2015,Merced County,All Residential,627.27,224136.36,258382.73,-24700.91
+755,2015,Merced County,Condo/Co-op,4.8,117630.0,194201.0,182229.0
+756,2015,Merced County,Multi-Family (2-4 Unit),29.18,179886.36,258382.73,270530.91
+757,2015,Merced County,Single Family Residential,592.55,227336.36,240675.45,510120.0
+758,2015,Merced County,Townhouse,0.5,126250.0,0.0,4186875.0
+759,2016,Merced County,All Residential,593.27,246781.82,261136.95,-1446.05
+760,2016,Merced County,Condo/Co-op,3.33,175323.22,237845.17,256655.83
+761,2016,Merced County,Multi-Family (2-4 Unit),29.5,201875.0,285150.65,366905.15
+762,2016,Merced County,Single Family Residential,560.0,248015.36,261136.95,571538.32
+763,2016,Merced County,Townhouse,0.0,120000.0,0.0,9159428.0
+764,2017,Merced County,All Residential,581.45,270234.73,302049.45,-23451.09
+765,2017,Merced County,Condo/Co-op,7.62,188937.5,287818.0,297067.25
+766,2017,Merced County,Multi-Family (2-4 Unit),28.45,216318.18,304776.73,340730.73
+767,2017,Merced County,Single Family Residential,543.82,272584.45,282049.45,628042.45
+768,2017,Merced County,Townhouse,2.0,199500.0,132500.0,4998005.5
+769,2018,Merced County,All Residential,670.73,298685.73,332537.73,-28397.45
+770,2018,Merced County,Condo/Co-op,10.1,168625.0,308801.5,217877.8
+771,2018,Merced County,Multi-Family (2-4 Unit),27.55,289977.27,332537.73,433438.59
+772,2018,Merced County,Single Family Residential,630.0,300472.41,332537.73,729438.59
+773,2018,Merced County,Townhouse,4.17,265125.0,232995.83,1943252.42
+774,2019,Merced County,All Residential,724.27,308688.64,344735.36,-17864.91
+775,2019,Merced County,Condo/Co-op,10.0,168454.55,344735.36,157771.45
+776,2019,Merced County,Multi-Family (2-4 Unit),15.36,312568.18,344735.36,470032.82
+777,2019,Merced County,Single Family Residential,696.82,309831.82,320189.91,797307.82
+778,2019,Merced County,Townhouse,2.33,300833.33,103900.0,4228591.67
+779,2020,Merced County,All Residential,452.27,336777.27,380066.73,-31016.73
+780,2020,Merced County,Condo/Co-op,6.6,220750.0,317513.15,301341.85
+781,2020,Merced County,Multi-Family (2-4 Unit),17.27,357363.64,380066.73,541695.27
+782,2020,Merced County,Single Family Residential,425.73,337691.23,353837.82,901403.41
+783,2020,Merced County,Townhouse,3.0,293333.33,164041.67,2388900.58
+784,2021,Merced County,All Residential,291.09,400764.77,439349.91,-18676.05
+785,2021,Merced County,Condo/Co-op,4.67,297333.33,455316.56,370618.17
+786,2021,Merced County,Multi-Family (2-4 Unit),24.73,397136.36,439349.91,631187.59
+787,2021,Merced County,Single Family Residential,260.55,403204.77,439349.91,1025937.82
+788,2021,Merced County,Townhouse,1.29,324571.43,260314.29,2333995.0
+789,2022,Merced County,All Residential,436.0,806000.0,798999.5,236000.5
+790,2022,Merced County,Condo/Co-op,3.0,515000.0,798999.5,882000.5
+791,2022,Merced County,Multi-Family (2-4 Unit),34.0,770637.5,1197999.5,1293638.0
+792,2022,Merced County,Single Family Residential,399.0,812000.0,798999.5,2394638.0
+793,2022,Merced County,Townhouse,0.0,290000.0,0.0,3193637.5
+794,2012,Monterey County,All Residential,902.0,308545.45,358440.82,-39440.82
+795,2012,Monterey County,Condo/Co-op,67.27,234931.82,358440.82,204309.18
+796,2012,Monterey County,Multi-Family (2-4 Unit),19.27,338690.91,358440.82,548495.55
+797,2012,Monterey County,Single Family Residential,787.36,314200.0,358440.82,852472.82
+798,2012,Monterey County,Townhouse,28.09,407650.0,333304.5,1270713.68
+799,2013,Monterey County,All Residential,707.45,406481.82,495599.95,-69390.86
+800,2013,Monterey County,Condo/Co-op,48.18,335818.18,495599.95,267972.77
+801,2013,Monterey County,Multi-Family (2-4 Unit),17.55,372477.27,495599.95,649040.95
+802,2013,Monterey County,Single Family Residential,626.18,413250.0,495599.95,1074609.14
+803,2013,Monterey County,Townhouse,15.55,410963.64,459327.23,1479663.68
+804,2014,Monterey County,All Residential,865.55,467209.09,534709.09,-35045.45
+805,2014,Monterey County,Condo/Co-op,70.0,366795.45,534709.09,327704.55
+806,2014,Monterey County,Multi-Family (2-4 Unit),26.64,549681.82,534709.09,885250.0
+807,2014,Monterey County,Single Family Residential,752.0,477390.91,534709.09,1349095.45
+808,2014,Monterey County,Townhouse,17.8,465825.0,501735.0,2011275.0
+809,2015,Monterey County,All Residential,915.91,499900.0,571363.64,-43372.73
+810,2015,Monterey County,Condo/Co-op,63.18,398500.0,571363.64,365672.73
+811,2015,Monterey County,Multi-Family (2-4 Unit),29.73,569061.36,571363.64,933870.45
+812,2015,Monterey County,Single Family Residential,807.73,509237.68,571363.64,1471930.86
+813,2015,Monterey County,Townhouse,15.27,546231.82,528181.82,1994749.05
+814,2016,Monterey County,All Residential,1019.64,538772.73,638767.64,-67722.18
+815,2016,Monterey County,Condo/Co-op,71.27,422163.64,638767.64,354032.36
+816,2016,Monterey County,Multi-Family (2-4 Unit),35.36,585227.27,638767.64,951214.18
+817,2016,Monterey County,Single Family Residential,896.36,550113.64,638767.64,1484782.36
+818,2016,Monterey County,Townhouse,16.64,627727.27,589676.73,2134327.82
+819,2017,Monterey County,All Residential,951.91,610204.95,698495.45,-54699.59
+820,2017,Monterey County,Condo/Co-op,73.91,485318.18,698495.45,431982.23
+821,2017,Monterey County,Multi-Family (2-4 Unit),27.73,778954.55,698495.45,1225891.32
+822,2017,Monterey County,Single Family Residential,833.27,618272.73,698495.45,1828027.68
+823,2017,Monterey County,Townhouse,17.0,571113.64,649495.45,2414368.59
+824,2018,Monterey County,All Residential,946.55,644000.0,737981.82,-50345.45
+825,2018,Monterey County,Condo/Co-op,91.36,515700.0,737981.82,458081.82
+826,2018,Monterey County,Multi-Family (2-4 Unit),24.09,704500.0,737981.82,1176990.91
+827,2018,Monterey County,Single Family Residential,809.91,660147.27,737981.82,1860229.09
+828,2018,Monterey County,Townhouse,21.18,630043.77,683445.45,2470945.59
+829,2019,Monterey County,All Residential,960.27,655659.09,758718.18,-77695.45
+830,2019,Monterey County,Condo/Co-op,110.82,490678.59,758718.18,434324.05
+831,2019,Monterey County,Multi-Family (2-4 Unit),19.9,761925.0,709140.0,1372656.45
+832,2019,Monterey County,Single Family Residential,807.45,671886.36,758718.18,1801710.41
+833,2019,Monterey County,Townhouse,23.0,651437.41,704445.45,2457875.09
+834,2020,Monterey County,All Residential,752.09,748609.09,863363.55,-72027.18
+835,2020,Monterey County,Condo/Co-op,76.91,559068.18,863363.55,451450.09
+836,2020,Monterey County,Multi-Family (2-4 Unit),18.82,692411.14,863363.55,1194679.41
+837,2020,Monterey County,Single Family Residential,642.36,785863.64,863363.55,1965543.05
+838,2020,Monterey County,Townhouse,14.0,671450.0,807299.9,2928697.35
+839,2021,Monterey County,All Residential,537.73,872250.0,928131.82,-3609.09
+840,2021,Monterey County,Condo/Co-op,45.09,627863.64,928131.82,658800.0
+841,2021,Monterey County,Multi-Family (2-4 Unit),15.55,1062045.45,928131.82,1707209.09
+842,2021,Monterey County,Single Family Residential,464.0,898090.91,928131.82,2590209.09
+843,2021,Monterey County,Townhouse,13.09,781772.73,858268.18,3383754.55
+844,2022,Monterey County,All Residential,584.0,1663000.0,2524000.0,-133500.0
+845,2022,Monterey County,Condo/Co-op,59.0,1307500.0,2524000.0,1306500.0
+846,2022,Monterey County,Multi-Family (2-4 Unit),25.0,1795000.0,2524000.0,3086500.0
+847,2022,Monterey County,Single Family Residential,490.0,1713000.0,2524000.0,4651000.0
+848,2022,Monterey County,Townhouse,10.0,1304000.0,1675000.0,6107500.0
+849,2012,Napa County,All Residential,459.0,379859.09,449936.36,-55031.82
+850,2012,Napa County,Condo/Co-op,45.36,282274.36,449936.36,254242.55
+851,2012,Napa County,Multi-Family (2-4 Unit),70.27,677272.73,449936.36,920106.18
+852,2012,Napa County,Single Family Residential,343.36,378372.73,419986.36,1297792.55
+853,2013,Napa County,All Residential,382.73,490500.0,564990.91,-45854.55
+854,2013,Napa County,Condo/Co-op,29.27,374318.18,564990.91,338009.09
+855,2013,Napa County,Multi-Family (2-4 Unit),72.27,850395.45,564990.91,1185586.36
+856,2013,Napa County,Single Family Residential,281.18,496500.0,529081.82,1682631.82
+857,2014,Napa County,All Residential,398.27,560522.73,650590.64,-63931.55
+858,2014,Napa County,Condo/Co-op,28.73,380236.36,650590.64,362003.82
+859,2014,Napa County,Multi-Family (2-4 Unit),64.45,1178312.64,650590.64,1511799.27
+860,2014,Napa County,Single Family Residential,305.09,566722.73,603817.91,2081976.55
+861,2015,Napa County,All Residential,446.36,615045.45,689459.09,-43050.0
+862,2015,Napa County,Condo/Co-op,32.82,428618.18,689459.09,434886.36
+863,2015,Napa County,Multi-Family (2-4 Unit),75.45,1025022.73,689459.09,1422545.45
+864,2015,Napa County,Single Family Residential,338.09,619272.73,647527.27,2040431.82
+865,2016,Napa County,All Residential,477.27,655289.68,757286.36,-68723.95
+866,2016,Napa County,Condo/Co-op,28.91,473500.0,757286.36,453957.86
+867,2016,Napa County,Multi-Family (2-4 Unit),73.36,1461254.55,757286.36,1880144.23
+868,2016,Napa County,Single Family Residential,374.82,659931.82,702831.82,2586871.5
+869,2016,Napa County,Townhouse,0.0,437000.0,0.0,36186736.5
+870,2017,Napa County,All Residential,437.82,698659.09,788940.91,-57554.55
+871,2017,Napa County,Condo/Co-op,29.09,510045.45,788940.91,525127.27
+872,2017,Napa County,Multi-Family (2-4 Unit),70.55,1121350.0,788940.91,1600113.64
+873,2017,Napa County,Single Family Residential,338.18,699840.91,729031.82,2300863.64
+874,2018,Napa County,All Residential,445.36,733095.45,819990.91,-45981.82
+875,2018,Napa County,Condo/Co-op,30.91,563663.64,819990.91,554040.91
+876,2018,Napa County,Multi-Family (2-4 Unit),68.73,1192827.27,819990.91,1728413.64
+877,2018,Napa County,Single Family Residential,345.73,734050.0,766359.09,2457277.27
+878,2019,Napa County,All Residential,510.82,739909.05,831883.77,-47429.27
+879,2019,Napa County,Condo/Co-op,48.0,548477.27,831883.77,556502.55
+880,2019,Napa County,Multi-Family (2-4 Unit),83.91,1275227.27,831883.77,1790366.18
+881,2019,Napa County,Single Family Residential,378.73,734045.41,775747.41,2521911.59
+882,2020,Napa County,All Residential,429.45,791772.73,920363.64,-91772.73
+883,2020,Napa County,Condo/Co-op,52.09,555590.91,920363.64,489727.27
+884,2020,Napa County,Multi-Family (2-4 Unit),75.09,1570090.91,920363.64,2058909.09
+885,2020,Napa County,Single Family Residential,301.36,792204.55,852250.0,2911075.73
+886,2020,Napa County,Townhouse,1.0,774539.0,390000.0,20787664.0
+887,2021,Napa County,All Residential,343.27,904663.82,975888.82,-19861.36
+888,2021,Napa County,Condo/Co-op,26.09,625008.59,975888.82,640147.23
+889,2021,Napa County,Multi-Family (2-4 Unit),28.18,1396409.09,975888.82,2015851.77
+890,2021,Napa County,Single Family Residential,282.27,937295.45,975888.82,2940778.86
+891,2021,Napa County,Townhouse,6.73,712662.14,908419.14,3667619.95
+892,2022,Napa County,All Residential,406.0,1662500.0,2742400.0,-537900.0
+893,2022,Napa County,Condo/Co-op,29.0,1094000.0,2742400.0,1014100.0
+894,2022,Napa County,Multi-Family (2-4 Unit),34.0,2700000.0,2742400.0,3539100.0
+895,2022,Napa County,Single Family Residential,339.0,1750000.0,2742400.0,5019100.0
+896,2022,Napa County,Townhouse,4.0,1344342.5,1864950.0,6685892.5
+897,2012,Nevada County,All Residential,311.55,285818.18,470163.59,-156345.41
+898,2012,Nevada County,Condo/Co-op,33.55,274036.36,436981.77,140395.5
+899,2012,Nevada County,Multi-Family (2-4 Unit),0.33,182895.44,84888.89,808189.89
+900,2012,Nevada County,Single Family Residential,277.09,291863.64,436981.77,575741.77
+901,2012,Nevada County,Townhouse,0.56,173000.0,0.0,1396884.33
+902,2013,Nevada County,All Residential,378.45,349886.36,488350.0,-118281.82
+903,2013,Nevada County,Condo/Co-op,40.27,322963.64,451168.18,233954.55
+904,2013,Nevada County,Multi-Family (2-4 Unit),0.9,291215.0,153100.0,905750.0
+905,2013,Nevada County,Single Family Residential,337.0,353565.86,451168.18,868614.59
+906,2013,Nevada County,Townhouse,0.22,242010.22,0.0,1820090.72
+907,2014,Nevada County,All Residential,457.0,379240.91,533077.27,-129040.91
+908,2014,Nevada County,Condo/Co-op,42.45,306490.91,533077.27,197200.0
+909,2014,Nevada County,Multi-Family (2-4 Unit),2.5,422250.0,373041.67,1357550.0
+910,2014,Nevada County,Single Family Residential,411.82,383065.18,492168.18,830697.0
+911,2014,Nevada County,Townhouse,0.0,256468.83,0.0,2638180.0
+912,2015,Nevada County,All Residential,450.45,404000.0,545109.09,-118381.82
+913,2015,Nevada County,Condo/Co-op,44.27,350431.82,508790.91,267928.14
+914,2015,Nevada County,Multi-Family (2-4 Unit),3.62,302207.44,403312.5,982488.69
+915,2015,Nevada County,Single Family Residential,402.64,409045.45,508790.91,898564.5
+916,2015,Nevada County,Townhouse,0.0,303757.67,0.0,5375727.5
+917,2016,Nevada County,All Residential,453.09,426409.09,585556.73,-129965.82
+918,2016,Nevada County,Condo/Co-op,45.18,360692.55,585556.73,284726.73
+919,2016,Nevada County,Multi-Family (2-4 Unit),3.22,439833.33,271105.44,1176241.0
+920,2016,Nevada County,Single Family Residential,404.55,433459.09,541965.82,1058913.09
+921,2016,Nevada County,Townhouse,0.0,268000.0,105000.0,3639933.6
+922,2017,Nevada County,All Residential,419.36,478736.36,620704.55,-120240.91
+923,2017,Nevada County,Condo/Co-op,35.64,382500.0,572250.0,318505.68
+924,2017,Nevada County,Multi-Family (2-4 Unit),1.83,476368.75,348125.0,1778010.42
+925,2017,Nevada County,Single Family Residential,381.64,485704.55,572250.0,1053164.77
+926,2017,Nevada County,Townhouse,0.25,308500.0,0.0,4727140.62
+927,2018,Nevada County,All Residential,439.0,504454.55,621518.14,-92972.68
+928,2018,Nevada County,Condo/Co-op,32.45,413750.0,621518.14,318504.59
+929,2018,Nevada County,Multi-Family (2-4 Unit),1.43,664503.57,308571.43,1857396.43
+930,2018,Nevada County,Single Family Residential,405.0,510757.14,576154.5,1298309.45
+931,2018,Nevada County,Townhouse,0.0,387000.0,0.0,10572051.75
+932,2019,Nevada County,All Residential,705.18,497734.91,591352.27,-62708.27
+933,2019,Nevada County,Condo/Co-op,36.64,449636.36,545988.64,442700.82
+934,2019,Nevada County,Multi-Family (2-4 Unit),5.67,650833.33,574437.5,1884909.83
+935,2019,Nevada County,Single Family Residential,663.82,503795.45,545988.64,1294723.55
+936,2019,Nevada County,Townhouse,0.0,373500.0,249681.25,5090777.25
+937,2020,Nevada County,All Residential,548.91,564250.0,648057.5,-38466.59
+938,2020,Nevada County,Condo/Co-op,32.73,497613.64,648330.14,443078.95
+939,2020,Nevada County,Multi-Family (2-4 Unit),12.0,519844.44,610848.06,1255885.28
+940,2020,Nevada County,Single Family Residential,502.27,572045.45,602875.68,1481360.68
+941,2020,Nevada County,Townhouse,3.5,335000.0,298659.62,5699240.38
+942,2021,Nevada County,All Residential,353.55,681681.82,747940.91,-27622.73
+943,2021,Nevada County,Condo/Co-op,19.27,620140.91,747940.91,611154.55
+944,2021,Nevada County,Multi-Family (2-4 Unit),18.09,742704.55,747940.91,1348404.55
+945,2021,Nevada County,Single Family Residential,315.64,684472.73,747940.91,2013331.82
+946,2021,Nevada County,Townhouse,0.6,703905.2,241900.0,6465805.2
+947,2022,Nevada County,All Residential,415.0,1219000.0,1963995.0,-216495.0
+948,2022,Nevada County,Condo/Co-op,19.0,1138500.0,1963995.0,1048005.0
+949,2022,Nevada County,Multi-Family (2-4 Unit),24.0,1467500.0,1963995.0,2475005.0
+950,2022,Nevada County,Single Family Residential,372.0,1214000.0,1331995.0,3707005.0
+951,2012,Orange County,All Residential,6647.82,461590.91,545095.45,-61231.82
+952,2012,Orange County,Condo/Co-op,2065.09,291159.09,545095.45,268040.91
+953,2012,Orange County,Multi-Family (2-4 Unit),175.09,699840.91,545095.45,949768.18
+954,2012,Orange County,Single Family Residential,4383.27,559568.18,545095.45,1506631.82
+955,2012,Orange County,Townhouse,24.36,359522.73,506468.18,1865213.64
+956,2013,Orange County,All Residential,4617.36,565000.0,647687.64,-56596.73
+957,2013,Orange County,Condo/Co-op,1277.36,365250.0,647687.64,344380.55
+958,2013,Orange County,Multi-Family (2-4 Unit),164.36,833772.73,647687.64,1165607.82
+959,2013,Orange County,Single Family Residential,2967.0,679340.91,647687.64,1827039.64
+960,2013,Orange County,Townhouse,208.64,445977.27,602242.18,2287098.73
+961,2014,Orange County,All Residential,6906.27,612618.18,699163.64,-55181.82
+962,2014,Orange County,Condo/Co-op,1994.91,396181.82,699163.64,387818.18
+963,2014,Orange County,Multi-Family (2-4 Unit),190.73,903909.09,699163.64,1271227.27
+964,2014,Orange County,Single Family Residential,4338.64,728731.82,699163.64,1979186.36
+965,2014,Orange County,Townhouse,382.0,474149.09,646900.0,2468690.0
+966,2015,Orange County,All Residential,7915.18,645208.68,738235.45,-60754.05
+967,2015,Orange County,Condo/Co-op,2115.18,420699.0,738235.45,403581.32
+968,2015,Orange County,Multi-Family (2-4 Unit),230.45,958340.91,738235.45,1345104.05
+969,2015,Orange County,Single Family Residential,5104.73,755318.18,738235.45,2080331.32
+970,2015,Orange County,Townhouse,464.82,501181.82,683644.55,2597104.05
+971,2016,Orange County,All Residential,8592.27,682272.73,774964.73,-57919.27
+972,2016,Orange County,Condo/Co-op,2190.0,444636.36,774964.73,433080.73
+973,2016,Orange County,Multi-Family (2-4 Unit),223.27,1013295.45,774964.73,1427967.09
+974,2016,Orange County,Single Family Residential,5710.82,793179.45,774964.73,2200964.73
+975,2016,Orange County,Townhouse,468.18,535045.45,716783.0,2751646.45
+976,2017,Orange County,All Residential,7896.09,724250.0,820967.09,-59626.18
+977,2017,Orange County,Condo/Co-op,1880.64,478272.73,820967.09,470623.82
+978,2017,Orange County,Multi-Family (2-4 Unit),176.91,1159659.09,820967.09,1608032.91
+979,2017,Orange County,Single Family Residential,5392.18,841454.55,820967.09,2427442.0
+980,2017,Orange County,Townhouse,446.36,571095.45,758694.36,3016037.45
+981,2018,Orange County,All Residential,8479.36,772250.0,862226.55,-49067.45
+982,2018,Orange County,Condo/Co-op,2216.27,516068.18,862226.55,535182.55
+983,2018,Orange County,Multi-Family (2-4 Unit),178.09,1260477.27,862226.55,1756228.0
+984,2018,Orange County,Single Family Residential,5589.18,879351.64,862226.55,2615466.0
+985,2018,Orange County,Townhouse,495.82,606386.36,795408.36,3239125.09
+986,2019,Orange County,All Residential,9071.45,777250.0,880950.05,-64268.23
+987,2019,Orange County,Condo/Co-op,2522.18,507931.82,880950.05,511504.5
+988,2019,Orange County,Multi-Family (2-4 Unit),214.09,1298568.18,880950.05,1774163.59
+989,2019,Orange County,Single Family Residential,5789.09,886366.27,880950.05,2637257.14
+990,2019,Orange County,Townhouse,546.09,599545.0,815040.95,3254620.32
+991,2020,Orange County,All Residential,6661.09,836747.91,930748.91,-49682.82
+992,2020,Orange County,Condo/Co-op,1927.09,543750.0,930748.91,573385.36
+993,2020,Orange County,Multi-Family (2-4 Unit),181.27,1291659.09,930748.91,1818680.82
+994,2020,Orange County,Single Family Residential,4089.36,963045.45,930748.91,2755362.64
+995,2020,Orange County,Townhouse,463.36,641188.64,860748.91,3415642.18
+996,2021,Orange County,All Residential,4339.55,971136.36,1037572.55,-19618.0
+997,2021,Orange County,Condo/Co-op,1262.36,615113.64,1037572.55,660563.82
+998,2021,Orange County,Multi-Family (2-4 Unit),153.36,1547483.45,1037572.55,2182979.09
+999,2021,Orange County,Single Family Residential,2648.45,1165113.64,1037572.55,3316729.09
+1000,2021,Orange County,Townhouse,275.36,748863.64,963208.91,4084501.82
+1001,2022,Orange County,All Residential,4394.0,1958000.0,2912000.0,-345000.0
+1002,2022,Orange County,Condo/Co-op,1316.0,1269000.0,2912000.0,1865000.0
+1003,2022,Orange County,Multi-Family (2-4 Unit),206.0,3060000.0,2912000.0,4545000.0
+1004,2022,Orange County,Single Family Residential,2594.0,2420000.0,2912000.0,6546000.0
+1005,2022,Orange County,Townhouse,278.0,1541250.0,1943500.0,8304750.0
+1006,2012,Placer County,All Residential,1757.18,303245.45,351205.86,-35305.95
+1007,2012,Placer County,Condo/Co-op,213.82,172372.64,351205.86,139639.5
+1008,2012,Placer County,Multi-Family (2-4 Unit),14.1,218075.0,357333.95,409353.45
+1009,2012,Placer County,Single Family Residential,1526.91,309184.09,327274.05,668141.77
+1010,2012,Placer County,Townhouse,2.4,165650.0,175385.0,2152979.8
+1011,2013,Placer County,All Residential,1492.73,373269.32,432411.27,-38223.77
+1012,2013,Placer County,Condo/Co-op,189.82,228639.5,432411.27,188588.45
+1013,2013,Placer County,Multi-Family (2-4 Unit),19.09,290553.0,398784.0,520606.0
+1014,2013,Placer County,Single Family Residential,1281.82,382338.95,434256.73,852362.23
+1015,2013,Placer County,Townhouse,2.71,164178.57,371903.57,1795533.36
+1016,2014,Placer County,All Residential,1928.45,407255.45,465456.77,-40155.86
+1017,2014,Placer County,Condo/Co-op,203.73,240431.82,465456.77,204689.59
+1018,2014,Placer County,Multi-Family (2-4 Unit),23.8,274655.0,472012.45,551098.55
+1019,2014,Placer County,Single Family Residential,1699.45,414931.82,430920.41,897112.32
+1020,2014,Placer County,Townhouse,2.0,243750.0,200725.0,2448918.33
+1021,2015,Placer County,All Residential,1860.0,421572.64,486358.18,-49399.18
+1022,2015,Placer County,Condo/Co-op,226.45,244954.55,486358.18,214214.45
+1023,2015,Placer County,Multi-Family (2-4 Unit),18.55,333494.95,486358.18,547754.86
+1024,2015,Placer County,Single Family Residential,1612.64,430642.27,486358.18,961488.05
+1025,2015,Placer County,Townhouse,2.25,218812.5,467618.12,1718357.94
+1026,2016,Placer County,All Residential,1701.27,459993.14,524404.55,-40320.5
+1027,2016,Placer County,Condo/Co-op,224.64,278318.18,524404.55,258906.77
+1028,2016,Placer County,Multi-Family (2-4 Unit),15.18,365075.0,524404.55,615709.05
+1029,2016,Placer County,Single Family Residential,1459.82,468925.18,526140.0,1068716.95
+1030,2016,Placer County,Townhouse,1.67,306083.33,448350.33,2740304.08
+1031,2017,Placer County,All Residential,1447.91,489340.91,546021.27,-35430.36
+1032,2017,Placer County,Condo/Co-op,169.36,317981.82,546021.27,297756.0
+1033,2017,Placer County,Multi-Family (2-4 Unit),12.0,424272.73,546021.27,725119.64
+1034,2017,Placer County,Single Family Residential,1264.18,497522.73,546021.27,1203142.36
+1035,2017,Placer County,Townhouse,2.75,302798.31,407092.12,2273243.69
+1036,2018,Placer County,All Residential,1511.09,520187.73,585081.36,-34143.64
+1037,2018,Placer County,Condo/Co-op,164.73,342777.27,585081.36,301210.0
+1038,2018,Placer County,Multi-Family (2-4 Unit),17.73,446876.36,539808.64,811850.91
+1039,2018,Placer County,Single Family Residential,1325.73,533956.86,586449.55,1280985.05
+1040,2018,Placer County,Townhouse,3.33,366111.11,498616.11,2121026.17
+1041,2019,Placer County,All Residential,1537.0,539681.82,606487.09,-40964.36
+1042,2019,Placer County,Condo/Co-op,142.55,354477.27,606487.09,369035.64
+1043,2019,Placer County,Multi-Family (2-4 Unit),14.91,529272.73,557856.18,910234.73
+1044,2019,Placer County,Single Family Residential,1376.45,549877.36,606487.09,1377958.45
+1045,2019,Placer County,Townhouse,3.2,406575.0,359740.0,2217475.1
+1046,2020,Placer County,All Residential,1109.36,577772.27,644487.27,-36601.36
+1047,2020,Placer County,Condo/Co-op,136.55,387909.09,599123.64,400603.18
+1048,2020,Placer County,Multi-Family (2-4 Unit),15.7,524920.0,606111.0,1031058.5
+1049,2020,Placer County,Single Family Residential,955.27,588818.18,644487.27,1414939.55
+1050,2020,Placer County,Townhouse,2.44,322944.44,551234.44,2254898.33
+1051,2021,Placer County,All Residential,687.91,694662.23,750470.77,-19444.91
+1052,2021,Placer County,Condo/Co-op,74.73,460954.55,750470.77,472827.82
+1053,2021,Placer County,Multi-Family (2-4 Unit),25.18,709000.0,750470.77,1167782.36
+1054,2021,Placer County,Single Family Residential,585.91,705363.64,750388.95,1858835.0
+1055,2021,Placer County,Townhouse,2.2,451932.1,705537.85,2573372.7
+1056,2022,Placer County,All Residential,834.0,1346250.0,2053000.0,-325750.0
+1057,2022,Placer County,Condo/Co-op,76.0,876000.0,2053000.0,1256750.0
+1058,2022,Placer County,Multi-Family (2-4 Unit),36.0,1772500.0,2053000.0,2627214.0
+1059,2022,Placer County,Single Family Residential,719.0,1365464.0,2053000.0,3734714.0
+1060,2022,Placer County,Townhouse,3.0,932500.0,1374000.0,4918714.0
+1061,2012,Riverside County,All Residential,8471.1,225800.0,264426.1,-25126.1
+1062,2012,Riverside County,Condo/Co-op,1345.2,166062.5,264426.1,141436.4
+1063,2012,Riverside County,Multi-Family (2-4 Unit),136.4,196035.0,264426.1,342771.4
+1064,2012,Riverside County,Single Family Residential,6952.8,232800.0,264426.1,569271.4
+1065,2012,Riverside County,Townhouse,36.7,159004.5,244436.1,735265.9
+1066,2013,Riverside County,All Residential,6590.91,279496.82,326381.82,-32339.55
+1067,2013,Riverside County,Condo/Co-op,1194.91,202972.73,326381.82,171519.55
+1068,2013,Riverside County,Multi-Family (2-4 Unit),129.45,244524.77,326381.82,421976.14
+1069,2013,Riverside County,Single Family Residential,5237.0,291067.73,326381.82,708198.41
+1070,2013,Riverside County,Townhouse,29.55,227336.36,303654.55,941743.86
+1071,2014,Riverside County,All Residential,9673.55,316840.91,363590.0,-27840.0
+1072,2014,Riverside County,Condo/Co-op,1475.55,236090.91,363590.0,211164.55
+1073,2014,Riverside County,Multi-Family (2-4 Unit),168.45,253959.09,363590.0,470119.09
+1074,2014,Riverside County,Single Family Residential,7981.91,327420.27,363590.0,793448.45
+1075,2014,Riverside County,Townhouse,47.64,266614.82,336317.27,1064608.73
+1076,2015,Riverside County,All Residential,11161.73,334635.91,386013.55,-31377.64
+1077,2015,Riverside County,Condo/Co-op,1734.91,237886.36,386013.55,212122.36
+1078,2015,Riverside County,Multi-Family (2-4 Unit),185.09,295795.45,386013.55,509395.09
+1079,2015,Riverside County,Single Family Residential,9187.45,347108.64,386013.55,852189.64
+1080,2015,Riverside County,Townhouse,54.27,289058.64,356468.09,1148016.91
+1081,2016,Riverside County,All Residential,11613.09,356681.82,409863.64,-33363.64
+1082,2016,Riverside County,Condo/Co-op,1836.18,246636.36,409863.64,214818.18
+1083,2016,Riverside County,Multi-Family (2-4 Unit),165.18,319828.5,409863.64,542373.95
+1084,2016,Riverside County,Single Family Residential,9551.82,370340.91,409863.64,908260.32
+1085,2016,Riverside County,Townhouse,59.91,298762.91,378963.64,1213286.86
+1086,2017,Riverside County,All Residential,10316.09,382980.45,433545.0,-29200.91
+1087,2017,Riverside County,Condo/Co-op,1565.91,262136.36,433545.0,240890.0
+1088,2017,Riverside County,Multi-Family (2-4 Unit),149.18,355231.82,433545.0,598167.27
+1089,2017,Riverside County,Single Family Residential,8532.27,399463.18,433545.0,995311.14
+1090,2017,Riverside County,Townhouse,68.73,350782.05,401272.27,1349321.59
+1091,2018,Riverside County,All Residential,10938.27,409279.77,460442.91,-26617.68
+1092,2018,Riverside County,Condo/Co-op,1325.55,286977.27,460442.91,262995.95
+1093,2018,Riverside County,Multi-Family (2-4 Unit),137.36,390886.36,460442.91,661359.59
+1094,2018,Riverside County,Single Family Residential,9398.55,425159.09,460442.91,1079532.32
+1095,2018,Riverside County,Townhouse,76.82,351609.09,425579.27,1438332.32
+1096,2019,Riverside County,All Residential,11140.27,422954.55,471736.36,-23736.36
+1097,2019,Riverside County,Condo/Co-op,1436.82,305363.64,471736.36,287036.36
+1098,2019,Riverside County,Multi-Family (2-4 Unit),138.18,422659.09,471736.36,714668.18
+1099,2019,Riverside County,Single Family Residential,9474.0,438267.27,471736.36,1149326.36
+1100,2019,Riverside County,Townhouse,91.27,377380.32,435836.36,1530788.5
+1101,2020,Riverside County,All Residential,7810.82,466545.45,517656.36,-24747.27
+1102,2020,Riverside County,Condo/Co-op,1304.55,330727.27,517656.36,323570.91
+1103,2020,Riverside County,Multi-Family (2-4 Unit),115.09,442863.64,517656.36,759007.95
+1104,2020,Riverside County,Single Family Residential,6327.45,484550.68,517656.36,1239121.59
+1105,2020,Riverside County,Townhouse,63.73,398795.45,479565.45,1643917.05
+1106,2021,Riverside County,All Residential,5069.73,566873.77,616112.64,-19784.32
+1107,2021,Riverside County,Condo/Co-op,634.45,401681.82,616112.64,398806.59
+1108,2021,Riverside County,Multi-Family (2-4 Unit),107.64,551613.64,616112.64,947692.95
+1109,2021,Riverside County,Single Family Residential,4288.73,590363.64,616112.64,1528056.59
+1110,2021,Riverside County,Townhouse,39.36,466727.27,573394.45,2003865.68
+1111,2022,Riverside County,All Residential,6895.0,1143000.0,1704980.0,-128980.0
+1112,2022,Riverside County,Condo/Co-op,807.0,883000.0,1704980.0,918020.0
+1113,2022,Riverside County,Multi-Family (2-4 Unit),154.0,1247000.0,1704980.0,2143020.0
+1114,2022,Riverside County,Single Family Residential,5892.0,1175000.0,1704980.0,3139020.0
+1115,2022,Riverside County,Townhouse,42.0,928000.0,1144990.0,4231010.0
+1116,2012,Sacramento County,All Residential,4475.09,183390.91,206304.55,-16754.55
+1117,2012,Sacramento County,Condo/Co-op,333.18,86850.0,206304.55,78390.91
+1118,2012,Sacramento County,Multi-Family (2-4 Unit),154.27,187559.09,206304.55,265995.45
+1119,2012,Sacramento County,Single Family Residential,3973.18,190154.55,206304.55,449831.82
+1120,2012,Sacramento County,Townhouse,14.45,94754.55,192218.18,550490.91
+1121,2013,Sacramento County,All Residential,3279.82,245681.73,275172.64,-20854.55
+1122,2013,Sacramento County,Condo/Co-op,232.64,131040.91,275172.64,119390.91
+1123,2013,Sacramento County,Multi-Family (2-4 Unit),161.0,247727.27,275172.64,367277.27
+1124,2013,Sacramento County,Single Family Residential,2872.91,254818.18,275172.64,612277.27
+1125,2013,Sacramento County,Townhouse,13.27,119431.82,257445.36,741254.55
+1126,2014,Sacramento County,All Residential,4096.82,277809.09,309595.45,-20422.73
+1127,2014,Sacramento County,Condo/Co-op,329.55,147672.73,309595.45,133704.55
+1128,2014,Sacramento County,Multi-Family (2-4 Unit),195.36,263076.73,309595.45,400781.27
+1129,2014,Sacramento County,Single Family Residential,3557.73,286631.82,309595.45,674935.82
+1130,2014,Sacramento County,Townhouse,14.18,130931.73,286875.0,819247.09
+1131,2015,Sacramento County,All Residential,3577.45,298522.73,336359.09,-26422.73
+1132,2015,Sacramento County,Condo/Co-op,256.09,155234.91,336359.09,137489.45
+1133,2015,Sacramento County,Multi-Family (2-4 Unit),173.36,293318.18,336359.09,433898.55
+1134,2015,Sacramento County,Single Family Residential,3137.36,309090.91,336359.09,732125.82
+1135,2015,Sacramento County,Townhouse,10.64,179677.27,311818.18,924025.82
+1136,2016,Sacramento County,All Residential,3086.73,329909.09,364609.95,-20928.14
+1137,2016,Sacramento County,Condo/Co-op,171.27,181000.0,364609.95,171299.14
+1138,2016,Sacramento County,Multi-Family (2-4 Unit),158.36,331870.45,364609.95,503260.5
+1139,2016,Sacramento County,Single Family Residential,2747.55,338477.27,364609.95,842055.95
+1140,2016,Sacramento County,Townhouse,9.55,217000.0,337382.68,1060874.14
+1141,2017,Sacramento County,All Residential,2656.91,356890.91,393759.09,-21050.0
+1142,2017,Sacramento County,Condo/Co-op,154.0,210431.82,393759.09,203245.45
+1143,2017,Sacramento County,Multi-Family (2-4 Unit),116.45,361859.09,393759.09,562740.91
+1144,2017,Sacramento County,Single Family Residential,2378.55,366431.82,393759.09,920627.27
+1145,2017,Sacramento County,Townhouse,7.91,213909.09,365350.0,1144172.73
+1146,2018,Sacramento County,All Residential,3145.36,385704.55,423850.0,-18327.27
+1147,2018,Sacramento County,Condo/Co-op,201.55,236545.45,423850.0,231581.82
+1148,2018,Sacramento County,Multi-Family (2-4 Unit),126.73,417522.68,423850.0,647649.95
+1149,2018,Sacramento County,Single Family Residential,2808.09,395840.91,423850.0,1030990.86
+1150,2018,Sacramento County,Townhouse,9.0,223863.64,392122.73,1267354.5
+1151,2019,Sacramento County,All Residential,2736.45,400727.27,444780.73,-25326.18
+1152,2019,Sacramento County,Condo/Co-op,187.73,243250.0,444780.73,232151.09
+1153,2019,Sacramento County,Multi-Family (2-4 Unit),113.82,438181.82,444780.73,669423.82
+1154,2019,Sacramento County,Single Family Residential,2423.0,411000.0,444780.73,1062014.73
+1155,2019,Sacramento County,Townhouse,11.91,262681.82,411598.91,1344242.0
+1156,2020,Sacramento County,All Residential,1842.36,443022.73,484079.36,-20283.91
+1157,2020,Sacramento County,Condo/Co-op,171.36,266409.09,484079.36,264443.36
+1158,2020,Sacramento County,Multi-Family (2-4 Unit),113.09,499545.45,484079.36,759307.0
+1159,2020,Sacramento County,Single Family Residential,1547.0,451964.95,484079.36,1193135.59
+1160,2020,Sacramento County,Townhouse,10.91,299022.73,449079.36,1510885.59
+1161,2021,Sacramento County,All Residential,1418.0,526691.18,561871.82,-10180.64
+1162,2021,Sacramento County,Condo/Co-op,99.73,313181.82,561871.82,320273.91
+1163,2021,Sacramento County,Multi-Family (2-4 Unit),116.18,586194.36,561871.82,904468.27
+1164,2021,Sacramento County,Single Family Residential,1185.64,541022.73,561871.82,1428945.55
+1165,2021,Sacramento County,Townhouse,16.45,372067.27,521962.73,1817194.64
+1166,2022,Sacramento County,All Residential,1647.0,1023000.0,1539915.0,-219915.0
+1167,2022,Sacramento County,Condo/Co-op,104.0,639500.0,1539915.0,667585.0
+1168,2022,Sacramento County,Multi-Family (2-4 Unit),124.0,1115000.0,1539915.0,1757585.0
+1169,2022,Sacramento County,Single Family Residential,1398.0,1055000.0,1539915.0,2652585.0
+1170,2022,Sacramento County,Townhouse,21.0,745000.0,1029915.0,3547585.0
+1171,2012,San Benito County,All Residential,125.64,309863.64,350404.45,-30722.64
+1172,2012,San Benito County,Condo/Co-op,1.25,254500.0,139850.0,1021775.0
+1173,2012,San Benito County,Multi-Family (2-4 Unit),2.38,306612.5,220968.75,673206.25
+1174,2012,San Benito County,Single Family Residential,117.18,318486.36,350895.36,613354.64
+1175,2012,San Benito County,Townhouse,4.91,207204.64,299995.36,851095.64
+1176,2013,San Benito County,All Residential,90.64,400454.55,433879.5,-17970.41
+1177,2013,San Benito County,Condo/Co-op,0.0,310000.0,177250.0,2560250.0
+1178,2013,San Benito County,Multi-Family (2-4 Unit),2.0,476000.0,347919.39,720469.5
+1179,2013,San Benito County,Single Family Residential,85.91,403595.45,467209.05,798840.95
+1180,2013,San Benito County,Townhouse,2.38,276156.25,442584.31,1552140.69
+1181,2014,San Benito County,All Residential,130.82,451545.45,504446.55,-30719.27
+1182,2014,San Benito County,Condo/Co-op,3.6,310850.0,505924.3,908325.7
+1183,2014,San Benito County,Multi-Family (2-4 Unit),6.67,727083.33,486946.75,1393511.58
+1184,2014,San Benito County,Single Family Residential,116.73,457818.18,502135.18,972478.45
+1185,2014,San Benito County,Townhouse,5.2,315700.0,474908.7,1432766.3
+1186,2015,San Benito County,All Residential,136.82,497863.64,515726.18,8046.55
+1187,2015,San Benito County,Condo/Co-op,2.33,349416.67,232066.67,1118433.33
+1188,2015,San Benito County,Multi-Family (2-4 Unit),7.33,585750.0,477525.0,1444050.0
+1189,2015,San Benito County,Single Family Residential,122.82,509312.27,557989.82,986549.73
+1190,2015,San Benito County,Townhouse,4.6,358806.8,470753.8,1557046.5
+1191,2016,San Benito County,All Residential,188.0,533222.73,554245.36,19431.91
+1192,2016,San Benito County,Condo/Co-op,1.0,630850.0,0.0,7258800.0
+1193,2016,San Benito County,Multi-Family (2-4 Unit),7.0,694166.67,422641.67,1434241.67
+1194,2016,San Benito County,Single Family Residential,172.91,542545.45,600249.91,939481.91
+1195,2016,San Benito County,Townhouse,8.91,403972.73,554245.36,1361481.91
+1196,2017,San Benito County,All Residential,171.36,585250.0,601475.55,12592.64
+1197,2017,San Benito County,Condo/Co-op,2.0,428500.0,514450.0,3570425.0
+1198,2017,San Benito County,Multi-Family (2-4 Unit),4.71,937735.71,531417.71,1526996.57
+1199,2017,San Benito County,Single Family Residential,155.09,596087.09,645930.09,1232102.45
+1200,2017,San Benito County,Townhouse,10.8,374905.0,605278.1,1811212.7
+1201,2018,San Benito County,All Residential,157.0,616307.5,633250.55,18966.05
+1202,2018,San Benito County,Condo/Co-op,0.0,845000.0,535000.0,7745382.5
+1203,2018,San Benito County,Multi-Family (2-4 Unit),4.0,709000.0,582194.42,1487536.0
+1204,2018,San Benito County,Single Family Residential,140.36,628284.14,686432.36,1056932.0
+1205,2018,San Benito County,Townhouse,11.91,445393.18,633250.55,1520279.73
+1206,2019,San Benito County,All Residential,180.36,637059.0,664680.86,6430.68
+1207,2019,San Benito County,Condo/Co-op,2.0,789578.0,564000.0,8003227.0
+1208,2019,San Benito County,Multi-Family (2-4 Unit),3.0,1203500.0,1206500.0,4193113.5
+1209,2019,San Benito County,Single Family Residential,163.09,646600.32,664680.86,944462.82
+1210,2019,San Benito County,Townhouse,13.73,420340.91,610226.32,1384371.91
+1211,2020,San Benito County,All Residential,140.64,678877.27,769297.36,-52238.27
+1212,2020,San Benito County,Condo/Co-op,0.0,420000.0,1258949.5,7276200.5
+1213,2020,San Benito County,Multi-Family (2-4 Unit),3.0,869583.33,524497.83,1755530.08
+1214,2020,San Benito County,Single Family Residential,132.82,689965.23,709388.27,1206363.32
+1215,2020,San Benito County,Townhouse,4.4,470100.0,583592.2,1955984.55
+1216,2021,San Benito County,All Residential,109.82,822809.09,831161.14,32557.05
+1217,2021,San Benito County,Condo/Co-op,0.33,542333.33,0.0,3795966.67
+1218,2021,San Benito County,Multi-Family (2-4 Unit),0.8,1031900.0,602308.8,2704171.2
+1219,2021,San Benito County,Single Family Residential,104.73,835997.0,895682.0,1421805.91
+1220,2021,San Benito County,Townhouse,3.6,540250.0,847287.25,2196299.45
+1221,2022,San Benito County,All Residential,121.0,1662500.0,1624000.0,581500.0
+1222,2022,San Benito County,Condo/Co-op,0.0,543000.0,0.0,3543000.0
+1223,2022,San Benito County,Multi-Family (2-4 Unit),4.0,2217500.0,1624000.0,3641500.0
+1224,2022,San Benito County,Single Family Residential,114.0,1687500.0,2449000.0,4186500.0
+1225,2022,San Benito County,Townhouse,3.0,1065000.0,1624000.0,5551500.0
+1226,2012,San Bernardino County,All Residential,5193.2,175325.0,223615.0,-36340.0
+1227,2012,San Bernardino County,Condo/Co-op,246.1,144819.95,223615.0,113279.95
+1228,2012,San Bernardino County,Multi-Family (2-4 Unit),159.4,184025.0,223615.0,295054.95
+1229,2012,San Bernardino County,Single Family Residential,4737.5,176656.35,223615.0,473611.3
+1230,2012,San Bernardino County,Townhouse,50.2,224195.0,206615.0,698406.3
+1231,2013,San Bernardino County,All Residential,4039.09,234172.73,272426.77,-23708.59
+1232,2013,San Bernardino County,Condo/Co-op,170.0,197818.18,272426.77,173200.5
+1233,2013,San Bernardino County,Multi-Family (2-4 Unit),203.73,231772.73,272426.77,407064.14
+1234,2013,San Bernardino County,Single Family Residential,3633.36,236840.91,272426.77,647223.23
+1235,2013,San Bernardino County,Townhouse,32.0,264340.91,254272.23,910673.23
+1236,2014,San Bernardino County,All Residential,6212.18,275493.18,311849.95,-17584.05
+1237,2014,San Bernardino County,Condo/Co-op,293.0,240050.0,311849.95,224147.77
+1238,2014,San Bernardino County,Multi-Family (2-4 Unit),264.0,257595.45,311849.95,483106.86
+1239,2014,San Bernardino County,Single Family Residential,5586.91,279068.18,311849.95,760993.23
+1240,2014,San Bernardino County,Townhouse,68.27,296886.36,288668.14,1060425.05
+1241,2015,San Bernardino County,All Residential,7073.36,297840.91,338036.27,-19740.82
+1242,2015,San Bernardino County,Condo/Co-op,305.73,266318.18,338036.27,249304.64
+1243,2015,San Bernardino County,Multi-Family (2-4 Unit),338.18,304431.82,338036.27,553736.45
+1244,2015,San Bernardino County,Single Family Residential,6353.73,300407.45,338036.27,856416.64
+1245,2015,San Bernardino County,Townhouse,75.73,320545.45,313490.82,1176053.0
+1246,2016,San Bernardino County,All Residential,7319.18,317822.73,357647.18,-16074.45
+1247,2016,San Bernardino County,Condo/Co-op,327.18,286032.0,357647.18,268934.82
+1248,2016,San Bernardino County,Multi-Family (2-4 Unit),298.91,308236.36,357647.18,578989.36
+1249,2016,San Bernardino County,Single Family Residential,6634.73,321177.27,357647.18,904257.55
+1250,2016,San Bernardino County,Townhouse,58.36,321500.0,331374.45,1223393.91
+1251,2017,San Bernardino County,All Residential,6972.09,343045.45,384895.36,-18213.55
+1252,2017,San Bernardino County,Condo/Co-op,330.91,317090.91,384895.36,304331.91
+1253,2017,San Bernardino County,Multi-Family (2-4 Unit),245.55,357772.73,384895.36,660036.45
+1254,2017,San Bernardino County,Single Family Residential,6318.09,344568.18,384895.36,1003036.45
+1255,2017,San Bernardino County,Townhouse,77.55,358659.09,356077.18,1365059.18
+1256,2018,San Bernardino County,All Residential,7432.0,364545.45,408727.27,-16681.82
+1257,2018,San Bernardino County,Condo/Co-op,358.64,345431.82,408727.27,330977.27
+1258,2018,San Bernardino County,Multi-Family (2-4 Unit),218.91,387289.36,408727.27,717630.27
+1259,2018,San Bernardino County,Single Family Residential,6775.36,365909.09,408727.27,1085766.64
+1260,2018,San Bernardino County,Townhouse,79.09,377080.05,378272.73,1461983.05
+1261,2019,San Bernardino County,All Residential,7437.45,382090.91,427617.91,-17004.27
+1262,2019,San Bernardino County,Condo/Co-op,411.82,355427.27,427617.91,339445.73
+1263,2019,San Bernardino County,Multi-Family (2-4 Unit),191.0,377863.64,427617.91,717763.91
+1264,2019,San Bernardino County,Single Family Residential,6740.27,385295.45,427617.91,1103968.45
+1265,2019,San Bernardino County,Townhouse,94.36,381909.09,394890.64,1487695.73
+1266,2020,San Bernardino County,All Residential,5580.91,409635.91,453848.36,-13076.09
+1267,2020,San Bernardino County,Condo/Co-op,308.36,387966.82,453848.36,387845.27
+1268,2020,San Bernardino County,Multi-Family (2-4 Unit),156.27,456028.55,453848.36,833419.27
+1269,2020,San Bernardino County,Single Family Residential,5038.82,411590.91,453848.36,1243192.0
+1270,2020,San Bernardino County,Townhouse,77.45,428741.45,421530.18,1672433.45
+1271,2021,San Bernardino County,All Residential,4323.91,491318.18,534629.73,-9220.64
+1272,2021,San Bernardino County,Condo/Co-op,193.09,437636.36,534629.73,434324.82
+1273,2021,San Bernardino County,Multi-Family (2-4 Unit),153.18,517545.45,534629.73,948688.45
+1274,2021,San Bernardino County,Single Family Residential,3917.18,497590.91,534629.73,1444324.82
+1275,2021,San Bernardino County,Townhouse,60.45,485204.55,496538.82,1932756.64
+1276,2022,San Bernardino County,All Residential,5776.0,960000.0,1479810.0,-76810.0
+1277,2022,San Bernardino County,Condo/Co-op,243.0,916814.0,1479810.0,837004.0
+1278,2022,San Bernardino County,Multi-Family (2-4 Unit),146.0,1020000.0,1479810.0,1899004.0
+1279,2022,San Bernardino County,Single Family Residential,5326.0,962000.0,1479810.0,2919504.0
+1280,2022,San Bernardino County,Townhouse,61.0,1075500.0,989905.0,3944409.0
+1281,2012,San Diego County,All Residential,8098.09,366022.73,424679.86,-41384.41
+1282,2012,San Diego County,Condo/Co-op,1930.82,244999.55,424679.86,211342.41
+1283,2012,San Diego County,Multi-Family (2-4 Unit),267.09,377409.09,424679.86,595115.14
+1284,2012,San Diego County,Single Family Residential,5390.64,413659.09,424679.86,999069.68
+1285,2012,San Diego County,Townhouse,509.55,267750.0,394679.86,1275160.59
+1286,2013,San Diego County,All Residential,7510.73,440068.18,507500.0,-45159.09
+1287,2013,San Diego County,Condo/Co-op,1847.82,318654.55,507500.0,289359.09
+1288,2013,San Diego County,Multi-Family (2-4 Unit),311.73,509068.18,507500.0,795654.55
+1289,2013,San Diego County,Single Family Residential,5003.82,492925.64,507500.0,1275489.27
+1290,2013,San Diego County,Townhouse,347.36,333495.45,471145.45,1623066.55
+1291,2014,San Diego County,All Residential,9260.64,477454.55,546708.55,-41526.73
+1292,2014,San Diego County,Condo/Co-op,2343.0,353613.64,546708.55,323905.09
+1293,2014,San Diego County,Multi-Family (2-4 Unit),344.0,545863.64,546708.55,873064.18
+1294,2014,San Diego County,Single Family Residential,6125.55,536886.36,546708.55,1395746.0
+1295,2014,San Diego County,Townhouse,448.09,377522.73,505981.27,1785359.64
+1296,2015,San Diego County,All Residential,8373.55,506519.64,581784.23,-45082.77
+1297,2015,San Diego County,Condo/Co-op,2087.18,376909.09,581784.23,354371.77
+1298,2015,San Diego County,Multi-Family (2-4 Unit),296.09,611250.0,581784.23,957349.05
+1299,2015,San Diego County,Single Family Residential,5597.27,569752.05,581784.23,1514464.73
+1300,2015,San Diego County,Townhouse,393.0,399859.09,538602.41,1925687.45
+1301,2016,San Diego County,All Residential,7632.91,540000.0,615886.36,-43163.64
+1302,2016,San Diego County,Condo/Co-op,1727.36,405813.64,615886.36,394700.0
+1303,2016,San Diego County,Multi-Family (2-4 Unit),267.91,675386.36,615886.36,1053468.18
+1304,2016,San Diego County,Single Family Residential,5319.82,606063.64,615886.36,1643650.0
+1305,2016,San Diego County,Townhouse,317.82,419568.18,569977.27,2076854.55
+1306,2017,San Diego County,All Residential,6384.82,584271.82,654916.14,-36098.86
+1307,2017,San Diego County,Condo/Co-op,1456.0,429714.86,654916.14,417956.91
+1308,2017,San Diego County,Multi-Family (2-4 Unit),227.55,735813.09,654916.14,1145792.73
+1309,2017,San Diego County,Single Family Residential,4422.73,652227.27,654916.14,1783474.55
+1310,2017,San Diego County,Townhouse,278.55,466000.0,605825.23,2262201.82
+1311,2018,San Diego County,All Residential,7827.82,618818.18,696022.68,-41749.95
+1312,2018,San Diego County,Condo/Co-op,1870.91,437931.82,696022.68,429363.68
+1313,2018,San Diego County,Multi-Family (2-4 Unit),248.64,807971.59,696022.68,1222335.27
+1314,2018,San Diego County,Single Family Residential,5280.0,691762.5,696022.68,1903234.14
+1315,2018,San Diego County,Townhouse,428.27,529818.18,643304.5,2442997.77
+1316,2019,San Diego County,All Residential,7450.73,633090.91,713508.55,-44963.09
+1317,2019,San Diego County,Condo/Co-op,1912.09,447518.18,713508.55,444191.45
+1318,2019,San Diego County,Multi-Family (2-4 Unit),247.73,830022.73,713508.55,1252577.82
+1319,2019,San Diego County,Single Family Residential,4825.73,703136.36,713508.55,1943555.09
+1320,2019,San Diego County,Townhouse,465.18,544008.64,659054.0,2498722.82
+1321,2020,San Diego County,All Residential,4950.27,686328.18,757711.36,-32792.27
+1322,2020,San Diego County,Condo/Co-op,1425.36,466772.73,757711.36,474207.73
+1323,2020,San Diego County,Multi-Family (2-4 Unit),222.45,914409.09,757711.36,1370707.73
+1324,2020,San Diego County,Single Family Residential,2928.91,770272.73,757711.36,2123752.73
+1325,2020,San Diego County,Townhouse,373.55,581317.91,702256.82,2716843.82
+1326,2021,San Diego County,All Residential,3175.45,806181.82,866126.73,-19944.91
+1327,2021,San Diego County,Condo/Co-op,750.64,548954.55,866126.73,569009.64
+1328,2021,San Diego County,Multi-Family (2-4 Unit),178.64,1087727.27,866126.73,1644009.64
+1329,2021,San Diego County,Single Family Residential,2030.0,908545.45,866126.73,2536418.73
+1330,2021,San Diego County,Townhouse,216.18,680272.73,804763.09,3226918.73
+1331,2022,San Diego County,All Residential,3363.0,1580000.0,2414900.0,-272900.0
+1332,2022,San Diego County,Condo/Co-op,695.0,1142500.0,2414900.0,1320100.0
+1333,2022,San Diego County,Multi-Family (2-4 Unit),163.0,2209500.0,2414900.0,3397100.0
+1334,2022,San Diego County,Single Family Residential,2254.0,1781000.0,2414900.0,4938100.0
+1335,2022,San Diego County,Townhouse,251.0,1315000.0,1616950.0,6411050.0
+1336,2012,San Francisco County,All Residential,876.91,815318.18,885136.36,-14000.0
+1337,2012,San Francisco County,Condo/Co-op,402.36,766022.73,885136.36,772386.36
+1338,2012,San Francisco County,Multi-Family (2-4 Unit),100.91,1119250.0,885136.36,1872272.73
+1339,2012,San Francisco County,Single Family Residential,346.73,822863.64,885136.36,2681581.82
+1340,2012,San Francisco County,Townhouse,26.91,911400.0,822500.0,3612354.55
+1341,2013,San Francisco County,All Residential,660.0,953159.09,982845.45,39290.91
+1342,2013,San Francisco County,Condo/Co-op,303.18,887477.27,982845.45,952881.82
+1343,2013,San Francisco County,Multi-Family (2-4 Unit),72.91,1385777.27,982845.45,2311522.73
+1344,2013,San Francisco County,Single Family Residential,267.73,996590.91,982845.45,3317886.36
+1345,2013,San Francisco County,Townhouse,16.18,1097081.82,909759.09,4410327.27
+1346,2014,San Francisco County,All Residential,580.55,1118045.45,1101772.73,102636.36
+1347,2014,San Francisco County,Condo/Co-op,269.36,1027469.64,1101772.73,1170560.55
+1348,2014,San Francisco County,Multi-Family (2-4 Unit),68.27,1659954.55,1101772.73,2787833.27
+1349,2014,San Francisco County,Single Family Residential,228.55,1156659.09,1101772.73,3947174.18
+1350,2014,San Francisco County,Townhouse,14.36,1278541.36,1020136.36,5220533.73
+1351,2015,San Francisco County,All Residential,558.45,1290272.73,1225335.82,146755.09
+1352,2015,San Francisco County,Condo/Co-op,257.55,1160874.27,1225335.82,1370174.82
+1353,2015,San Francisco County,Multi-Family (2-4 Unit),68.09,1806727.27,1225335.82,3120720.27
+1354,2015,San Francisco County,Single Family Residential,215.82,1337363.64,1225335.82,4444447.55
+1355,2015,San Francisco County,Townhouse,17.0,1356024.0,1133790.36,5817471.55
+1356,2016,San Francisco County,All Residential,826.64,1331772.73,1351908.64,82114.09
+1357,2016,San Francisco County,Condo/Co-op,434.09,1185136.36,1351908.64,1326818.64
+1358,2016,San Francisco County,Multi-Family (2-4 Unit),85.36,1984772.73,1351908.64,3255236.82
+1359,2016,San Francisco County,Single Family Residential,285.82,1436372.73,1351908.64,4659691.36
+1360,2016,San Francisco County,Townhouse,21.36,1359173.45,1250545.0,6046683.0
+1361,2017,San Francisco County,All Residential,760.45,1396909.09,1390672.73,95327.27
+1362,2017,San Francisco County,Condo/Co-op,427.82,1222250.0,1390672.73,1385854.55
+1363,2017,San Francisco County,Multi-Family (2-4 Unit),86.73,2039150.0,1390672.73,3381272.73
+1364,2017,San Francisco County,Single Family Residential,222.45,1531168.18,1390672.73,4897895.45
+1365,2017,San Francisco County,Townhouse,23.45,1553750.0,1282036.36,6461190.91
+1366,2018,San Francisco County,All Residential,808.91,1502522.73,1486045.45,113977.27
+1367,2018,San Francisco County,Condo/Co-op,435.73,1279389.55,1486045.45,1483139.55
+1368,2018,San Francisco County,Multi-Family (2-4 Unit),101.55,2108718.18,1486045.45,3524585.0
+1369,2018,San Francisco County,Single Family Residential,251.45,1702045.45,1486045.45,5205886.73
+1370,2018,San Francisco County,Townhouse,20.18,1466097.18,1370136.36,6688636.73
+1371,2019,San Francisco County,All Residential,861.09,1525250.0,1578272.73,42431.82
+1372,2019,San Francisco County,Condo/Co-op,476.0,1326500.0,1578272.73,1422431.82
+1373,2019,San Francisco County,Multi-Family (2-4 Unit),104.45,2203704.55,1578272.73,3601727.27
+1374,2019,San Francisco County,Single Family Residential,257.45,1713318.18,1578272.73,5266181.82
+1375,2019,San Francisco County,Townhouse,23.18,1448000.0,1457363.64,6759409.09
+1376,2020,San Francisco County,All Residential,1428.55,1556045.45,1590181.82,70409.09
+1377,2020,San Francisco County,Condo/Co-op,911.73,1305769.32,1590181.82,1457996.59
+1378,2020,San Francisco County,Multi-Family (2-4 Unit),133.09,2097590.91,1590181.82,3501951.14
+1379,2020,San Francisco County,Single Family Residential,355.82,1783545.45,1590181.82,5369360.23
+1380,2020,San Francisco County,Townhouse,27.91,1634113.64,1467454.55,6909610.23
+1381,2021,San Francisco County,All Residential,1243.45,1578500.0,1543045.45,130227.27
+1382,2021,San Francisco County,Condo/Co-op,799.36,1305573.73,1543045.45,1517391.91
+1383,2021,San Francisco County,Multi-Family (2-4 Unit),148.73,2172727.27,1543045.45,3651937.36
+1384,2021,San Francisco County,Single Family Residential,285.73,1918636.36,1543045.45,5574437.36
+1385,2021,San Francisco County,Townhouse,9.64,1461681.82,1426772.73,7010346.45
+1386,2022,San Francisco County,All Residential,1624.0,2815000.0,3885000.0,-47500.0
+1387,2022,San Francisco County,Condo/Co-op,1080.0,2227500.0,3885000.0,2907500.0
+1388,2022,San Francisco County,Multi-Family (2-4 Unit),195.0,3750000.0,3885000.0,6457500.0
+1389,2022,San Francisco County,Single Family Residential,333.0,3430000.0,3885000.0,9415000.0
+1390,2022,San Francisco County,Townhouse,16.0,2277500.0,2590000.0,11910000.0
+1391,2012,San Joaquin County,All Residential,2156.64,178315.91,193640.91,-10238.64
+1392,2012,San Joaquin County,Condo/Co-op,85.82,71420.41,193640.91,67004.5
+1393,2012,San Joaquin County,Multi-Family (2-4 Unit),94.82,125595.41,193640.91,196259.0
+1394,2012,San Joaquin County,Single Family Residential,1972.64,184522.73,179640.91,385395.36
+1395,2012,San Joaquin County,Townhouse,3.44,102605.56,111963.89,674908.22
+1396,2013,San Joaquin County,All Residential,1365.0,223850.0,252508.55,-22931.27
+1397,2013,San Joaquin County,Condo/Co-op,54.82,81290.91,252508.55,64905.09
+1398,2013,San Joaquin County,Multi-Family (2-4 Unit),81.18,166977.27,252508.55,236018.73
+1399,2013,San Joaquin County,Single Family Residential,1227.64,233986.36,252508.55,457414.23
+1400,2013,San Joaquin County,Townhouse,1.0,110000.08,162850.0,1241675.08
+1401,2014,San Joaquin County,All Residential,1740.82,266781.82,302379.32,-22824.77
+1402,2014,San Joaquin County,Condo/Co-op,71.36,116340.91,302379.32,95834.32
+1403,2014,San Joaquin County,Multi-Family (2-4 Unit),91.09,199204.55,302379.32,301311.59
+1404,2014,San Joaquin County,Single Family Residential,1574.55,276675.0,281479.32,583886.59
+1405,2014,San Joaquin County,Townhouse,3.0,202300.0,103980.0,1988125.0
+1406,2015,San Joaquin County,All Residential,1720.82,300318.18,336786.23,-25558.95
+1407,2015,San Joaquin County,Condo/Co-op,71.55,125869.27,336786.23,108951.23
+1408,2015,San Joaquin County,Multi-Family (2-4 Unit),106.27,217800.0,336786.23,331292.14
+1409,2015,San Joaquin County,Single Family Residential,1538.73,309318.18,338509.0,617842.09
+1410,2015,San Joaquin County,Townhouse,4.29,204900.0,208264.21,1494687.5
+1411,2016,San Joaquin County,All Residential,1513.0,332045.45,366912.68,-20458.14
+1412,2016,San Joaquin County,Condo/Co-op,61.18,147241.55,366912.68,133283.41
+1413,2016,San Joaquin County,Multi-Family (2-4 Unit),78.73,238954.55,366912.68,377692.5
+1414,2016,San Joaquin County,Single Family Residential,1370.82,341772.73,366010.41,700094.77
+1415,2016,San Joaquin County,Townhouse,1.5,205308.33,153491.67,1995176.17
+1416,2017,San Joaquin County,All Residential,1315.36,360181.82,400577.18,-23509.0
+1417,2017,San Joaquin County,Condo/Co-op,42.27,176363.64,400577.18,160059.18
+1418,2017,San Joaquin County,Multi-Family (2-4 Unit),75.91,289863.64,400577.18,454104.64
+1419,2017,San Joaquin County,Single Family Residential,1193.64,371013.73,400577.18,801982.0
+1420,2017,San Joaquin County,Townhouse,3.6,164350.0,308139.9,1173375.2
+1421,2018,San Joaquin County,All Residential,1450.45,392442.91,432380.73,-20210.55
+1422,2018,San Joaquin County,Condo/Co-op,63.82,203340.91,432380.73,188130.36
+1423,2018,San Joaquin County,Multi-Family (2-4 Unit),84.91,351409.09,432380.73,546812.18
+1424,2018,San Joaquin County,Single Family Residential,1298.64,403068.18,432380.73,929834.91
+1425,2018,San Joaquin County,Townhouse,3.09,189409.09,366748.91,1172921.27
+1426,2019,San Joaquin County,All Residential,1584.09,407704.55,452415.23,-30256.14
+1427,2019,San Joaquin County,Condo/Co-op,76.73,205318.18,452415.23,189880.23
+1428,2019,San Joaquin County,Multi-Family (2-4 Unit),52.55,361136.36,452415.23,555834.77
+1429,2019,San Joaquin County,Single Family Residential,1449.73,415620.59,452415.23,955046.27
+1430,2019,San Joaquin County,Townhouse,5.22,248666.67,341990.83,1605295.44
+1431,2020,San Joaquin County,All Residential,923.73,447204.55,490011.64,-22602.55
+1432,2020,San Joaquin County,Condo/Co-op,51.36,243704.55,490011.64,232261.09
+1433,2020,San Joaquin County,Multi-Family (2-4 Unit),56.55,399436.36,490011.64,635556.55
+1434,2020,San Joaquin County,Single Family Residential,813.91,455995.45,490011.64,1083147.45
+1435,2020,San Joaquin County,Townhouse,1.89,325666.67,329030.89,1886608.0
+1436,2021,San Joaquin County,All Residential,744.36,533431.82,571706.23,-19183.5
+1437,2021,San Joaquin County,Condo/Co-op,38.82,257431.82,571706.23,256657.41
+1438,2021,San Joaquin County,Multi-Family (2-4 Unit),71.55,496500.0,571706.23,755861.95
+1439,2021,San Joaquin County,Single Family Residential,632.45,546831.14,575794.86,1287763.55
+1440,2021,San Joaquin County,Townhouse,1.62,438875.0,561668.69,2399224.12
+1441,2022,San Joaquin County,All Residential,897.0,1030000.0,1606000.0,-349000.0
+1442,2022,San Joaquin County,Condo/Co-op,37.0,522000.0,1606000.0,451000.0
+1443,2022,San Joaquin County,Multi-Family (2-4 Unit),88.0,1020000.0,1606000.0,1484250.0
+1444,2022,San Joaquin County,Single Family Residential,770.0,1048250.0,1078000.0,2883750.0
+1445,2022,San Joaquin County,Townhouse,1.0,341500.0,0.0,3961750.0
+1446,2012,San Luis Obispo County,All Residential,1139.45,402721.64,466516.0,-46885.27
+1447,2012,San Luis Obispo County,Condo/Co-op,82.55,280812.73,466516.0,247472.91
+1448,2012,San Luis Obispo County,Multi-Family (2-4 Unit),25.36,447077.05,466516.0,698322.68
+1449,2012,San Luis Obispo County,Single Family Residential,1031.55,412113.64,433334.18,1109390.86
+1450,2013,San Luis Obispo County,All Residential,907.73,460577.27,524122.73,-37625.36
+1451,2013,San Luis Obispo County,Condo/Co-op,67.36,312788.23,524122.73,285560.95
+1452,2013,San Luis Obispo County,Multi-Family (2-4 Unit),23.45,657790.91,524122.73,942033.68
+1453,2013,San Luis Obispo County,Single Family Residential,816.91,473181.82,489168.18,1415170.05
+1454,2014,San Luis Obispo County,All Residential,1092.18,492013.64,567240.91,-49372.73
+1455,2014,San Luis Obispo County,Condo/Co-op,60.09,356926.23,567240.91,332608.05
+1456,2014,San Luis Obispo County,Multi-Family (2-4 Unit),32.18,624340.91,567240.91,947858.05
+1457,2014,San Luis Obispo County,Single Family Residential,999.82,505068.18,526786.36,1499289.86
+1458,2014,San Luis Obispo County,Townhouse,0.0,750000.0,0.0,22511838.5
+1459,2015,San Luis Obispo County,All Residential,1112.09,537222.05,608118.64,-37714.77
+1460,2015,San Luis Obispo County,Condo/Co-op,91.18,395295.45,608118.64,391898.86
+1461,2015,San Luis Obispo County,Multi-Family (2-4 Unit),28.27,656454.55,608118.64,1023580.68
+1462,2015,San Luis Obispo County,Single Family Residential,992.64,549233.32,564264.09,1573941.27
+1463,2016,San Luis Obispo County,All Residential,1125.0,565866.05,646473.09,-45197.95
+1464,2016,San Luis Obispo County,Condo/Co-op,114.64,442652.86,646473.09,430204.91
+1465,2016,San Luis Obispo County,Multi-Family (2-4 Unit),30.0,793650.0,657420.4,1295550.4
+1466,2016,San Luis Obispo County,Single Family Residential,979.36,577145.45,597841.27,1756595.82
+1467,2016,San Luis Obispo County,Townhouse,0.0,520000.0,0.0,25898808.0
+1468,2017,San Luis Obispo County,All Residential,993.64,606613.64,690612.73,-56271.82
+1469,2017,San Luis Obispo County,Condo/Co-op,92.18,436509.09,690612.73,421828.18
+1470,2017,San Luis Obispo County,Multi-Family (2-4 Unit),29.09,754181.82,690612.73,1154419.09
+1471,2017,San Luis Obispo County,Single Family Residential,863.18,622204.55,692430.91,1767941.82
+1472,2017,San Luis Obispo County,Townhouse,10.57,455678.57,683755.71,3574008.57
+1473,2018,San Luis Obispo County,All Residential,1111.55,647909.09,729122.73,-42668.18
+1474,2018,San Luis Obispo County,Condo/Co-op,86.18,451519.27,729122.73,433951.09
+1475,2018,San Luis Obispo County,Multi-Family (2-4 Unit),18.27,772213.64,729122.73,1193792.0
+1476,2018,San Luis Obispo County,Single Family Residential,991.45,667606.36,729122.73,1856034.73
+1477,2018,San Luis Obispo County,Townhouse,15.64,495636.36,674668.18,2360216.55
+1478,2019,San Luis Obispo County,All Residential,1134.55,659181.36,748494.68,-49313.32
+1479,2019,San Luis Obispo County,Condo/Co-op,92.64,468449.91,748494.68,454363.86
+1480,2019,San Luis Obispo County,Multi-Family (2-4 Unit),30.45,841295.45,748494.68,1273159.32
+1481,2019,San Luis Obispo County,Single Family Residential,993.55,680454.55,748494.68,1948568.41
+1482,2019,San Luis Obispo County,Townhouse,18.1,521525.0,696855.0,2738989.4
+1483,2020,San Luis Obispo County,All Residential,854.0,695000.0,787068.09,-42249.91
+1484,2020,San Luis Obispo County,Condo/Co-op,68.36,485818.18,787068.09,453659.18
+1485,2020,San Luis Obispo County,Multi-Family (2-4 Unit),16.8,811800.0,795874.9,1377825.1
+1486,2020,San Luis Obispo County,Single Family Residential,754.82,714227.27,787068.09,1896425.09
+1487,2020,San Luis Obispo County,Townhouse,14.0,565447.73,728977.18,2469516.0
+1488,2021,San Luis Obispo County,All Residential,469.73,805545.45,884213.59,-37554.5
+1489,2021,San Luis Obispo County,Condo/Co-op,33.0,533636.36,884213.59,515422.77
+1490,2021,San Luis Obispo County,Multi-Family (2-4 Unit),16.91,880000.0,884213.59,1398513.68
+1491,2021,San Luis Obispo County,Single Family Residential,411.45,835590.91,884213.59,2211559.14
+1492,2021,San Luis Obispo County,Townhouse,8.36,567863.64,820668.14,2801968.23
+1493,2022,San Luis Obispo County,All Residential,535.0,1633000.0,2493900.0,-344150.0
+1494,2022,San Luis Obispo County,Condo/Co-op,37.0,1013250.0,2493900.0,984850.0
+1495,2022,San Luis Obispo County,Multi-Family (2-4 Unit),15.0,1782500.0,2493900.0,2779350.0
+1496,2022,San Luis Obispo County,Single Family Residential,466.0,1675000.0,2493900.0,4472350.0
+1497,2022,San Luis Obispo County,Townhouse,17.0,1557000.0,1671450.0,5989300.0
+1498,2012,San Mateo County,All Residential,1033.0,683545.45,794825.0,-84788.36
+1499,2012,San Mateo County,Condo/Co-op,165.55,384559.36,794825.0,324188.91
+1500,2012,San Mateo County,Multi-Family (2-4 Unit),49.91,768348.91,794825.0,1093356.0
+1501,2012,San Mateo County,Single Family Residential,776.82,785500.0,794825.0,1868492.36
+1502,2012,San Mateo County,Townhouse,40.73,620272.73,741279.55,2500946.91
+1503,2013,San Mateo County,All Residential,781.45,840627.27,901440.91,-27631.82
+1504,2013,San Mateo County,Condo/Co-op,112.55,508363.64,901440.91,512095.45
+1505,2013,San Mateo County,Multi-Family (2-4 Unit),36.82,918527.73,901440.91,1428805.0
+1506,2013,San Mateo County,Single Family Residential,599.82,976636.36,901440.91,2398623.18
+1507,2013,San Mateo County,Townhouse,32.27,782000.0,837895.45,3188259.55
+1508,2014,San Mateo County,All Residential,730.36,942840.45,994068.5,-11228.05
+1509,2014,San Mateo County,Condo/Co-op,108.18,594045.45,994068.5,622817.41
+1510,2014,San Mateo County,Multi-Family (2-4 Unit),31.45,1124045.45,994068.5,1751408.32
+1511,2014,San Mateo County,Single Family Residential,559.09,1132795.45,994068.5,2871021.95
+1512,2014,San Mateo County,Townhouse,31.64,876314.09,922351.41,3747689.5
+1513,2015,San Mateo County,All Residential,620.27,1096636.36,1119090.91,23954.55
+1514,2015,San Mateo County,Condo/Co-op,86.36,680186.36,1119090.91,755913.64
+1515,2015,San Mateo County,Multi-Family (2-4 Unit),27.45,1310800.0,1119090.91,2056927.27
+1516,2015,San Mateo County,Single Family Residential,475.64,1318350.0,1119090.91,3377790.91
+1517,2015,San Mateo County,Townhouse,30.82,1079781.27,1039181.82,4446572.18
+1518,2016,San Mateo County,All Residential,742.0,1183477.27,1207444.32,34123.86
+1519,2016,San Mateo County,Condo/Co-op,122.09,736140.91,1207444.32,797946.59
+1520,2016,San Mateo County,Multi-Family (2-4 Unit),26.55,1366045.45,1207444.32,2176855.68
+1521,2016,San Mateo County,Single Family Residential,561.91,1373318.18,1207444.32,3544446.59
+1522,2016,San Mateo County,Townhouse,31.45,1151272.73,1120262.5,4689992.05
+1523,2017,San Mateo County,All Residential,575.91,1339950.45,1377910.0,23404.09
+1524,2017,San Mateo County,Condo/Co-op,95.0,798272.73,1377910.0,872762.27
+1525,2017,San Mateo County,Multi-Family (2-4 Unit),23.36,1576153.64,1377910.0,2441012.27
+1526,2017,San Mateo County,Single Family Residential,427.91,1532500.0,1377910.0,3976239.55
+1527,2017,San Mateo County,Townhouse,29.64,1317068.18,1280659.55,5283285.45
+1528,2018,San Mateo County,All Residential,654.64,1519068.18,1529163.64,50813.64
+1529,2018,San Mateo County,Condo/Co-op,95.09,920272.73,1529163.64,1035177.27
+1530,2018,San Mateo County,Multi-Family (2-4 Unit),24.27,1745181.82,1529163.64,2787186.36
+1531,2018,San Mateo County,Single Family Residential,511.0,1706327.27,1529163.64,4475777.27
+1532,2018,San Mateo County,Townhouse,24.27,1445736.36,1420254.55,5916331.82
+1533,2019,San Mateo County,All Residential,781.55,1481681.82,1599125.45,-39261.82
+1534,2019,San Mateo County,Condo/Co-op,136.0,912090.91,1599125.45,924192.73
+1535,2019,San Mateo County,Multi-Family (2-4 Unit),23.27,1782965.91,1599125.45,2709431.36
+1536,2019,San Mateo County,Single Family Residential,584.73,1692727.27,1599125.45,4370340.45
+1537,2019,San Mateo County,Townhouse,37.55,1404704.55,1481034.55,5793135.91
+1538,2020,San Mateo County,All Residential,854.0,1576136.36,1675394.91,-23349.45
+1539,2020,San Mateo County,Condo/Co-op,185.55,905413.64,1675394.91,951882.36
+1540,2020,San Mateo County,Multi-Family (2-4 Unit),34.0,1711090.91,1675394.91,2649064.18
+1541,2020,San Mateo County,Single Family Residential,583.55,1816613.64,1675394.91,4440768.73
+1542,2020,San Mateo County,Townhouse,50.91,1373445.45,1551031.27,5831668.73
+1543,2021,San Mateo County,All Residential,693.91,1706477.27,1719176.64,56482.45
+1544,2021,San Mateo County,Condo/Co-op,179.18,899136.36,1719176.64,1016572.45
+1545,2021,San Mateo County,Multi-Family (2-4 Unit),39.27,1747408.18,1719176.64,2773617.91
+1546,2021,San Mateo County,Single Family Residential,431.45,2035045.45,1719176.64,4790799.73
+1547,2021,San Mateo County,Townhouse,44.0,1489980.36,1591903.91,6286143.73
+1548,2022,San Mateo County,All Residential,677.0,3131000.0,4462398.0,-486398.0
+1549,2022,San Mateo County,Condo/Co-op,192.0,1745000.0,4462398.0,2429607.5
+1550,2022,San Mateo County,Multi-Family (2-4 Unit),30.0,3930505.5,4462398.0,6232107.5
+1551,2022,San Mateo County,Single Family Residential,425.0,3863000.0,4462398.0,9389607.5
+1552,2022,San Mateo County,Townhouse,30.0,2832500.0,2975699.0,12526306.5
+1553,2012,Santa Barbara County,All Residential,1481.45,374602.27,503468.18,-116729.55
+1554,2012,Santa Barbara County,Condo/Co-op,183.91,300977.27,503468.18,206202.27
+1555,2012,Santa Barbara County,Multi-Family (2-4 Unit),37.64,661272.73,503468.18,860565.91
+1556,2012,Santa Barbara County,Single Family Residential,1203.55,383659.09,503468.18,1257497.73
+1557,2012,Santa Barbara County,Townhouse,56.36,463563.18,464650.0,1719424.55
+1558,2013,Santa Barbara County,All Residential,1026.73,505045.45,631003.82,-99140.18
+1559,2013,Santa Barbara County,Condo/Co-op,126.64,420272.73,631003.82,321359.82
+1560,2013,Santa Barbara County,Multi-Family (2-4 Unit),36.36,713000.0,631003.82,1040950.73
+1561,2013,Santa Barbara County,Single Family Residential,833.64,506511.36,631003.82,1551734.82
+1562,2013,Santa Barbara County,Townhouse,30.09,577204.55,586549.27,2135484.82
+1563,2014,Santa Barbara County,All Residential,1084.82,551454.55,636663.64,-47209.09
+1564,2014,Santa Barbara County,Condo/Co-op,138.36,538352.05,636663.64,526324.77
+1565,2014,Santa Barbara County,Multi-Family (2-4 Unit),36.45,911136.36,636663.64,1409461.14
+1566,2014,Santa Barbara County,Single Family Residential,870.18,536754.09,636663.64,1943306.14
+1567,2014,Santa Barbara County,Townhouse,39.82,601659.09,595763.64,2543592.5
+1568,2015,Santa Barbara County,All Residential,1224.82,567175.27,708177.27,-93274.73
+1569,2015,Santa Barbara County,Condo/Co-op,129.27,588645.45,708177.27,487188.91
+1570,2015,Santa Barbara County,Multi-Family (2-4 Unit),42.09,860113.64,708177.27,1345938.91
+1571,2015,Santa Barbara County,Single Family Residential,1018.64,530401.32,708177.27,1891794.77
+1572,2015,Santa Barbara County,Townhouse,34.82,657931.82,652063.64,2552203.86
+1573,2016,Santa Barbara County,All Residential,1298.91,581613.64,747681.36,-117522.27
+1574,2016,Santa Barbara County,Condo/Co-op,148.91,556589.5,747681.36,465521.77
+1575,2016,Santa Barbara County,Multi-Family (2-4 Unit),37.18,945954.55,747681.36,1385112.68
+1576,2016,Santa Barbara County,Single Family Residential,1074.0,563000.0,747681.36,1945839.95
+1577,2016,Santa Barbara County,Townhouse,38.82,711386.36,693590.45,2664953.59
+1578,2017,Santa Barbara County,All Residential,1111.36,625943.18,743661.36,-70445.45
+1579,2017,Santa Barbara County,Condo/Co-op,132.64,568000.0,743661.36,530463.64
+1580,2017,Santa Barbara County,Multi-Family (2-4 Unit),36.09,1126750.0,743661.36,1622577.27
+1581,2017,Santa Barbara County,Single Family Residential,903.09,623595.45,743661.36,2250945.45
+1582,2017,Santa Barbara County,Townhouse,39.55,714909.09,681025.0,2978172.73
+1583,2018,Santa Barbara County,All Residential,1209.18,617300.0,757986.36,-98004.55
+1584,2018,Santa Barbara County,Condo/Co-op,158.82,606895.45,757986.36,517436.36
+1585,2018,Santa Barbara County,Multi-Family (2-4 Unit),37.09,755647.73,757986.36,1266402.27
+1586,2018,Santa Barbara County,Single Family Residential,950.18,604598.64,757986.36,1877864.55
+1587,2018,Santa Barbara County,Townhouse,63.09,730472.27,695531.82,2619382.27
+1588,2019,Santa Barbara County,All Residential,1149.27,656613.64,799678.18,-98791.82
+1589,2019,Santa Barbara County,Condo/Co-op,151.91,587809.09,799678.18,505971.82
+1590,2019,Santa Barbara County,Multi-Family (2-4 Unit),37.27,1109840.91,799678.18,1608449.09
+1591,2019,Santa Barbara County,Single Family Residential,913.55,658772.73,799678.18,2274949.09
+1592,2019,Santa Barbara County,Townhouse,46.55,803434.64,742860.0,3073611.0
+1593,2020,Santa Barbara County,All Residential,814.45,776681.82,929985.95,-114213.23
+1594,2020,Santa Barbara County,Condo/Co-op,99.45,652500.0,929985.95,593332.23
+1595,2020,Santa Barbara County,Multi-Family (2-4 Unit),26.73,1069886.36,929985.95,1623173.14
+1596,2020,Santa Barbara County,Single Family Residential,649.0,810863.64,929985.95,2439491.32
+1597,2020,Santa Barbara County,Townhouse,39.27,834377.36,855395.05,3288914.14
+1598,2021,Santa Barbara County,All Residential,490.0,905977.27,947331.82,14327.27
+1599,2021,Santa Barbara County,Condo/Co-op,56.18,750613.64,947331.82,809259.09
+1600,2021,Santa Barbara County,Multi-Family (2-4 Unit),19.09,1377090.91,947331.82,2163168.18
+1601,2021,Santa Barbara County,Single Family Residential,393.36,967500.0,947331.82,3132031.82
+1602,2021,Santa Barbara County,Townhouse,21.36,972022.73,872331.82,4100872.73
+1603,2022,Santa Barbara County,All Residential,622.0,1625000.0,2519000.0,-299000.0
+1604,2022,Santa Barbara County,Condo/Co-op,59.0,1355000.0,2519000.0,1711000.0
+1605,2022,Santa Barbara County,Multi-Family (2-4 Unit),24.0,2548750.0,2519000.0,3789750.0
+1606,2022,Santa Barbara County,Single Family Residential,517.0,1648000.0,2519000.0,5511250.0
+1607,2022,Santa Barbara County,Townhouse,22.0,1875500.0,1704000.0,7348250.0
+1608,2012,Santa Clara County,All Residential,2070.64,602689.45,682211.73,-57249.55
+1609,2012,Santa Clara County,Condo/Co-op,278.73,326045.45,682211.73,294250.45
+1610,2012,Santa Clara County,Multi-Family (2-4 Unit),76.0,738013.64,682211.73,1028400.45
+1611,2012,Santa Clara County,Single Family Residential,1537.09,684886.36,682211.73,1703059.55
+1612,2012,Santa Clara County,Townhouse,178.82,512186.0,638030.82,2225790.09
+1613,2013,Santa Clara County,All Residential,1775.64,737913.64,787949.0,-15944.45
+1614,2013,Santa Clara County,Condo/Co-op,269.36,442772.73,787949.0,453246.45
+1615,2013,Santa Clara County,Multi-Family (2-4 Unit),80.64,864918.18,787949.0,1316837.36
+1616,2013,Santa Clara County,Single Family Residential,1257.64,838636.36,787949.0,2146033.23
+1617,2013,Santa Clara County,Townhouse,168.0,636801.77,732049.0,2788993.68
+1618,2014,Santa Clara County,All Residential,1820.91,814454.55,872805.95,-18533.23
+1619,2014,Santa Clara County,Condo/Co-op,249.45,496636.36,872805.95,521921.32
+1620,2014,Santa Clara County,Multi-Family (2-4 Unit),72.36,981090.91,872805.95,1485012.23
+1621,2014,Santa Clara County,Single Family Residential,1337.82,927250.0,872805.95,2398125.86
+1622,2014,Santa Clara County,Townhouse,161.27,693494.77,809351.41,3103575.18
+1623,2015,Santa Clara County,All Residential,1791.82,912363.64,962030.73,-5667.09
+1624,2015,Santa Clara County,Condo/Co-op,218.36,579500.0,962030.73,610469.27
+1625,2015,Santa Clara County,Multi-Family (2-4 Unit),62.36,1076272.73,962030.73,1680651.09
+1626,2015,Santa Clara County,Single Family Residential,1366.45,1025739.45,962030.73,2685347.82
+1627,2015,Santa Clara County,Townhouse,144.64,778980.0,893939.82,3478916.0
+1628,2016,Santa Clara County,All Residential,2122.73,971886.36,1042097.27,-22710.91
+1629,2016,Santa Clara County,Condo/Co-op,329.73,630818.18,1042097.27,651061.82
+1630,2016,Santa Clara County,Multi-Family (2-4 Unit),69.09,1255681.82,1042097.27,1897652.73
+1631,2016,Santa Clara County,Single Family Residential,1539.27,1103068.18,1042097.27,2980766.36
+1632,2016,Santa Clara County,Townhouse,184.64,857977.27,963925.64,3855506.18
+1633,2017,Santa Clara County,All Residential,1355.64,1104909.09,1135787.77,21757.68
+1634,2017,Santa Clara County,Condo/Co-op,190.55,692750.0,1135787.77,750507.68
+1635,2017,Santa Clara County,Multi-Family (2-4 Unit),54.82,1408545.45,1135787.77,2154598.59
+1636,2017,Santa Clara County,Single Family Residential,1005.91,1267272.73,1135787.77,3408416.77
+1637,2017,Santa Clara County,Townhouse,104.36,981185.91,1054060.5,4400602.68
+1638,2018,Santa Clara County,All Residential,1763.55,1296727.27,1311169.91,49193.73
+1639,2018,Santa Clara County,Condo/Co-op,280.27,828118.18,1311169.91,952880.09
+1640,2018,Santa Clara County,Multi-Family (2-4 Unit),65.45,1598068.18,1311169.91,2519016.45
+1641,2018,Santa Clara County,Single Family Residential,1250.73,1436613.64,1311169.91,3933811.91
+1642,2018,Santa Clara County,Townhouse,167.09,1185795.45,1212260.82,5133061.91
+1643,2019,Santa Clara County,All Residential,2317.18,1227090.91,1322551.64,-31824.36
+1644,2019,Santa Clara County,Condo/Co-op,461.18,783590.91,1322551.64,812675.64
+1645,2019,Santa Clara County,Multi-Family (2-4 Unit),65.45,1581908.64,1322551.64,2374584.27
+1646,2019,Santa Clara County,Single Family Residential,1520.09,1364227.27,1322551.64,3711770.64
+1647,2019,Santa Clara County,Townhouse,270.45,1048740.82,1219915.27,4785643.27
+1648,2020,Santa Clara County,All Residential,1886.91,1318386.36,1413484.68,-31234.68
+1649,2020,Santa Clara County,Condo/Co-op,466.27,764615.68,1413484.68,802699.18
+1650,2020,Santa Clara County,Multi-Family (2-4 Unit),73.09,1645795.45,1413484.68,2424403.73
+1651,2020,Santa Clara County,Single Family Residential,1139.18,1490340.82,1413484.68,3886199.09
+1652,2020,Santa Clara County,Townhouse,208.36,1069272.73,1309030.14,4979380.91
+1653,2021,Santa Clara County,All Residential,1437.0,1488545.45,1507576.73,43241.45
+1654,2021,Santa Clara County,Condo/Co-op,381.27,801022.73,1507576.73,916082.36
+1655,2021,Santa Clara County,Multi-Family (2-4 Unit),67.91,1732340.91,1507576.73,2637968.73
+1656,2021,Santa Clara County,Single Family Residential,819.45,1742318.18,1507576.73,4351196.0
+1657,2021,Santa Clara County,Townhouse,168.36,1229840.91,1398576.73,5595491.45
+1658,2022,Santa Clara County,All Residential,1274.0,2880000.0,4092000.0,-492000.0
+1659,2022,Santa Clara County,Condo/Co-op,260.0,1535500.0,4092000.0,1988500.0
+1660,2022,Santa Clara County,Multi-Family (2-4 Unit),76.0,3284000.0,4092000.0,5285500.0
+1661,2022,Santa Clara County,Single Family Residential,800.0,3478000.0,4092000.0,8235500.0
+1662,2022,Santa Clara County,Townhouse,138.0,2453500.0,2745500.0,10885500.0
+1663,2012,Santa Cruz County,All Residential,687.27,500568.18,582322.59,-67822.59
+1664,2012,Santa Cruz County,Condo/Co-op,88.36,313450.0,582322.59,291695.59
+1665,2012,Santa Cruz County,Multi-Family (2-4 Unit),22.82,593250.0,582322.59,863581.95
+1666,2012,Santa Cruz County,Single Family Residential,528.0,550670.45,582322.59,1396070.59
+1667,2012,Santa Cruz County,Townhouse,48.09,351613.64,545872.59,1763679.68
+1668,2013,Santa Cruz County,All Residential,565.45,600636.36,703347.73,-79529.55
+1669,2013,Santa Cruz County,Condo/Co-op,84.55,381031.82,703347.73,326956.82
+1670,2013,Santa Cruz County,Multi-Family (2-4 Unit),21.18,744045.45,703347.73,1066456.82
+1671,2013,Santa Cruz County,Single Family Residential,432.18,650127.27,703347.73,1707625.36
+1672,2013,Santa Cruz County,Townhouse,27.55,446533.41,653350.0,2169024.32
+1673,2014,Santa Cruz County,All Residential,553.0,669568.18,753668.18,-52736.36
+1674,2014,Santa Cruz County,Condo/Co-op,66.73,428139.68,753668.18,415312.41
+1675,2014,Santa Cruz County,Multi-Family (2-4 Unit),22.0,860136.36,753668.18,1259630.59
+1676,2014,Santa Cruz County,Single Family Residential,433.64,728018.18,753668.18,1974012.41
+1677,2014,Santa Cruz County,Townhouse,30.64,506136.36,701077.27,2490921.5
+1678,2015,Santa Cruz County,All Residential,605.55,730361.36,819180.68,-53092.05
+1679,2015,Santa Cruz County,Condo/Co-op,73.91,467000.0,819180.68,429771.59
+1680,2015,Santa Cruz County,Multi-Family (2-4 Unit),21.09,959459.09,819180.68,1397276.14
+1681,2015,Santa Cruz County,Single Family Residential,482.64,783545.45,819180.68,2157417.05
+1682,2015,Santa Cruz County,Townhouse,27.91,582118.18,760180.68,2762303.41
+1683,2016,Santa Cruz County,All Residential,609.55,784093.0,870177.27,-37993.36
+1684,2016,Santa Cruz County,Condo/Co-op,73.45,522694.5,870177.27,534701.14
+1685,2016,Santa Cruz County,Multi-Family (2-4 Unit),17.09,941613.64,870177.27,1441860.23
+1686,2016,Santa Cruz County,Single Family Residential,480.27,858550.0,870177.27,2284687.09
+1687,2016,Santa Cruz County,Townhouse,38.73,631322.32,811177.27,2927096.18
+1688,2017,Santa Cruz County,All Residential,568.82,837081.82,935263.64,-60000.0
+1689,2017,Santa Cruz County,Condo/Co-op,66.55,557345.0,935263.64,551435.91
+1690,2017,Santa Cruz County,Multi-Family (2-4 Unit),20.6,1036480.5,944390.0,1707210.0
+1691,2017,Santa Cruz County,Single Family Residential,450.36,910909.09,935263.64,2361804.55
+1692,2017,Santa Cruz County,Townhouse,31.18,667136.36,867172.73,3047554.55
+1693,2018,Santa Cruz County,All Residential,614.45,883818.18,980181.64,-44999.82
+1694,2018,Santa Cruz County,Condo/Co-op,74.64,591936.36,985636.27,582845.55
+1695,2018,Santa Cruz County,Multi-Family (2-4 Unit),22.5,1180005.0,1000699.9,1882385.1
+1696,2018,Santa Cruz County,Single Family Residential,471.64,954068.18,980181.64,2584191.09
+1697,2018,Santa Cruz County,Townhouse,46.45,744863.64,909727.18,3337691.0
+1698,2019,Santa Cruz County,All Residential,649.45,892840.91,1009385.91,-66635.91
+1699,2019,Santa Cruz County,Condo/Co-op,75.36,601727.27,1009385.91,560182.27
+1700,2019,Santa Cruz County,Multi-Family (2-4 Unit),20.0,1182727.27,1009385.91,1742682.27
+1701,2019,Santa Cruz County,Single Family Residential,511.64,961613.64,1009385.91,2696977.73
+1702,2019,Santa Cruz County,Townhouse,42.45,730136.36,927658.64,3441386.82
+1703,2020,Santa Cruz County,All Residential,490.55,970569.23,1075954.55,-56748.95
+1704,2020,Santa Cruz County,Condo/Co-op,70.82,631136.36,1075954.55,625955.59
+1705,2020,Santa Cruz County,Multi-Family (2-4 Unit),14.8,1276576.0,1093650.0,2032302.15
+1706,2020,Santa Cruz County,Single Family Residential,358.27,1061636.36,1075954.55,2824047.41
+1707,2020,Santa Cruz County,Townhouse,46.55,830931.82,996409.09,3658388.32
+1708,2021,Santa Cruz County,All Residential,337.73,1138295.45,1200408.36,-9749.27
+1709,2021,Santa Cruz County,Condo/Co-op,37.73,700090.91,1200408.36,764909.82
+1710,2021,Santa Cruz County,Multi-Family (2-4 Unit),10.64,1620875.0,1200408.36,2359762.09
+1711,2021,Santa Cruz County,Single Family Residential,270.0,1296159.09,1200408.36,3632330.27
+1712,2021,Santa Cruz County,Townhouse,19.36,878159.09,1118681.09,4514898.45
+1713,2022,Santa Cruz County,All Residential,321.0,2395000.0,3385000.0,-140000.0
+1714,2022,Santa Cruz County,Condo/Co-op,29.0,1570000.0,3473000.0,1812000.0
+1715,2022,Santa Cruz County,Multi-Family (2-4 Unit),8.0,1320000.0,2286000.0,4214000.0
+1716,2022,Santa Cruz County,Single Family Residential,250.0,2595000.0,3385000.0,5457500.0
+1717,2022,Santa Cruz County,Townhouse,28.0,1912500.0,2286000.0,7506500.0
+1718,2012,Solano County,All Residential,877.09,210112.05,238511.32,-20717.45
+1719,2012,Solano County,Condo/Co-op,80.36,91412.59,238511.32,76864.77
+1720,2012,Solano County,Multi-Family (2-4 Unit),32.09,210374.14,238511.32,290569.27
+1721,2012,Solano County,Single Family Residential,763.55,218886.36,221056.77,516364.73
+1722,2012,Solano County,Townhouse,1.0,73000.0,0.0,8111636.5
+1723,2013,Solano County,All Residential,601.82,282338.68,313745.45,-23024.95
+1724,2013,Solano County,Condo/Co-op,51.91,130127.27,313745.45,124175.05
+1725,2013,Solano County,Multi-Family (2-4 Unit),39.36,282625.0,313745.45,402254.59
+1726,2013,Solano County,Single Family Residential,510.36,292636.36,293268.18,706740.95
+1727,2013,Solano County,Townhouse,0.0,233100.0,0.0,11098100.5
+1728,2014,Solano County,All Residential,871.18,332368.18,374211.36,-26843.18
+1729,2014,Solano County,Condo/Co-op,79.64,176809.09,374211.36,154715.91
+1730,2014,Solano County,Multi-Family (2-4 Unit),44.64,321972.73,374211.36,483711.36
+1731,2014,Solano County,Single Family Residential,746.82,341252.27,347029.55,831736.36
+1732,2014,Solano County,Townhouse,0.0,70000.0,0.0,12966425.0
+1733,2015,Solano County,All Residential,1086.82,369118.18,411226.86,-30299.59
+1734,2015,Solano County,Condo/Co-op,72.09,221268.18,411226.86,221068.59
+1735,2015,Solano County,Multi-Family (2-4 Unit),52.0,381440.91,411226.86,589236.77
+1736,2015,Solano County,Single Family Residential,962.73,376681.82,382454.14,997554.95
+1737,2015,Solano County,Townhouse,0.0,346500.0,0.0,15180100.0
+1738,2016,Solano County,All Residential,1012.82,408772.73,447390.64,-20981.55
+1739,2016,Solano County,Condo/Co-op,58.45,230818.18,447390.64,228563.91
+1740,2016,Solano County,Multi-Family (2-4 Unit),51.36,466000.0,447390.64,690473.0
+1741,2016,Solano County,Single Family Residential,903.0,417840.91,414527.0,1108904.82
+1742,2017,Solano County,All Residential,846.82,437636.36,482430.55,-20430.55
+1743,2017,Solano County,Condo/Co-op,61.45,265863.64,482430.55,261978.55
+1744,2017,Solano County,Multi-Family (2-4 Unit),33.36,493909.09,482430.55,749664.91
+1745,2017,Solano County,Single Family Residential,752.0,444436.36,482657.82,1195733.09
+1746,2017,Solano County,Townhouse,0.0,402000.0,405000.0,18057300.0
+1747,2018,Solano County,All Residential,948.18,473277.27,514945.91,-14850.45
+1748,2018,Solano County,Condo/Co-op,59.82,309277.27,514945.91,316881.36
+1749,2018,Solano County,Multi-Family (2-4 Unit),40.73,621000.0,514945.91,927245.0
+1750,2018,Solano County,Single Family Residential,847.55,481431.82,475855.0,1428222.27
+1751,2018,Solano County,Townhouse,0.0,210000.0,0.0,20944850.0
+1752,2019,Solano County,All Residential,998.73,478886.36,529795.45,-27409.09
+1753,2019,Solano County,Condo/Co-op,75.09,308250.0,529795.45,296886.36
+1754,2019,Solano County,Multi-Family (2-4 Unit),45.45,532318.18,529795.45,827840.91
+1755,2019,Solano County,Single Family Residential,878.18,486036.36,490259.09,1338413.64
+1756,2019,Solano County,Townhouse,0.0,255000.0,0.0,20115400.0
+1757,2020,Solano County,All Residential,690.91,523068.18,564661.36,-15911.36
+1758,2020,Solano County,Condo/Co-op,68.45,330113.64,564661.36,351702.27
+1759,2020,Solano County,Multi-Family (2-4 Unit),40.18,698386.36,564661.36,1028270.45
+1760,2020,Solano County,Single Family Residential,581.91,531750.0,523752.27,1589111.36
+1761,2020,Solano County,Townhouse,0.0,325000.0,0.0,23241500.0
+1762,2021,Solano County,All Residential,657.82,597318.18,633768.18,-3268.18
+1763,2021,Solano County,Condo/Co-op,42.27,374409.09,633768.18,391140.91
+1764,2021,Solano County,Multi-Family (2-4 Unit),36.45,722772.27,633768.18,1107322.27
+1765,2021,Solano County,Single Family Residential,572.09,610090.91,635313.64,1706549.55
+1766,2021,Solano County,Townhouse,7.6,513150.0,598645.0,2449554.5
+1767,2022,Solano County,All Residential,783.0,1150000.0,1730000.0,-250000.0
+1768,2022,Solano County,Condo/Co-op,61.0,664750.0,1730000.0,649750.0
+1769,2022,Solano County,Multi-Family (2-4 Unit),41.0,1152500.0,1730000.0,1816250.0
+1770,2022,Solano County,Single Family Residential,667.0,1184000.0,1730000.0,2956250.0
+1771,2022,Solano County,Townhouse,14.0,1130000.0,1155000.0,4126250.0
+1772,2012,Sonoma County,All Residential,1165.0,358613.64,412090.45,-41567.73
+1773,2012,Sonoma County,Condo/Co-op,98.55,171563.64,412090.45,152132.27
+1774,2012,Sonoma County,Multi-Family (2-4 Unit),167.0,463995.45,412090.45,610718.64
+1775,2012,Sonoma County,Single Family Residential,899.09,375181.82,415271.82,969446.36
+1776,2012,Sonoma County,Townhouse,0.0,169000.0,349995.0,14881905.0
+1777,2013,Sonoma County,All Residential,907.45,443363.64,498727.27,-36272.73
+1778,2013,Sonoma County,Condo/Co-op,68.45,244840.91,498727.27,225204.55
+1779,2013,Sonoma County,Multi-Family (2-4 Unit),123.45,559236.36,498727.27,781440.91
+1780,2013,Sonoma County,Single Family Residential,715.55,461009.09,464209.09,1244240.91
+1781,2014,Sonoma County,All Residential,909.45,496363.64,555045.45,-36954.55
+1782,2014,Sonoma County,Condo/Co-op,70.27,288381.82,555045.45,279972.73
+1783,2014,Sonoma County,Multi-Family (2-4 Unit),109.09,701022.73,555045.45,972018.18
+1784,2014,Sonoma County,Single Family Residential,730.09,515996.59,515954.55,1485810.23
+1785,2015,Sonoma County,All Residential,1151.09,545399.45,612447.73,-42980.09
+1786,2015,Sonoma County,Condo/Co-op,99.45,321690.91,612447.73,313506.27
+1787,2015,Sonoma County,Multi-Family (2-4 Unit),148.64,775204.55,612447.73,1072983.55
+1788,2015,Sonoma County,Single Family Residential,902.73,565159.09,568879.55,1638574.45
+1789,2016,Sonoma County,All Residential,1206.36,596302.27,660986.32,-38729.5
+1790,2016,Sonoma County,Condo/Co-op,120.45,357818.18,660986.32,359588.68
+1791,2016,Sonoma County,Multi-Family (2-4 Unit),159.91,813909.09,660986.32,1157043.23
+1792,2016,Sonoma County,Single Family Residential,925.27,619795.45,614622.68,1773202.32
+1793,2017,Sonoma County,All Residential,1089.64,650819.41,723068.18,-41794.23
+1794,2017,Sonoma County,Condo/Co-op,88.18,399954.55,723068.18,405887.59
+1795,2017,Sonoma County,Multi-Family (2-4 Unit),144.18,899431.82,723068.18,1279319.41
+1796,2017,Sonoma County,Single Family Residential,857.0,672955.32,670795.45,2000092.91
+1797,2017,Sonoma County,Townhouse,0.0,575250.0,0.0,15002636.0
+1798,2018,Sonoma County,All Residential,1274.82,697307.82,756713.64,-24860.36
+1799,2018,Sonoma County,Condo/Co-op,115.0,428454.55,756713.64,437457.82
+1800,2018,Sonoma County,Multi-Family (2-4 Unit),153.91,979454.55,756713.64,1408548.73
+1801,2018,Sonoma County,Single Family Residential,1005.91,710836.23,698577.27,2117475.86
+1802,2019,Sonoma County,All Residential,1427.0,681363.64,770031.82,-55940.91
+1803,2019,Sonoma County,Condo/Co-op,146.0,400068.18,770031.82,398763.64
+1804,2019,Sonoma County,Multi-Family (2-4 Unit),162.82,970863.64,770031.82,1339081.82
+1805,2019,Sonoma County,Single Family Residential,1117.91,697314.55,714122.73,2105487.27
+1806,2019,Sonoma County,Townhouse,0.0,1590000.0,0.0,31835710.0
+1807,2020,Sonoma County,All Residential,1286.09,726090.91,808659.09,-50295.45
+1808,2020,Sonoma County,Condo/Co-op,143.36,422136.36,808659.09,410704.55
+1809,2020,Sonoma County,Multi-Family (2-4 Unit),156.91,1018795.45,808659.09,1417454.55
+1810,2020,Sonoma County,Single Family Residential,984.91,738954.55,813750.0,2136772.73
+1811,2020,Sonoma County,Townhouse,2.0,490000.0,695000.0,31760750.0
+1812,2021,Sonoma County,All Residential,1166.36,798084.32,855067.73,-19710.68
+1813,2021,Sonoma County,Condo/Co-op,94.91,450627.27,855067.73,474552.95
+1814,2021,Sonoma County,Multi-Family (2-4 Unit),84.64,1070931.82,855067.73,1526848.41
+1815,2021,Sonoma County,Single Family Residential,963.0,824112.64,858454.09,2318801.95
+1816,2021,Sonoma County,Townhouse,25.7,543550.0,804774.5,3196907.15
+1817,2022,Sonoma County,All Residential,1066.0,1569000.0,2297499.5,-295999.5
+1818,2022,Sonoma County,Condo/Co-op,71.0,889500.0,2297499.5,1261000.5
+1819,2022,Sonoma County,Multi-Family (2-4 Unit),68.0,2107500.0,2297499.5,3048500.5
+1820,2022,Sonoma County,Single Family Residential,899.0,1603000.0,2297499.5,4292500.5
+1821,2022,Sonoma County,Townhouse,28.0,888000.0,1548499.5,5508500.5
+1822,2013,Stanislaus County,All Residential,944.7,201895.0,238177.5,-27292.5
+1823,2013,Stanislaus County,Condo/Co-op,27.1,107565.0,238177.5,89932.5
+1824,2013,Stanislaus County,Multi-Family (2-4 Unit),36.2,187147.5,238177.5,273430.0
+1825,2013,Stanislaus County,Single Family Residential,880.9,206375.0,238177.5,487805.0
+1826,2013,Stanislaus County,Townhouse,0.33,155583.33,122554.17,1204666.67
+1827,2014,Stanislaus County,All Residential,1248.27,237522.73,272777.27,-22981.82
+1828,2014,Stanislaus County,Condo/Co-op,32.82,128750.0,272777.27,113040.91
+1829,2014,Stanislaus County,Multi-Family (2-4 Unit),53.18,224363.64,272777.27,336495.45
+1830,2014,Stanislaus County,Single Family Residential,1159.18,241704.55,272777.27,577745.45
+1831,2014,Stanislaus County,Townhouse,3.14,162492.86,230164.29,1240292.86
+1832,2015,Stanislaus County,All Residential,1318.36,264386.36,298350.0,-22600.0
+1833,2015,Stanislaus County,Condo/Co-op,33.64,144051.73,298350.0,129638.09
+1834,2015,Stanislaus County,Multi-Family (2-4 Unit),56.45,235195.45,298350.0,366192.64
+1835,2015,Stanislaus County,Single Family Residential,1227.45,267886.36,276077.27,649942.64
+1836,2015,Stanislaus County,Townhouse,1.14,268642.86,216864.29,1484167.0
+1837,2016,Stanislaus County,All Residential,1197.27,287136.36,321347.55,-21643.0
+1838,2016,Stanislaus County,Condo/Co-op,38.27,169545.45,321347.55,162697.91
+1839,2016,Stanislaus County,Multi-Family (2-4 Unit),53.18,266500.0,321347.55,423884.27
+1840,2016,Stanislaus County,Single Family Residential,1104.91,291368.18,323097.64,702179.64
+1841,2016,Stanislaus County,Townhouse,1.33,196666.67,275716.67,3640966.67
+1842,2017,Stanislaus County,All Residential,1033.36,310054.55,345958.18,-24582.91
+1843,2017,Stanislaus County,Condo/Co-op,35.36,187080.91,345958.18,177859.09
+1844,2017,Stanislaus County,Multi-Family (2-4 Unit),43.45,299264.45,345958.18,475805.36
+1845,2017,Stanislaus County,Single Family Residential,952.91,315613.64,347142.27,783016.73
+1846,2017,Stanislaus County,Townhouse,1.5,268725.0,296816.67,2010599.83
+1847,2018,Stanislaus County,All Residential,1101.27,335750.0,375179.36,-23429.36
+1848,2018,Stanislaus County,Condo/Co-op,36.64,216340.91,375179.36,205093.36
+1849,2018,Stanislaus County,Multi-Family (2-4 Unit),39.0,314840.91,375179.36,518570.64
+1850,2018,Stanislaus County,Single Family Residential,1023.18,340431.82,375179.36,852638.82
+1851,2018,Stanislaus County,Townhouse,2.83,262541.67,313691.33,2162350.33
+1852,2019,Stanislaus County,All Residential,1004.55,352500.0,394126.73,-24808.55
+1853,2019,Stanislaus County,Condo/Co-op,35.0,224954.55,394126.73,217873.27
+1854,2019,Stanislaus County,Multi-Family (2-4 Unit),36.82,354590.91,394126.73,565646.0
+1855,2019,Stanislaus County,Single Family Residential,929.0,356909.09,394126.73,913009.64
+1856,2019,Stanislaus County,Townhouse,3.7,226225.0,265659.4,1378415.6
+1857,2020,Stanislaus County,All Residential,602.64,388096.27,430954.55,-25131.0
+1858,2020,Stanislaus County,Condo/Co-op,26.36,232818.18,430954.55,219959.91
+1859,2020,Stanislaus County,Multi-Family (2-4 Unit),27.73,391772.73,430954.55,611732.64
+1860,2020,Stanislaus County,Single Family Residential,547.73,392477.27,400054.55,1033744.0
+1861,2020,Stanislaus County,Townhouse,0.86,288246.43,270835.71,2225526.29
+1862,2021,Stanislaus County,All Residential,471.0,457943.18,493631.82,-13961.36
+1863,2021,Stanislaus County,Condo/Co-op,13.64,271500.0,493631.82,268947.73
+1864,2021,Stanislaus County,Multi-Family (2-4 Unit),38.55,498454.55,493631.82,769265.91
+1865,2021,Stanislaus County,Single Family Residential,417.55,462613.64,493631.82,1218697.73
+1866,2021,Stanislaus County,Townhouse,1.22,363611.11,325877.78,2103913.89
+1867,2022,Stanislaus County,All Residential,611.0,899000.0,1369000.0,-170000.0
+1868,2022,Stanislaus County,Condo/Co-op,7.0,560000.0,1369000.0,565000.0
+1869,2022,Stanislaus County,Multi-Family (2-4 Unit),62.0,1019000.0,1369000.0,1559000.0
+1870,2022,Stanislaus County,Single Family Residential,542.0,910000.0,919500.0,2743500.0
+1871,2022,Stanislaus County,Townhouse,0.0,275000.0,0.0,3663000.0
+1872,2012,Sutter County,All Residential,2.18,170272.73,73163.64,110063.64
+1873,2012,Sutter County,Single Family Residential,2.18,170272.73,73163.64,267381.82
+1874,2013,Sutter County,All Residential,2.27,210545.45,277822.68,-52277.23
+1875,2013,Sutter County,Single Family Residential,2.27,210545.45,250559.05,170531.86
+1876,2014,Sutter County,All Residential,2.18,233159.09,90445.45,153168.18
+1877,2014,Sutter County,Condo/Co-op,0.0,115000.0,179000.0,2688750.0
+1878,2014,Sutter County,Single Family Residential,2.18,233977.27,90445.45,387145.45
+1879,2015,Sutter County,All Residential,1.18,247590.91,64227.27,199727.27
+1880,2015,Sutter County,Condo/Co-op,0.0,180000.0,0.0,3157500.0
+1881,2015,Sutter County,Single Family Residential,1.18,247613.64,64227.27,447340.91
+1882,2016,Sutter County,All Residential,2.18,286363.64,342749.95,-45931.77
+1883,2016,Sutter County,Condo/Co-op,0.0,115000.0,0.0,3465000.0
+1884,2016,Sutter County,Multi-Family (2-4 Unit),0.0,595000.0,0.0,4230000.0
+1885,2016,Sutter County,Single Family Residential,2.18,287681.82,342749.95,295840.95
+1886,2017,Sutter County,All Residential,1.73,297554.55,260590.91,43827.27
+1887,2017,Sutter County,Condo/Co-op,0.0,75500.0,0.0,3666600.0
+1888,2017,Sutter County,Multi-Family (2-4 Unit),0.0,318000.0,0.0,3912600.0
+1889,2017,Sutter County,Single Family Residential,1.27,297918.18,237863.64,393381.82
+1890,2018,Sutter County,All Residential,1.18,326631.82,76727.27,260268.18
+1891,2018,Sutter County,Condo/Co-op,0.0,234750.0,0.0,2581225.0
+1892,2018,Sutter County,Multi-Family (2-4 Unit),0.0,1100000.0,0.0,5432450.0
+1893,2018,Sutter County,Single Family Residential,1.18,326813.64,76727.27,719400.0
+1894,2019,Sutter County,All Residential,1.64,337090.91,87631.82,256822.73
+1895,2019,Sutter County,Condo/Co-op,0.0,191333.33,0.0,1509000.0
+1896,2019,Sutter County,Multi-Family (2-4 Unit),0.0,245000.0,0.0,4802000.0
+1897,2019,Sutter County,Single Family Residential,1.64,338568.18,87631.82,662481.82
+1898,2020,Sutter County,All Residential,0.78,394833.33,146250.0,269694.44
+1899,2020,Sutter County,Condo/Co-op,0.0,401500.0,0.0,4245000.0
+1900,2020,Sutter County,Multi-Family (2-4 Unit),0.0,451666.67,0.0,1843333.33
+1901,2020,Sutter County,Single Family Residential,0.78,399000.0,146250.0,842750.0
+1902,2021,Sutter County,All Residential,61.27,442272.73,481254.55,-29436.36
+1903,2021,Sutter County,Condo/Co-op,0.38,200750.0,314368.75,546381.25
+1904,2021,Sutter County,Multi-Family (2-4 Unit),6.78,405638.89,410977.78,759327.78
+1905,2021,Sutter County,Single Family Residential,55.18,451409.09,481254.55,912495.45
+1906,2021,Sutter County,Townhouse,0.0,244000.0,0.0,15331250.0
+1907,2022,Sutter County,All Residential,118.0,836750.0,1297350.0,-47600.0
+1908,2022,Sutter County,Condo/Co-op,3.0,413000.0,862400.0,687350.0
+1909,2022,Sutter County,Multi-Family (2-4 Unit),11.0,825000.0,1289850.0,1199900.0
+1910,2022,Sutter County,Single Family Residential,102.0,840000.0,862400.0,2052350.0
+1911,2012,Ventura County,All Residential,1835.45,396440.91,455940.91,-43145.45
+1912,2012,Ventura County,Condo/Co-op,245.64,225581.82,455940.91,199081.82
+1913,2012,Ventura County,Multi-Family (2-4 Unit),30.36,449831.82,455940.91,650413.64
+1914,2012,Ventura County,Single Family Residential,1413.82,447000.0,455940.91,1090045.45
+1915,2012,Ventura County,Townhouse,145.64,311486.36,423213.64,1407127.27
+1916,2013,Ventura County,All Residential,1361.36,483872.73,549265.91,-45938.64
+1917,2013,Ventura County,Condo/Co-op,168.27,291360.77,549265.91,259922.14
+1918,2013,Ventura County,Multi-Family (2-4 Unit),24.55,495181.82,549265.91,758876.68
+1919,2013,Ventura County,Single Family Residential,1070.09,537000.0,549265.91,1284322.14
+1920,2013,Ventura County,Townhouse,98.45,370614.86,510629.55,1667400.64
+1921,2014,Ventura County,All Residential,1917.73,521207.36,590377.18,-41897.09
+1922,2014,Ventura County,Condo/Co-op,260.0,323772.73,590377.18,293693.82
+1923,2014,Ventura County,Multi-Family (2-4 Unit),39.36,659568.18,590377.18,960534.73
+1924,2014,Ventura County,Single Family Residential,1467.36,582045.45,590377.18,1529443.82
+1925,2014,Ventura County,Townhouse,151.0,413977.27,546786.32,1953784.68
+1926,2015,Ventura County,All Residential,1915.09,556276.45,622963.45,-40005.18
+1927,2015,Ventura County,Condo/Co-op,231.64,351681.82,622963.45,325903.91
+1928,2015,Ventura County,Multi-Family (2-4 Unit),52.0,612434.09,622963.45,947838.0
+1929,2015,Ventura County,Single Family Residential,1487.55,622386.36,622963.45,1556633.45
+1930,2015,Ventura County,Townhouse,143.91,439454.55,577515.73,2004717.55
+1931,2016,Ventura County,All Residential,1949.18,583931.82,651729.55,-37797.73
+1932,2016,Ventura County,Condo/Co-op,254.73,375095.45,651729.55,372752.27
+1933,2016,Ventura County,Multi-Family (2-4 Unit),51.45,693154.55,651729.55,1055452.27
+1934,2016,Ventura County,Single Family Residential,1517.55,651063.18,651729.55,1690151.82
+1935,2016,Ventura County,Townhouse,125.45,464026.82,603547.73,2163724.09
+1936,2017,Ventura County,All Residential,1656.0,621545.45,687272.14,-34022.14
+1937,2017,Ventura County,Condo/Co-op,209.45,410159.09,687272.14,400068.77
+1938,2017,Ventura County,Multi-Family (2-4 Unit),39.36,691704.55,687272.14,1090455.14
+1939,2017,Ventura County,Single Family Residential,1289.91,684227.27,687272.14,1757682.41
+1940,2017,Ventura County,Townhouse,117.27,495318.18,637281.23,2265673.32
+1941,2018,Ventura County,All Residential,1882.36,651681.82,721058.86,-35740.68
+1942,2018,Ventura County,Condo/Co-op,267.91,432800.0,721058.86,427968.41
+1943,2018,Ventura County,Multi-Family (2-4 Unit),38.45,756418.18,721058.86,1179841.14
+1944,2018,Ventura County,Single Family Residential,1439.09,712590.91,721058.86,1875977.5
+1945,2018,Ventura County,Townhouse,136.91,528563.64,666515.41,2415539.14
+1946,2019,Ventura County,All Residential,2354.0,654931.82,733981.82,-42050.0
+1947,2019,Ventura County,Condo/Co-op,366.36,441068.18,733981.82,425200.0
+1948,2019,Ventura County,Multi-Family (2-4 Unit),46.64,810227.27,733981.82,1228518.18
+1949,2019,Ventura County,Single Family Residential,1746.09,710090.91,733981.82,1927518.18
+1950,2019,Ventura County,Townhouse,194.91,542302.09,677618.18,2481002.09
+1951,2020,Ventura County,All Residential,1777.27,712090.91,780936.36,-31118.18
+1952,2020,Ventura County,Condo/Co-op,288.18,469000.0,780936.36,485518.18
+1953,2020,Ventura County,Multi-Family (2-4 Unit),34.27,879840.91,780936.36,1339995.45
+1954,2020,Ventura County,Single Family Residential,1306.91,780045.45,780936.36,2109677.27
+1955,2020,Ventura County,Townhouse,147.91,564636.36,723754.55,2681859.09
+1956,2021,Ventura County,All Residential,1267.18,830381.82,889899.91,-18154.45
+1957,2021,Ventura County,Condo/Co-op,167.82,525863.64,889899.91,540254.64
+1958,2021,Ventura County,Multi-Family (2-4 Unit),29.0,881863.64,889899.91,1416845.55
+1959,2021,Ventura County,Single Family Residential,969.64,900318.18,889899.91,2299436.45
+1960,2021,Ventura County,Townhouse,100.73,649000.0,826272.64,2961154.64
+1961,2022,Ventura County,All Residential,1566.0,1611500.0,2398554.0,-277054.0
+1962,2022,Ventura County,Condo/Co-op,254.0,1039000.0,2398554.0,1321946.0
+1963,2022,Ventura County,Multi-Family (2-4 Unit),22.0,2042500.0,2398554.0,3154446.0
+1964,2022,Ventura County,Single Family Residential,1143.0,1760000.0,2398554.0,4714446.0
+1965,2022,Ventura County,Townhouse,147.0,1292500.0,1598777.0,6146723.0
+1966,2012,Yolo County,All Residential,497.91,251050.68,290849.95,-27081.09
+1967,2012,Yolo County,Condo/Co-op,33.09,151559.09,290849.95,131078.0
+1968,2012,Yolo County,Multi-Family (2-4 Unit),18.73,257415.27,290849.95,386993.27
+1969,2012,Yolo County,Single Family Residential,444.82,259136.36,293481.77,660679.64
+1970,2012,Yolo County,Townhouse,1.0,405000.0,124200.0,5336187.75
+1971,2013,Yolo County,All Residential,315.18,314331.82,358675.68,-29162.05
+1972,2013,Yolo County,Condo/Co-op,20.55,203604.55,358675.68,170169.77
+1973,2013,Yolo County,Multi-Family (2-4 Unit),9.82,401495.45,330357.5,612256.14
+1974,2013,Yolo County,Single Family Residential,284.36,322113.64,334591.45,923590.36
+1975,2013,Yolo County,Townhouse,0.75,267375.0,161868.75,3519756.25
+1976,2014,Yolo County,All Residential,365.55,358181.36,405159.05,-27977.68
+1977,2014,Yolo County,Condo/Co-op,23.36,230104.55,405159.05,251308.68
+1978,2014,Yolo County,Multi-Family (2-4 Unit),10.55,427909.09,374259.05,668691.41
+1979,2014,Yolo County,Single Family Residential,329.73,369221.73,375886.32,1018257.68
+1980,2014,Yolo County,Townhouse,1.67,337000.0,247333.33,5169528.0
+1981,2015,Yolo County,All Residential,349.36,394436.36,444127.27,-33554.55
+1982,2015,Yolo County,Condo/Co-op,22.0,252500.0,444127.27,257263.64
+1983,2015,Yolo County,Multi-Family (2-4 Unit),16.78,564833.33,460722.22,928361.11
+1984,2015,Yolo County,Single Family Residential,309.27,403883.86,412427.27,1120574.77
+1985,2015,Yolo County,Townhouse,2.0,312375.0,283812.5,4189193.12
+1986,2016,Yolo County,All Residential,335.82,416772.73,468256.77,-29347.68
+1987,2016,Yolo County,Condo/Co-op,18.36,285250.0,468256.77,286493.23
+1988,2016,Yolo County,Multi-Family (2-4 Unit),15.6,511273.85,434737.45,883761.4
+1989,2016,Yolo County,Single Family Residential,301.82,425918.18,468256.77,1145842.18
+1990,2016,Yolo County,Townhouse,0.75,331750.0,188812.5,4522959.62
+1991,2017,Yolo County,All Residential,289.18,446818.18,490372.14,-18985.77
+1992,2017,Yolo County,Condo/Co-op,11.0,326000.0,490372.14,317491.5
+1993,2017,Yolo County,Multi-Family (2-4 Unit),11.91,595645.45,490372.14,912636.95
+1994,2017,Yolo County,Single Family Residential,265.64,455068.18,494990.32,1363041.5
+1995,2017,Yolo County,Townhouse,1.33,450333.33,283766.67,6852850.0
+1996,2018,Yolo County,All Residential,327.91,472636.36,528577.64,-28214.0
+1997,2018,Yolo County,Condo/Co-op,23.0,364568.18,528577.64,444263.27
+1998,2018,Yolo County,Multi-Family (2-4 Unit),11.09,686622.73,528577.64,1031704.18
+1999,2018,Yolo County,Single Family Residential,293.36,480409.09,489486.73,1548386.0
+2000,2018,Yolo County,Townhouse,0.67,458333.33,307221.67,7499978.33
+2001,2019,Yolo County,All Residential,357.45,488377.95,546163.55,-22331.05
+2002,2019,Yolo County,Condo/Co-op,28.73,399009.09,546163.55,379628.05
+2003,2019,Yolo County,Multi-Family (2-4 Unit),8.09,509222.68,546163.55,889991.64
+2004,2019,Yolo County,Single Family Residential,320.09,495838.41,504459.05,1417989.09
+2005,2019,Yolo County,Townhouse,0.0,577500.0,0.0,21394429.5
+2006,2020,Yolo County,All Residential,275.36,521272.73,578630.27,-30254.64
+2007,2020,Yolo County,Condo/Co-op,26.18,398693.82,578630.27,383609.0
+2008,2020,Yolo County,Multi-Family (2-4 Unit),9.2,525500.0,584733.6,995979.1
+2009,2020,Yolo County,Single Family Residential,238.73,528654.09,536903.0,1418535.82
+2010,2020,Yolo County,Townhouse,1.33,349666.67,171650.0,7241292.33
+2011,2021,Yolo County,All Residential,176.09,598745.45,644164.36,-12850.73
+2012,2021,Yolo County,Condo/Co-op,16.27,438017.27,644164.36,466416.55
+2013,2021,Yolo County,Multi-Family (2-4 Unit),9.91,760045.45,644164.36,1196734.73
+2014,2021,Yolo County,Single Family Residential,147.73,608409.09,644164.36,1812416.55
+2015,2021,Yolo County,Townhouse,2.1,606958.7,552235.8,2700461.9
+2016,2022,Yolo County,All Residential,194.0,1145000.0,1843000.0,-261000.0
+2017,2022,Yolo County,Condo/Co-op,15.0,911500.0,1843000.0,698500.0
+2018,2022,Yolo County,Multi-Family (2-4 Unit),11.0,937000.0,1843000.0,1685500.0
+2019,2022,Yolo County,Single Family Residential,166.0,1178000.0,1843000.0,2713500.0
+2020,2022,Yolo County,Townhouse,2.0,790000.0,1244000.0,3717500.0
+2021,2012,Yuba County,All Residential,3.0,172754.55,105963.18,69336.82
+2022,2012,Yuba County,Condo/Co-op,0.0,28000.0,0.0,2453300.0
+2023,2012,Yuba County,Multi-Family (2-4 Unit),0.0,575000.0,0.0,2663050.0
+2024,2012,Yuba County,Single Family Residential,3.0,173254.55,105963.18,294864.09
+2025,2013,Yuba County,All Residential,3.91,220140.91,173949.91,75281.91
+2026,2013,Yuba County,Multi-Family (2-4 Unit),0.0,685000.0,350000.0,2971550.0
+2027,2013,Yuba County,Single Family Residential,3.91,220027.27,173949.91,328491.0
+2028,2014,Yuba County,All Residential,5.0,241390.91,321213.59,-65731.77
+2029,2014,Yuba County,Multi-Family (2-4 Unit),0.0,402500.0,0.0,1837650.0
+2030,2014,Yuba County,Single Family Residential,5.0,240850.0,321213.59,234209.14
+2031,2015,Yuba County,All Residential,4.18,255772.73,186249.91,75886.45
+2032,2015,Yuba County,Multi-Family (2-4 Unit),0.0,290000.0,0.0,3335000.0
+2033,2015,Yuba County,Single Family Residential,4.18,255909.09,186249.91,351795.55
+2034,2016,Yuba County,All Residential,2.36,276613.64,348162.73,-42458.18
+2035,2016,Yuba County,Multi-Family (2-4 Unit),0.0,382333.33,0.0,1479916.67
+2036,2016,Yuba County,Single Family Residential,2.36,277159.09,298253.64,359791.82
+2037,2017,Yuba County,All Residential,1.55,296295.45,111181.82,195204.55
+2038,2017,Yuba County,Condo/Co-op,0.0,111000.0,0.0,3470250.0
+2039,2017,Yuba County,Multi-Family (2-4 Unit),0.0,252666.67,0.0,1456083.33
+2040,2017,Yuba County,Single Family Residential,1.55,297022.73,111181.82,561136.36
+2041,2018,Yuba County,All Residential,1.91,301459.09,155568.18,158618.18
+2042,2018,Yuba County,Condo/Co-op,0.0,140000.0,0.0,3906050.0
+2043,2018,Yuba County,Multi-Family (2-4 Unit),0.0,545000.0,0.0,1772016.67
+2044,2018,Yuba County,Single Family Residential,1.91,301413.64,155568.18,608668.18
+2045,2019,Yuba County,All Residential,16.36,343309.09,320954.55,33945.45
+2046,2019,Yuba County,Condo/Co-op,0.0,260000.0,0.0,4116400.0
+2047,2019,Yuba County,Multi-Family (2-4 Unit),0.17,359041.67,100300.0,981466.67
+2048,2019,Yuba County,Single Family Residential,16.18,344209.09,320954.55,586040.91
+2049,2020,Yuba County,All Residential,9.91,363195.45,356210.91,19257.27
+2050,2020,Yuba County,Condo/Co-op,0.0,143000.0,0.0,1594716.67
+2051,2020,Yuba County,Multi-Family (2-4 Unit),0.0,426250.0,63325.0,1155283.33
+2052,2020,Yuba County,Single Family Residential,9.91,364840.91,356210.91,643325.45
+2053,2021,Yuba County,All Residential,85.45,434859.09,468101.73,-22788.09
+2054,2021,Yuba County,Condo/Co-op,1.0,167625.0,212487.5,1211000.0
+2055,2021,Yuba County,Multi-Family (2-4 Unit),8.2,416240.0,353960.0,647675.0
+2056,2021,Yuba County,Single Family Residential,77.36,438396.95,468101.73,858054.32
+2057,2021,Yuba County,Townhouse,0.0,149000.0,0.0,14587716.5
+2058,2022,Yuba County,All Residential,166.0,851500.0,1285000.0,-271500.0
+2059,2022,Yuba County,Condo/Co-op,0.0,162000.0,850000.0,582250.0
+2060,2022,Yuba County,Multi-Family (2-4 Unit),14.0,1028750.0,1265000.0,1177250.0
+2061,2022,Yuba County,Single Family Residential,151.0,851500.0,850000.0,2043750.0

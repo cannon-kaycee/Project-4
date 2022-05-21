@@ -3,7 +3,7 @@ import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
-
+import json
 from flask import Flask, jsonify, render_template
 
 engine = create_engine("sqlite:///Resources/california_housing.sqlite")
@@ -19,12 +19,19 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
-    return(
-        f"Available Routes:<br/>"
-        f"Seasonal: /api/v1.0/seasonal<br>"
-        f"County: /api/v1.0/county<br>"
-        f"CaHousing: /api/v1.0/CaHousing"
-    )
+    return render_template("index.html")
+    
+@app.route("/map")
+def map():
+    return render_template("map.html")
+
+@app.route("/history")
+def history():
+    return render_template("history.html")
+
+@app.route("/covid")
+def covid():
+    return render_template("covid.html")
 
 
 @app.route("/api/v1.0/seasonal")
@@ -93,8 +100,17 @@ def Ca():
 
        
         regions.append(Ca_df)
-
     return jsonify(regions)
+
+
+@app.route("/ca_housing_data")
+def housing():
+    with open('Resources/ca_county_data2.json', 'r') as f:
+        data=json.load(f)
+    return jsonify(data)
+
+
+   
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -1,0 +1,125 @@
+h1{
+        margin-top: 10px;
+        /* Put a 15-pixel margin at the bottom of the heading. */
+        margin-bottom: 5px;
+      }
+
+
+      .navbar{
+        background-color:goldenrod;
+    }
+    
+    body{
+        background-color: whitesmoke;
+    }
+    
+    .navbar-brand{
+        color:black;
+    }
+    
+    h1{
+        margin: 50px;
+    }
+    
+    .dropdown-item{
+     position: relative;
+     background-color: #F9F9F9;
+     min-width: 100px;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     z-index: 1;
+     float: auto;
+     color: black;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+     text-align: left;
+     margin-right:100px;
+    }
+    
+    h2{
+        text-align:center;
+    }
+    
+    .col{
+        display: grid;
+        place-items: center;
+        margin-top:25px;
+        margin-bottom: 25px;
+    }
+    
+    html {
+        height: 100%;
+      }
+      body {
+        min-height: 100%;
+      }
+    
+      p{
+        margin-left: 52px;
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+      }
+      
+      /* Set map, body, and html to 100% of the screen size. */
+      #map,
+      body,
+      html {
+        height: 100%;
+        width: 100%;
+      }
+      
+      .legend {
+        padding: 15px;
+        font-family: Helvetica, serif;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 25px;
+        color: #555;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      }
+      
+      .legend .all-residential {
+        color: #FF69B4
+        ;
+      }
+      
+      .legend .townhouse {
+        color: #8b0000 ;
+      }
+      
+      .legend .condo-coop {
+        color: #00008B;
+      }
+      
+      .legend .multi-family {
+        color: #ff8c00;
+      }
+      
+      .legend .single-family {
+        color: #039c4b ;
+      }
+      
+      .popupCustom .leaflet-popup-content-wrapper {
+        background:#2c3e50;
+        color:#fff;
+        font-size:18px;
+        line-height:24px;
+        font-family: Helvetica, serif;
+        }
+      .popupCustom .leaflet-popup-content-wrapper a {
+        color:rgba(255,255,255,0.5);
+        }
+      .popupCustom .leaflet-popup-tip-container {
+        width:30px;
+        height:15px;
+        }
+      .popupCustom .leaflet-popup-tip {
+        border-left:15px solid transparent;
+        border-right:15px solid transparent;
+        border-top:15px solid #2c3e50;
+        }
