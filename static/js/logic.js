@@ -85,7 +85,7 @@ var icons = {
 };
 
 // Define path for source data
-var CaliHousing = "Resources/ca_county_data2.json"
+var CaliHousing = "http://127.0.0.1:5000/ca_housing_data"
 
 // Initialize housingType, which will be used as a key to access the appropriate layers and icons for the layer group.
 var housingType;

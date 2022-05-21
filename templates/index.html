@@ -16,7 +16,7 @@
     crossorigin="anonymous"></script>
 
   <!-- Import AniJS -->
-  <script src="Tracy/anijs-min.js"></script>
+  <script src="{{ url_for('static', filename='js/anijs-min.js')}}"></script>
 
   <!-- AniCollection.css library -->
 
@@ -26,14 +26,14 @@
 
 
   <title>Homepage - CA Real Estate Data</title>
-  <link href="style.css" rel="stylesheet">
+  <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
 </head>
 
     <body>
 <!-- Start of navbar -->
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">Home</a>
+        <a class="navbar-brand" href="http://127.0.0.1:5000/">Home</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -43,19 +43,19 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="index.html" id="navbarDropdown" role="button"
+                <a class="nav-link dropdown-toggle" href="http://127.0.0.1:5000/" id="navbarDropdown" role="button"
                   data-bs-toggle="dropdown" aria-expanded="false">
                 Visualizations
               </a>
               <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">                
-                <li><a class="dropdown-item" href="Tracy/history.html">Past 10 Years</a></li>
-                <li><a class="dropdown-item" href="Kaycee/index.html">COVID Data</a></li>
-                <!-- <li><a class="dropdown-item" href="">Leaflet Map</a></li>
-                <li><a class="dropdown-item" href="">Machine Learning</a></li> -->
+                <li><a class="dropdown-item" href="http://127.0.0.1:5000/history">Past 10 Years</a></li>
+                <li><a class="dropdown-item" href="http://127.0.0.1:5000/covid">COVID Data</a></li>
+                <li><a class="dropdown-item" href="http://127.0.0.1:5000/map">Leaflet Map</a></li>
+                <li><a class="dropdown-item" href="">Machine Learning</a></li>
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="data.html">Data</a>
+              <a class="nav-link" href="http://127.0.0.1:5000/CaHousing">Data</a>
             </li>
               </ul>
         </div>
