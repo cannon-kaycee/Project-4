@@ -4,7 +4,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import json
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template,request
 
 engine = create_engine("sqlite:///Resources/california_housing.sqlite")
 Base = automap_base()
@@ -33,6 +33,21 @@ def history():
 def covid():
     return render_template("covid.html")
 
+@app.route("/predictions")
+def predictions():
+    return render_template("predictions.html")
+
+@app.route('/predictions', methods=['POST'])
+def predict_data():
+    Year = request.form['Year']
+    Month = request.form['Month']
+    County = request.form['County']
+    Property = request.form['Property']
+    Days = request.form['Days']
+    return render_template("predictions.html", result=[Year, Month, County, Property, Days])
+    
+    # your code
+    # return a response
 
 @app.route("/api/v1.0/seasonal")
 def seasonal():
