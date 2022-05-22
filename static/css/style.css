@@ -27,7 +27,7 @@ color:whitesmoke
 
 .names{
 color:whitesmoke;
-margin-left: 50px;
+margin-left: 90px;
 font-size: 20px
 }
 
@@ -36,11 +36,13 @@ border: 1px solid whitesmoke;
 padding-top:20px;
 padding-left:0
 }
+
 .col-7{
 border: 1px solid whitesmoke;
 margin-left:10px;
 padding-top:20px
 }
+
 .dropdown-item{
 position: relative;
 background-color: #F9F9F9;
@@ -75,7 +77,9 @@ body {
 }
 
 p{
-  margin-right: 60px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 20px;
   color:whitesmoke
 }
 
@@ -144,3 +148,12 @@ html {
   border-right:15px solid transparent;
   border-top:15px solid #2c3e50;
   }
+
+/* Four Card Decks */
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  color: black;
+}

@@ -29,7 +29,7 @@
   </head>
 
 
-  <title>Homepage - CA Real Estate Data</title>
+  <title>Homepage - California Housing Trends</title>
   <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
 </head>
 
@@ -67,7 +67,7 @@
   </nav>
   <!-- end of navbar -->
 
-  <!-- start of main page and sidebar -->
+  <!-- title & main Image -->
   <div class="container-fluid">
     <div class="row">
       <div class="col">
@@ -75,15 +75,72 @@
         <img src="https://ca-times.brightspotcdn.com/dims4/default/e71340b/2147483647/strip/true/crop/3000x2000+0+0/resize/1024x683!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2f%2F1e%2Ffd540a7e43db92852097f94e5eb5%2Fla-fi-mortgage-rates-housing-market-944974.jpg" height=400 width=800
           alt="Housing Data">
         <br>
-        <!-- <p>Team Members: Tracy Poon, Gregory Fujitani, Fred Oh, Samuel Ferreira, Kaycee Cannon </p> -->
-        <br>
       </div>
     </div>
   </div>
 
+  <!-- four card decks for contents summary -->
+  <div class="row row-cols-1 row-cols-md-4 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://cdn-icons-png.flaticon.com/512/888/888074.png" class="card-img-top" alt="barchart logo">
+        <div class="card-body">
+          <h5 class="card-title">Past 10 Years</h5>
+          <p class="card-text">
+            Avg. Sales Price ('12~'22).
+            Total Homes Sold ('12~'22).
+            Avg. Price-per-Sqft by Property Type. 
+            Avg. Inventory by County ('12~'22).
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">COVID Data</h5>
+          <p class="card-text">
+            Number of Homes Sold vs. Inventory ('19~22). 
+            Property Type Sold in '19.
+            Avg. List vs. Sales Price 
+            Avg. Sales by County ('19~22).
+            Avg. Sales by Region ('15~18).
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Leaflet Map</h5>
+          <p class="card-text">
+            Interactive visualization of california housing price 
+            in 2021 by county.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Machine Learning</h5>
+          <p class="card-text">
+            Implementation of Machine Learning for prediction of 
+            future california housing price using key factors.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- members intro & mission statement -->
   <div class="container-fluid">
     <div class="row">
-    <div class="col-1"></div>
+    <div class="col-1">
+    </div>
     <div class="col-3">
       <h3>Team Members:</h3>
       <ul class="names">
@@ -94,18 +151,18 @@
         <li>Kaycee Cannon</li>
       </ul>
     </div>
-  <div class="col-7">
-    <h3>Mission Statement</h3>
-    <br>
-    <p>The purpose of this project is to analyze California housing data over the last 10 years. We will examine the
-      trends for
-      the past three years in order to provide an in depth analysis that specifically demonstrates
-      the impact in the housing market during the years of COVID. We employed a machine learning model to
-      predict future trends for the coming years. Hosting the flask app.
-    </p>
+    <div class="col-7">
+      <h3>Mission Statement</h3>
+      <br>
+        <p>The purpose of this project is to analyze California housing data over the last 10 years. We will examine the
+        trends for the past three years in order to provide an in depth analysis that specifically demonstrates
+        the impact in the housing market during the years of COVID. We employed a machine learning model to
+        predict future trends for the coming years. Hosting the flask app.
+        </p>
+      <br>
+    </div>
   </div>
-</div>
-    <br>
+  <br>
 
 
 
