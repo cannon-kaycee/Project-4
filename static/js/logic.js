@@ -157,7 +157,8 @@ d3.json(CaliHousing).then(function (data) {
 // Show the legend's innerHTML
 function showLegend(){
   document.querySelector(".legend").innerHTML = [
-    "<p>Property Types : ",
+    "<p class='property-type'>Property Types : </p>",
+    "<hr>",
     "<p class='all-residential'>All Residential</p>",
     "<p class='townhouse'>Townhouse</p>",
     "<p class='condo-coop'>Condo/Co-op</p>",

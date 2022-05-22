@@ -22,8 +22,6 @@
 
   <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500" rel="stylesheet">
 
-  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Montserrat:300" rel="stylesheet">
-
   <head>
     <link rel="stylesheet" href="http://anijs.github.io/lib/anicollection/anicollection.css">
   </head>
@@ -55,11 +53,11 @@
                 <li><a class="dropdown-item" href="http://127.0.0.1:5000/history">Past 10 Years</a></li>
                 <li><a class="dropdown-item" href="http://127.0.0.1:5000/covid">COVID Data</a></li>
                 <li><a class="dropdown-item" href="http://127.0.0.1:5000/map">Leaflet Map</a></li>
-                <li><a class="dropdown-item" href="">Machine Learning</a></li>
+                <li><a class="dropdown-item" href="http://127.0.0.1:5000/predictions">Machine Learning</a></li>
               </ul>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="http://127.0.0.1:5000/CaHousing">Data</a>
+            <li class="nav-item data">
+              <a class="nav-link" href="http://127.0.0.1:5000/api/v1.0/CaHousing">Data</a>
             </li>
           </ul>
         </div>
@@ -72,20 +70,23 @@
     <div class="row">
       <div class="col">
         <h1>California Housing Trends</h1>
-        <img src="https://ca-times.brightspotcdn.com/dims4/default/e71340b/2147483647/strip/true/crop/3000x2000+0+0/resize/1024x683!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2f%2F1e%2Ffd540a7e43db92852097f94e5eb5%2Fla-fi-mortgage-rates-housing-market-944974.jpg" height=400 width=800
+        <img src="https://ca-times.brightspotcdn.com/dims4/default/e71340b/2147483647/strip/true/crop/3000x2000+0+0/resize/1024x683!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2f%2F1e%2Ffd540a7e43db92852097f94e5eb5%2Fla-fi-mortgage-rates-housing-market-944974.jpg" height=600 width=1000
           alt="Housing Data">
         <br>
       </div>
     </div>
   </div>
+  <br>
 
   <!-- four card decks for contents summary -->
   <div class="row row-cols-1 row-cols-md-4 g-4">
-    <div class="col">
-      <div class="card h-100">
-        <img src="https://cdn-icons-png.flaticon.com/512/888/888074.png" class="card-img-top" alt="barchart logo">
+    <div class="col first slideInLeft animated">
+      <div class="card h-100 w-75">
+        <img class="card-image" src="https://cdn-icons-png.flaticon.com/512/888/888074.png" class="card-img-top" alt="barchart logo">
         <div class="card-body">
+          <a href="http://127.0.0.1:5000/history" class="stretched-link"></a>
           <h5 class="card-title">Past 10 Years</h5>
+          <hr>
           <p class="card-text">
             Avg. Sales Price ('12~'22).
             Total Homes Sold ('12~'22).
@@ -95,11 +96,13 @@
         </div>
       </div>
     </div>
-    <div class="col">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+    <div class="col second slideInDown animated">
+      <div class="card h-100 w-75">
+        <img class="card-image" src="https://cdn-icons-png.flaticon.com/512/3616/3616838.png" class="card-img-top" alt="...">
         <div class="card-body">
+          <a href="http://127.0.0.1:5000/covid" class="stretched-link"></a>
           <h5 class="card-title">COVID Data</h5>
+          <hr>
           <p class="card-text">
             Number of Homes Sold vs. Inventory ('19~22). 
             Property Type Sold in '19.
@@ -110,23 +113,27 @@
         </div>
       </div>
     </div>
-    <div class="col">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+    <div class="col third slideInDown animated">
+      <div class="card h-100 w-75">
+        <img class="card-image" src="https://cdn.icon-icons.com/icons2/426/PNG/512/Map_1135px_1195280_42272.png" class="card-img-top" alt="...">
         <div class="card-body">
+          <a href="http://127.0.0.1:5000/map" class="stretched-link"></a>
           <h5 class="card-title">Leaflet Map</h5>
+          <hr>
           <p class="card-text">
-            Interactive visualization of california housing price 
-            in 2021 by county.
+            Interactive Visualization of California Housing Price 
+            in 2021 by County using Leaflet.
           </p>
         </div>
       </div>
     </div>
-    <div class="col">
-      <div class="card h-100">
-        <img src="..." class="card-img-top" alt="...">
+    <div class="col last slideInRight animated">
+      <div class="card h-100 w-75">
+        <img class="card-image" src="https://cdn-icons-png.flaticon.com/512/2103/2103562.png" class="card-img-top" alt="...">
         <div class="card-body">
+          <a href="http://127.0.0.1:5000/predictions" class="stretched-link"></a>
           <h5 class="card-title">Machine Learning</h5>
+          <hr>
           <p class="card-text">
             Implementation of Machine Learning for prediction of 
             future california housing price using key factors.
@@ -135,6 +142,8 @@
       </div>
     </div>
   </div>
+  <br>
+  <br>
 
   <!-- members intro & mission statement -->
   <div class="container-fluid">

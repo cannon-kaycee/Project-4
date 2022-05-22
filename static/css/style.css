@@ -1,3 +1,7 @@
+#navbarDropdown{
+  color: black;
+}
+
 .navbar{
   background-color:rgb(236, 155, 49);
 }
@@ -8,21 +12,18 @@ body{
   
 }
 
-.navbar-brand{
-  color:black;
-}
-
 h1{
   margin: 50px;
   text-align: center;
-  font-size: 90px;
-  font-weight: 350;
+  font-size: 110px;
+  font-weight: 400;
   color: whitesmoke;
 }
 
 h3{
 text-align: center;
-color:whitesmoke
+color:whitesmoke;
+font-weight: bold;
 }
 
 .names{
@@ -88,7 +89,7 @@ body {
   margin: 0;
 }
 
-/* Set map, body, and html to 100% of the screen size. */
+/* Leaflet Formatting */
 #map,
 body,
 html {
@@ -108,7 +109,11 @@ html {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
-.legend .all-residential {
+.property-type{
+  color:black;
+}
+
+.all-residential {
   color: #FF69B4
   ;
 }
@@ -150,10 +155,186 @@ html {
   }
 
 /* Four Card Decks */
+
+.card {
+  border-radius: 30px;
+}
+
 .card-title {
   font-weight: bold;
+  text-align:center;
+  font-size:30px;
 }
 
 .card-text {
   color: black;
+}
+
+.card-image {
+  width: 120px;
+  height: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.second {
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.third {
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.first{
+  margin-left: 130px;
+  margin-right: -40px;
+}
+
+.last{
+  margin-left: -55px;
+}
+
+.container-fluid{
+  margin-bottom: 50px;
+}
+
+/*Machine Learning Animation*/
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.animated.hinge {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
+/*the animation definition*/
+@-webkit-keyframes slideInRight {
+  0% {
+    -webkit-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+    visibility: visible
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+  }
+}
+@keyframes slideInRight {
+  0% {
+    -webkit-transform: translate3d(100%, 0, 0);
+    -ms-transform: translate3d(100%, 0, 0);
+    transform: translate3d(100%, 0, 0);
+    visibility: visible
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+  }
+}
+.slideInRight {
+  -webkit-animation-name: slideInRight;
+  animation-name: slideInRight
+}
+
+
+/*Past 10 Years*/
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.animated.hinge {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
+/*the animation definition*/
+@-webkit-keyframes slideInLeft {
+  0% {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+  }
+}
+@keyframes slideInLeft {
+  0% {
+    -webkit-transform: translate3d(-100%, 0, 0);
+    -ms-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+  }
+}
+.slideInLeft {
+  -webkit-animation-name: slideInLeft;
+  animation-name: slideInLeft
+}
+
+/*Covid and Leaflet*/
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.animated.hinge {
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+}
+/*the animation definition*/
+@-webkit-keyframes slideInDown {
+  0% {
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    visibility: visible
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+  }
+}
+@keyframes slideInDown {
+  0% {
+    -webkit-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+    visibility: visible
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0)
+  }
+}
+.slideInDown {
+  -webkit-animation-name: slideInDown;
+  animation-name: slideInDown
 }
