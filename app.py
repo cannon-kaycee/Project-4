@@ -5,6 +5,12 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import json
 from flask import Flask, jsonify, render_template,request
+import pickle
+import pandas as pd
+import csv
+
+model = pickle.load(open('model.pkl','rb'))
+
 
 engine = create_engine("sqlite:///Resources/california_housing.sqlite")
 Base = automap_base()
@@ -39,15 +45,25 @@ def predictions():
 
 @app.route('/predictions', methods=['POST'])
 def predict_data():
-    Year = request.form['Year']
-    Month = request.form.get('month')
-    County = request.form['County']
-    Property = request.form.get('property')
-    Days = request.form['Days']
-    return render_template("predictions.html", result=[Year, Month, County, Property, Days])
+
+    year = request.form['Year']
+    month = request.form.get('month')
+    county = request.form['County']
+    house_type = request.form.get('property')
+    DOM = request.form['Days']
     
-    # your code
-    # return a response
+    X=pd.read_csv('prediction.csv', sep=',')
+    prediction_df=X[0:0]
+    prediction_df.columns=prediction_df.columns.str.replace("region_", "")
+    prediction_df.columns=prediction_df.columns.str.replace(" County", "")
+    prediction_df.columns=prediction_df.columns.str.replace("property_type_", "")
+    d={'Year': year, 'Month':month, 'median_dom':DOM, f'{county}':1, f'{house_type}':1}
+    prediction_df=prediction_df.append(d, ignore_index=True)
+    prediction_df=prediction_df.fillna(value=0)
+    predictions = model.predict(prediction_df)
+    
+    return render_template("predictions.html", result=f'${predictions[0]}')
+    
 
 @app.route("/api/v1.0/seasonal")
 def seasonal():
