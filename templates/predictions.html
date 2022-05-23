@@ -68,33 +68,98 @@
 
 
 <body>
-    <p>
-        Hello!! Testing if it works on web! :p
-    </p>
-    <form action="{{ url_for('predict_data') }}" method="post">
+  <h1>Housing Price Prediction</h1>
+    <p class="ml_intro">
+To predict housing price, please enter the year, month, county, property-type, and days-on-markets.    </p>
+<div class="container-fluid test">
+  <div class="row">
+  <div class="col-4">
+  </div>
+  <div class="col-4">
+<form action="{{ url_for('predict_data') }}" method="post" class="form">
         Year 
         <br>
         <input type="text" name="Year">
         <br>
+        <br>
         Month
         <br>
-        <input type="text" name="Month">
+        <select id="month" name="month">   <option value="1">1</option>   <option value="2">2</option>   <option value="3">3</option>   <option value="4">4</option> <option value="5">5</option> <option value="6">6</option> <option value="7">7</option> <option value="8">8</option> <option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select>
+        <br>
         <br>
         County
         <br>
-        <input type="text" name="County">
+        <select id="text" name="County">   
+          <option value="Alameda">Alameda</option>   
+          <option value="Alpine">Alpine</option>   
+          <option value="Amador">Amador</option>   
+          <option value="Butte">Butte</option>
+          <option value="Calaveras">Calaveras</option>
+          <option value="Colusa">Colusa</option>
+          <option value="Contracosta">Contra Costa</option>
+          <option value="El Dorado">El Dorado</option>
+          <option value="Fresno">Fresno</option>
+          <option value="Glenn">Glenn</option>
+          <option value="Humboldt">Humboldt</option>
+          <option value="Inyo">Inyo</option>
+          <option value="Kern">Kern</option>
+          <option value="Kings">Kings</option>
+          <option value="Lake">Lake</option>
+          <option value="Lassen">Lassen</option>
+          <option value="Los Angeles">Los Angeles</option>
+          <option value="Madera">Madera</option>
+          <option value="Marin">Marin</option>
+          <option value="Mariposa">Mariposa</option>
+          <option value="Mendocino">Mendocino</option>
+          <option value="Merced">Merced</option>
+          <option value="Modoc">Modoc</option>
+          <option value="Mono">Mono</option>
+          <option value="Monterey">Monterey</option>
+          <option value="Napa">Napa</option>
+          <option value="Nevada">Nevada</option>
+          <option value="Orange">Orange</option>
+          <option value="Placer">Placer</option>
+          <option value="Riverside">Riverside</option>
+          <option value="Sacramento">Sacramento</option>
+          <option value="San Benito">San Benito</option>
+          <option value="San Bernardino">San Bernardino</option>
+          <option value="San Diego">San Diego</option>
+          <option value="San Francisco">San Francisco</option>
+          <option value="San Joaquin">San Joaquin</option>
+          <option value="San Luis Obispo">San Luis Obispo</option>
+          <option value="San Mateo">San Mateo</option>
+          <option value="Santa Barbara">Santa Barbara</option>
+          <option value="Santa Clara">Santa Clara</option>
+          <option value="Santa Cruz">Santa Cruz</option>
+          <option value="Shasta">Shasta</option>
+          <option value="Sierra">Sierra</option>
+          <option value="Solano">Solano</option>
+          <option value="Sonoma">Sonoma</option>
+          <option value="Stanislaus">Stanislaus</option>
+          <option value="Sutter">Sutter</option>
+          <option value="Tehama">Tehama</option>
+          <option value="Trinity">Trinity</option>
+          <option value="Tuolumne">Tuolumne</option>
+          <option value="Ventura">Ventura</option>
+          <option value="Yolo">Yolo</option>
+          <option value="Yuba">Yuba</option>
+        </select>
+        <br>
         <br>
         Property Type
         <br>
-        <input type="text" name="Property">
+        <select id="Property" name="property">   <option value="All Residential">All Residential</option>   <option value="Condo/Co-op">Condo/Co-op</option>  <option value="Multi-Family (2-4 Unit)">Multi-Family (2-4 Unit)</option> <option value="Single Family Residential">Single Family Residential</option> <option value="Townhouse">Townhouse</option> </select>
+        <br>
         <br>
         Days on the Market
         <br>
         <input type="text" name="Days">
         <br>
+        <br>
         <input type="submit">
            </form>
-    <p>
+      </div>
+    <p class='Results'>
         Results: {{result}}
     </p>
 </body>

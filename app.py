@@ -40,9 +40,9 @@ def predictions():
 @app.route('/predictions', methods=['POST'])
 def predict_data():
     Year = request.form['Year']
-    Month = request.form['Month']
+    Month = request.form.get('month')
     County = request.form['County']
-    Property = request.form['Property']
+    Property = request.form.get('property')
     Days = request.form['Days']
     return render_template("predictions.html", result=[Year, Month, County, Property, Days])
     
