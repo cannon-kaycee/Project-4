@@ -28,7 +28,7 @@
   </head>
 
 
-  <title>Machine Leanring Model</title>
+  <title>Machine Learning Model</title>
   <link href="{{url_for('static', filename='css/style.css')}}" rel="stylesheet">
 </head>
 
@@ -68,9 +68,10 @@
 
 
 <body>
-  <h1>Housing Price Prediction</h1>
+  <h1>Housing Price Predictor</h1>
     <p class="ml_intro">
 To predict housing price, please enter the year, month, county, property-type, and days-on-markets.    </p>
+<br>
 <div class="container-fluid test">
   <div class="row">
   <div class="col-4">
@@ -162,5 +163,29 @@ To predict housing price, please enter the year, month, county, property-type, a
     <p class='Results'>
         Results: {{result}}
     </p>
+    <div  class="container-fluid">  
+    <div class="row">
+    <div class="col-1">
+        </div> 
+    <div id="chart" class="col-10 chart">
+    </div>
+  </div>
 </body>
+<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+  <div class="col-md-4 d-flex align-items-center">
+    <a></a>
+    <span class="mb-3 mb-md-0 text-muted">© 2022 Company, Inc</span>
+  </div>
+
+  <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+    <li class="ms-3"><a class="text-muted" href="https://github.com/cannon-kaycee/Project-4.git"><img class="bi" width="50" height="30" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png"><use xlink:href="#github"></use></img></a></li>
+  </ul>
+</footer>
+
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script type='text/javascript'>
+  var graphs = {{graphJSON | safe}};
+  Plotly.plot('chart',graphs,{});
+</script>
+
 </html>

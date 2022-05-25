@@ -8,6 +8,9 @@ from flask import Flask, jsonify, render_template,request
 import pickle
 import pandas as pd
 import csv
+import numpy as np
+import plotly.express as px
+import plotly
 
 model = pickle.load(open('model.pkl','rb'))
 
@@ -52,7 +55,7 @@ def predict_data():
     house_type = request.form.get('property')
     DOM = request.form['Days']
     
-    X=pd.read_csv('prediction.csv', sep=',')
+    X=pd.read_csv('Resources/prediction.csv', sep=',')
     prediction_df=X[0:0]
     prediction_df.columns=prediction_df.columns.str.replace("region_", "")
     prediction_df.columns=prediction_df.columns.str.replace(" County", "")
@@ -62,7 +65,61 @@ def predict_data():
     prediction_df=prediction_df.fillna(value=0)
     predictions = model.predict(prediction_df)
     
-    return render_template("predictions.html", result=f'${predictions[0]}')
+
+    years=[2018,2019,2020,2021,2022]
+    sales_price2018=[]
+    sales_price2019=[]
+    sales_price2020=[]
+    sales_price2021=[]
+    sales_price2022=[]
+    sales_price=[]
+
+
+    ml_df=pd.read_csv('Resources/ml_modeled.csv', sep=',')
+    for x, y in ml_df.iterrows():
+        if  ((y[1]==2018) and (y[3]==f'{county} County')and (y[4]==house_type)):
+            sales_price2018.append(y[6])
+        elif ((y[1]==2019) and (y[3]==f'{county} County')and (y[4]==house_type)):
+            sales_price2019.append(y[6])
+        elif ((y[1]==2020) and (y[3]==f'{county} County')and (y[4]==house_type)):
+            sales_price2020.append(y[6])
+        elif ((y[1]==2021) and (y[3]==f'{county} County')and (y[4]==house_type)):
+            sales_price2021.append(y[6])
+        elif ((y[1]==2022) and (y[3]==f'{county} County')and (y[4]==house_type)):
+            sales_price2022.append(y[6])
+        else:
+            next
+
+    years.append(int(year))
+    price2018=round(np.mean(sales_price2018),0)
+    price2019=round(np.mean(sales_price2019),0)
+    price2020=round(np.mean(sales_price2020),0)
+    price2021=round(np.mean(sales_price2021),0) 
+    price2022=round(np.mean(sales_price2022),0)
+    
+    sales_price.append(price2018)
+    sales_price.append(price2019)
+    sales_price.append(price2020)
+    sales_price.append(price2021)
+    sales_price.append(price2022)
+    sales_price.append(predictions[0])
+    price_df=pd.DataFrame({"year": years, 'sales price':sales_price})
+    price_df=price_df.sort_values("year", ascending=True)
+
+    fig=px.line(price_df, x="year", y="sales price")
+    fig.update_layout(
+        title=f'{county} County Sales Prices for {house_type}', title_x=0.5,
+        xaxis_title="Year",
+        yaxis_title="sales price",
+        font=dict(
+            family="Courier New, monospace",
+            size=18,
+    )
+)
+
+    # fig.show()
+    graphJSON=json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return render_template("predictions.html", result=f'${predictions[0]}0', graphJSON=graphJSON)
     
 
 @app.route("/api/v1.0/seasonal")
