@@ -37,8 +37,8 @@ tile_Layer.addTo(CaliMap);
     className: 'popupSummary'
 
   })
-  .setLatLng([34.4783, -126.0179])
-  .setContent('<h4><strong>Key Statistics 2021 vs 2020</strong> (Single-Family)</h4> <hr> <ul style="list-style-type:square"> <li>Top-3 counties with the greatest increase in values were Alameda($257k), Santa Clara($252k), and Marin($254k).</li> <br> <li>Top-3 counties with the greatest increase in percentages were Alpine(28%), Calaveras(26%), and Alameda(24%).</li> <br> <li>Mariposa was the only county that experienced a drop in housing price YoY (-$135k, -22%).</li></ul>')
+  .setLatLng([34.4783, -126.3179])
+  .setContent('<h4><strong>Key Statistics 2021 vs 2020</strong> (Single-Family)</h4> <hr> <ul style="list-style-type:square"> <li>California housing price increased on avg. by $111k(+16%) from 2020 to 2021.</li> <br> <li>The Top-3 counties with the greatest increase in values were Alameda($257k), Santa Clara($252k), and Marin($254k).</li> <br> <li>The Top-3 counties with the greatest increase in percentages were Alpine(28%), Calaveras(26%), and Alameda(24%).</li> <br> <li>Mariposa was the only county that experienced a drop in housing price YoY (-$135k, -22%) due to River Fire incident in July 2021.</li></ul>')
   .openOn(CaliMap);
 
 // Create an overlays object to add to the layer control (top-right of map).
