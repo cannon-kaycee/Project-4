@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 import requests
 
-ml_df=pd.read_csv('ml_modeled.csv', sep=',')
+ml_df=pd.read_csv('Resources/ml_modeled.csv', sep=',')
 dummy_df=pd.get_dummies(ml_df)
 X=dummy_df.drop('median_sale_price', axis=1)
 y=dummy_df['median_sale_price'].round(-5)
