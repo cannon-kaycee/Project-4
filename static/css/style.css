@@ -101,7 +101,7 @@ html {
 
 .legend {
   padding: 15px;
-  font-family: Helvetica, serif;
+  font-family: Quicksand;
   font-size: 16px;
   font-weight: bold;
   line-height: 25px;
@@ -136,12 +136,13 @@ html {
   color: #039c4b ;
 }
 
+/* Marker Popups */
 .popupCustom .leaflet-popup-content-wrapper {
-  background:#2c3e50;
-  color:#fff;
+  background:black;
+  color:white;
   font-size:18px;
   line-height:24px;
-  font-family: Helvetica, serif;
+  font-family: Quicksand;
   }
 .popupCustom .leaflet-popup-content-wrapper a {
   color:rgba(255,255,255,0.5);
@@ -155,6 +156,31 @@ html {
   border-right:15px solid transparent;
   border-top:15px solid #2c3e50;
   }
+
+/* Key Statistics (Popup) */
+.popupSummary .leaflet-popup-content-wrapper {
+  background:white;
+  color:black;
+  font-size:18px;
+  line-height:24px;
+  font-family: Quicksand;
+  }
+.popupSummary .leaflet-popup-content-wrapper a {
+  color:rgba(255,255,255,0.5);
+  }
+.popupSummary .leaflet-popup-tip-container {
+  width:30px;
+  height:15px;
+  }
+.popupSummary .leaflet-popup-tip {
+  border-left:15px solid transparent;
+  border-right:15px solid transparent;
+  border-top:15px solid #2c3e50;
+  border: none;
+  box-shadow: none;
+  background: transparent;
+  }
+
 
 /* Four Card Decks */
 

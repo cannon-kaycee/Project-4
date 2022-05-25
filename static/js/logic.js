@@ -27,6 +27,20 @@ var CaliMap = L.map("map", {
 
 tile_Layer.addTo(CaliMap);
 
+  // Custom popup to the leaflet map (key findings)
+  var popupSummary = L.popup({
+    closeButton: false,
+    autoClose: false,
+    closeOnClick: false,
+    minWidth: 600,
+    maxWidth: 600,
+    className: 'popupSummary'
+
+  })
+  .setLatLng([34.4783, -126.0179])
+  .setContent('<h4>Key Statistics 2021 vs 2020 (Single-Family)</h4> <hr> <ul style="list-style-type:square"> <li>Top-3 counties with the greatest increase in values were Alameda($257k), Santa Clara($252k), and Marin($254k).</li> <br> <li>Top-3 counties with the greatest increase in percentages were Alpine(28%), Calaveras(26%), and Alameda(24%).</li> <br> <li>Mariposa was the only county that experienced a drop in housing price YoY (-$135k, -22%).</li></ul>')
+  .openOn(CaliMap);
+
 // Create an overlays object to add to the layer control (top-right of map).
 var overlays = {
   "All Residential": layers.ALL_RESIDENTIAL,
@@ -133,15 +147,13 @@ d3.json(CaliHousing).then(function (data) {
      
         // Create Popup contents
         var customPopup = `<p>County Name: ${countyName}</p> <hr> 
-        <p>Property Type: ${type}</p> <hr> <p>Avg. Median Sales Price: $ 
+        <p>Property Type: ${type}</p> <hr> <p>Avg. Median Sales Price: <br> $ 
         ${price.toLocaleString("en-US")} (YoY: ${priceYoY.toFixed()}%)</p> <hr> <p>Year: ${year}</p>`
     
         // Specify popup options
         var customOptions = 
         {
-          'maxwidth': '1000',
-          'width' : '500',
-          'className' : 'popupCustom'
+          'className': 'popupCustom'
         }
     
         // Add the new marker to the appropriate layer.
