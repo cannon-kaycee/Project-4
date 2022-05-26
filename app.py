@@ -119,7 +119,7 @@ def predict_data():
 
     # fig.show()
     graphJSON=json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return render_template("predictions.html", result=f'${predictions[0]}0', graphJSON=graphJSON)
+    return render_template("predictions.html", result=f'${"{:,}".format(int(predictions[0]))}', graphJSON=graphJSON)
     
 
 @app.route("/api/v1.0/seasonal")
