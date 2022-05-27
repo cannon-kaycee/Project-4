@@ -8,5 +8,8 @@ After taking a broad look at the housing data by county over the last decade, we
 
 
 
+On our Leaflet Map page, housing properties in each county are displayed throughout a map of California and divided by property according to the legend in the bottom right corner and the hamburger dropdown menu. When hovering over any property, there is also information about the average median sales price of that county in 2021 and the year over year percentage change in the average median sales price. Most counties have positive YoY values meaning that there were price increases in most counties from 2020 to 2021 which was already confirmed through the Tableau storyboard's. 
 
-On our Leaflet Map page, 
+Lastly, OrangeFin created its own machine learning predictor to predict future housing prices based on year, month, county, property type, and number of days on the market. The data used for our project included averaged values for each county instead of prices for individual properties which greatly decreased the performance of our random forest model upon initial attempts. In order to makeup for the lack of quality data, we rounded all of the sales prices to the nearest hundred thousand for better labeling which drastically increased the accuracy of our model to around 66%. Our model predicted many decreases in housing prices over time which seems to go against the trends that had been observed thoroughly in Tableau. Once again, this could be due to the imperfections ofthe random forest model. However, with the fact that almost 650,000 people have left California in 2020 alone it is possible that prices may drop ors tabilize as the demand for housing decreases closer to the level of the supply. 
+
+
