@@ -7,6 +7,7 @@ import pickle
 import requests
 
 ml_df=pd.read_csv('Resources/ml_modeled.csv', sep=',')
+ml_df=ml_df.drop('Index', axis=1)
 dummy_df=pd.get_dummies(ml_df)
 X=dummy_df.drop('median_sale_price', axis=1)
 y=dummy_df['median_sale_price'].round(-5)
@@ -19,6 +20,6 @@ clf = RandomForestClassifier(random_state=41, n_estimators=100).fit(X_train_scal
 pickle.dump(clf, open('model.pkl','wb'))
 
 model=pickle.load(open('model.pkl','rb'))
-test=[[20223,6,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]]
+test=[[20223,6,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0]]
 print(model.predict(test))
 

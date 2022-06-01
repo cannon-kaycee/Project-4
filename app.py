@@ -11,6 +11,7 @@ import csv
 import numpy as np
 import plotly.express as px
 import plotly
+from model import scaler
 
 model = pickle.load(open('model.pkl','rb'))
 
@@ -57,13 +58,15 @@ def predict_data():
     
     X=pd.read_csv('Resources/prediction.csv', sep=',')
     prediction_df=X[0:0]
+    prediction_df=prediction_df.drop('Index', axis=1)
     prediction_df.columns=prediction_df.columns.str.replace("region_", "")
     prediction_df.columns=prediction_df.columns.str.replace(" County", "")
     prediction_df.columns=prediction_df.columns.str.replace("property_type_", "")
     d={'Year': year, 'Month':month, 'median_dom':DOM, f'{county}':1, f'{house_type}':1}
     prediction_df=prediction_df.append(d, ignore_index=True)
     prediction_df=prediction_df.fillna(value=0)
-    predictions = model.predict(prediction_df)
+    scaled_prediction_df=scaler.transform(prediction_df)
+    predictions = model.predict(scaled_prediction_df)
     
 
     years=[2018,2019,2020,2021,2022]
